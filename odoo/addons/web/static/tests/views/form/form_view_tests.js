@@ -3416,7 +3416,7 @@ QUnit.module("Views", (hooks) => {
             "web_read", // reload (successfully clicked on p)
             "some_method",
         ]);
-        assert.verifyErrors(["Odoo Server Error"]);
+        assert.verifyErrors(["NIRVAGI SERVER ERROR"]);
     });
 
     QUnit.test("buttons classes in form view", async function (assert) {
@@ -11064,7 +11064,7 @@ QUnit.module("Views", (hooks) => {
         };
         await click(target.querySelector("button.p"));
 
-        assert.verifyErrors(["Odoo Server Error"]);
+        assert.verifyErrors(["NIRVAGI SERVER ERROR"]);
 
         // edit the new row again and set a many2one value
         await click(

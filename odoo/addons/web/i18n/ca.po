@@ -5181,7 +5181,7 @@ msgstr "Odoo S.A."
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #, python-format
-msgid "Odoo Server Error"
+msgid "NIRVAGI SERVER ERROR"
 msgstr "Error del servidor Odoo"
 
 #. module: web
@@ -8115,7 +8115,7 @@ msgstr ""
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Your Odoo session expired. The current page is about to be refreshed."
+msgid "Your Tarcin session expired. The current page is about to be refreshed."
 msgstr ""
 "La vostra sessió Odoo ha caducat. La pàgina actual està a punt de ser "
 "refrescada."

@@ -140,7 +140,7 @@ msgstr ""
 #: code:addons/mail_bot/models/res_users.py:0
 #, python-format
 msgid ""
-"Odoo's chat helps employees collaborate efficiently. I'm here to help you "
+"Tarcin's chat helps employees collaborate efficiently. I'm here to help you "
 "discover its features."
 msgstr ""
 

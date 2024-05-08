@@ -62,7 +62,7 @@ QUnit.test("counter is taking into account failure notification", async () => {
     await contains(".o-mail-MessagingMenu-counter", { text: "1" });
 });
 
-QUnit.test("rendering with OdooBot has a request (default)", async (assert) => {
+QUnit.test("rendering with TarcinBot has a request (default)", async (assert) => {
     patchBrowserNotification("default");
     await start();
     await contains(".o-mail-MessagingMenu-counter");
@@ -74,7 +74,7 @@ QUnit.test("rendering with OdooBot has a request (default)", async (assert) => {
             .data("src")
             .includes("/web/image?field=avatar_128&id=2&model=res.partner")
     );
-    await contains(".o-mail-NotificationItem", { text: "OdooBot has a request" });
+    await contains(".o-mail-NotificationItem", { text: "TarcinBot has a request" });
 });
 
 QUnit.test("rendering without OdooBot has a request (denied)", async () => {
@@ -99,7 +99,7 @@ QUnit.test("respond to notification prompt (denied)", async () => {
     await click(".o_menu_systray i[aria-label='Messages']");
     await click(".o-mail-NotificationItem");
     await contains(".o_notification.border-warning", {
-        text: "Odoo will not send notifications on this device.",
+        text: "Nirvagi will not send notifications on this device.",
     });
     await contains(".o-mail-MessagingMenu-counter", { count: 0 });
     await click(".o_menu_systray i[aria-label='Messages']");
@@ -112,15 +112,15 @@ QUnit.test("respond to notification prompt (granted)", async () => {
     await click(".o_menu_systray i[aria-label='Messages']");
     await click(".o-mail-NotificationItem");
     await contains(".o_notification.border-success", {
-        text: "Odoo will send notifications on this device!",
+        text: "Nirvagi will send notifications on this device!",
     });
 });
 
-QUnit.test("no 'OdooBot has a request' in mobile app", async () => {
+QUnit.test("no 'TarcinBot has a request' in mobile app", async () => {
     patchBrowserNotification("default");
     // simulate Android Odoo App
     patchWithCleanup(browser.navigator, {
-        userAgent: "Chrome/0.0.0 Android (OdooMobile; Linux; Android 13; Odoo TestSuite)",
+        userAgent: "Chrome/0.0.0 Android (NirvagiMobile; Linux; Android 13; Nirvagi TestSuite)",
     });
     await start();
     await click(".o_menu_systray i[aria-label='Messages']");
@@ -166,11 +166,11 @@ QUnit.test("rendering with PWA installation request", async (assert) => {
     );
     assert.strictEqual(
         target.querySelector(".o-mail-NotificationItem-name").textContent,
-        "OdooBot has a suggestion"
+        "TarcinBot has a suggestion"
     );
     assert.strictEqual(
         target.querySelector(".o-mail-NotificationItem-text").textContent,
-        "Come here often? Install Odoo on your device!"
+        "Come here often? Install Nirvagi on your device!"
     );
 
     await click(".o-mail-NotificationItem a.btn-primary");
@@ -1121,5 +1121,5 @@ QUnit.test("can open messaging menu even if messaging is not initialized", async
     await click(".o_menu_systray i[aria-label='Messages']");
     await contains(".o-mail-DiscussSystray", { text: "No conversation yet..." });
     def.resolve();
-    await contains(".o-mail-NotificationItem", { text: "OdooBot has a request" });
+    await contains(".o-mail-NotificationItem", { text: "TarcinBot has a request" });
 });

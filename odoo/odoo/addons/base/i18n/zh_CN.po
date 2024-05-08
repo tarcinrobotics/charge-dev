@@ -38061,7 +38061,7 @@ msgstr "通过编辑在设置/用户菜单下的新建用户，你将能够定�
 #: code:addons/base/models/ir_mail_server.py:0
 #, python-format
 msgid ""
-"Your Odoo Server does not support SMTP-over-SSL. You could use STARTTLS "
+"Your Tarcin Server does not support SMTP-over-SSL. You could use STARTTLS "
 "instead. If SSL is needed, an upgrade to Python 2.6 on the server-side "
 "should do the trick."
 msgstr ""

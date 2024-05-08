@@ -1,6 +1,6 @@
 # Sign the Odoo CLA
 
-In order for your contribution to Odoo to be accepted, you have to sign the
+In order for your contribution to Nirvagi to be accepted, you have to sign the
 Odoo Contributor License Agreement (CLA). More information about this
 requirement is explained in the [FAQ](#faq).
 

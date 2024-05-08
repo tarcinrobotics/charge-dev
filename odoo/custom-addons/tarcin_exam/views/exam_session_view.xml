@@ -61,7 +61,7 @@
                             </group>
                         </group>
                         <group string="Exam(s)">
-                            <field name="exam_ids" colspan="2" readonly="1" nolabel="1">
+                            <field name="exam_ids" colspan="2" nolabel="1">
                                 <tree string="Exam">
                                     <field name="name"/>
                                     <field name="subject_id"/>

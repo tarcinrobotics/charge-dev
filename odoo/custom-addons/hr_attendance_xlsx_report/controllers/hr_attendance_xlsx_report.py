@@ -50,7 +50,7 @@ class XLSXReportController(http.Controller):
             se = serialize_exception(e)
             error = {
                 'code': 200,
-                'message': 'Odoo Server Error',
+                'message': 'NIRVAGI SERVER ERROR',
                 'data': se
             }
             return request.make_response(html_escape(json.dumps(error)))

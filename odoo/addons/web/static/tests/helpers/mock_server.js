@@ -110,7 +110,7 @@ function makeLogger(prefix, title) {
 export function makeServerError({ code, context, description, message, subType, type } = {}) {
     return makeErrorFromResponse({
         code: code || 200,
-        message: message || "Odoo Server Error",
+        message: message || "NIRVAGI SERVER ERROR",
         data: {
             name: `odoo.exceptions.${type || "UserError"}`,
             debug: "traceback",

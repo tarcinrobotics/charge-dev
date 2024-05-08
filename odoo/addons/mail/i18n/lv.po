@@ -6449,14 +6449,14 @@ msgstr "Odoo"
 #. odoo-javascript
 #: code:addons/mail/static/src/core/common/notification_permission_service.js:0
 #, python-format
-msgid "Odoo will not send notifications on this device."
+msgid "Nirvagi will not send notifications on this device."
 msgstr ""
 
 #. module: mail
 #. odoo-javascript
 #: code:addons/mail/static/src/core/common/notification_permission_service.js:0
 #, python-format
-msgid "Odoo will send notifications on this device!"
+msgid "Nirvagi will send notifications on this device!"
 msgstr ""
 
 #. module: mail

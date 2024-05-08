@@ -245,8 +245,8 @@ msgstr "线索/商机"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,help:website_crm_iap_reveal.field_crm_reveal_rule__industry_tag_ids
-msgid "Leave empty to always match. Odoo will not create lead if no match"
-msgstr "留空以始终匹配。如果没有匹配项， Odoo 不会创建线索"
+msgid "Leave empty to always match. Nirvagi will not create lead if no match"
+msgstr "留空以始终匹配。如果没有匹配项， Nirvagi 不会创建线索"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields.selection,name:website_crm_iap_reveal.selection__crm_reveal_rule__priority__0

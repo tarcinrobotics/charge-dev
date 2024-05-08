@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "OdooBot - HR",
+    'name': "TarcinBot - HR",
     'summary': """Bridge module between hr and mailbot.""",
-    'description': """This module adds the OdooBot state and notifications in the user form modified by hr.""",
-    'website': "https://www.odoo.com/app/discuss",
+    'description': """This module adds the TarcinBot state and notifications in the user form modified by hr.""",
+    'website': "https://tarcin.in",
     'category': 'Productivity/Discuss',
     'version': '1.0',
     'depends': ['mail_bot', 'hr'],

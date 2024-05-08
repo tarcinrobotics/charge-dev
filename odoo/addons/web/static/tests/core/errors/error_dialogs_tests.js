@@ -262,11 +262,11 @@ QUnit.test("SessionExpiredDialog", async (assert) => {
     assert.containsOnce(target, ".o_dialog");
     assert.strictEqual(
         target.querySelector("header .modal-title").textContent,
-        "Odoo Session Expired"
+        "Tarcin Session Expired"
     );
     assert.strictEqual(
         target.querySelector("main p").textContent,
-        " Your Odoo session expired. The current page is about to be refreshed. "
+        " Your Tarcin session expired. The current page is about to be refreshed. "
     );
     const footerButton = target.querySelector(".o_dialog footer button");
     assert.strictEqual(footerButton.textContent, "Close");

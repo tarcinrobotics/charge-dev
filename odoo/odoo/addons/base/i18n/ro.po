@@ -32331,7 +32331,7 @@ msgstr "Puteți defini drepturi suplimentare de acces prin editarea noului user 
 #. odoo-python
 #: code:addons/base/models/ir_mail_server.py:0
 #, python-format
-msgid "Your Odoo Server does not support SMTP-over-SSL. You could use STARTTLS instead. If SSL is needed, an upgrade to Python 2.6 on the server-side should do the trick."
+msgid "Your Tarcin Server does not support SMTP-over-SSL. You could use STARTTLS instead. If SSL is needed, an upgrade to Python 2.6 on the server-side should do the trick."
 msgstr "Serverul dumneavoastră Odoo nu acceptă SMTP-over-SSL. Puteți folosi STARTTLS în schimb. Dacă este necesar SSL, o actualizare la Python 2.6 pe partea de server ar trebui să facă treaba."
 
 #. module: base

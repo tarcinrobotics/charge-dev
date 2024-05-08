@@ -6440,15 +6440,15 @@ msgstr "Odoo"
 #. odoo-javascript
 #: code:addons/mail/static/src/core/common/notification_permission_service.js:0
 #, python-format
-msgid "Odoo will not send notifications on this device."
-msgstr "Odooはこのデバイスで通知を送信しません。"
+msgid "Nirvagi will not send notifications on this device."
+msgstr "Nirvagiはこのデバイスで通知を送信しません。"
 
 #. module: mail
 #. odoo-javascript
 #: code:addons/mail/static/src/core/common/notification_permission_service.js:0
 #, python-format
-msgid "Odoo will send notifications on this device!"
-msgstr "Odooはこのデバイスで通知を送信します！"
+msgid "Nirvagi will send notifications on this device!"
+msgstr "Nirvagiはこのデバイスで通知を送信します！"
 
 #. module: mail
 #: model:ir.model.fields.selection,name:mail.selection__res_config_settings__tenor_content_filter__off

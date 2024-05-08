@@ -6630,22 +6630,22 @@ msgstr "Количество недоставленных сообщений"
 #. module: mail
 #: model_terms:ir.ui.view,arch_db:mail.mail_notification_layout
 #: model_terms:ir.ui.view,arch_db:mail.mail_notification_light
-msgid "Odoo"
-msgstr "Odoo"
+msgid "Nirvagi"
+msgstr "Nirvagi"
 
 #. module: mail
 #. odoo-javascript
 #: code:addons/mail/static/src/core/common/notification_permission_service.js:0
 #, python-format
-msgid "Odoo will not send notifications on this device."
-msgstr "Odoo не будет отправлять уведомления на этом устройстве."
+msgid "Nirvagi will not send notifications on this device."
+msgstr "Nirvagi не будет отправлять уведомления на этом устройстве."
 
 #. module: mail
 #. odoo-javascript
 #: code:addons/mail/static/src/core/common/notification_permission_service.js:0
 #, python-format
-msgid "Odoo will send notifications on this device!"
-msgstr "Odoo будет отправлять уведомления на это устройство!"
+msgid "Nirvagi will send notifications on this device!"
+msgstr "Nirvagi будет отправлять уведомления на это устройство!"
 
 #. module: mail
 #: model:ir.model.fields.selection,name:mail.selection__res_config_settings__tenor_content_filter__off

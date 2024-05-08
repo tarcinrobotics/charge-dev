@@ -1037,7 +1037,7 @@ QUnit.module("Views", ({ beforeEach }) => {
                         message: {
                             code: 200,
                             data: {},
-                            message: "Odoo server error",
+                            message: "NIRVAGI SERVER ERROR",
                         },
                         event: new Event("server_error"),
                     });

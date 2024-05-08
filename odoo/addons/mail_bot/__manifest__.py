@@ -2,11 +2,11 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'OdooBot',
+    'name': 'TarcinBot',
     'version': '1.2',
     'category': 'Productivity/Discuss',
-    'summary': 'Add OdooBot in discussions',
-    'website': 'https://www.odoo.com/app/discuss',
+    'summary': 'Add Tarcinbot in discussions',
+    'website': 'https://tarcin.in',
     'depends': ['mail'],
     'auto_install': True,
     'installable': True,

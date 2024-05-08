@@ -5110,7 +5110,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #, python-format
-msgid "Odoo Server Error"
+msgid "NIRVAGI SERVER ERROR"
 msgstr ""
 
 #. module: web

@@ -374,7 +374,7 @@ QUnit.test("mentions are kept when editing message", async () => {
 QUnit.test("can add new mentions when editing message", async () => {
     const pyEnv = await startServer();
     const partnerId = pyEnv["res.partner"].create({
-        email: "testpartner@odoo.com",
+        email: "contact@tarcinrobotic.in",
         name: "TestPartner",
     });
     const channelId = pyEnv["discuss.channel"].create({

@@ -46,7 +46,7 @@
                         <div class="row">
                             <div class="col-lg-8 mt-4 mt-lg-0">
                                 <p>
-                                    Contact us about anything related to our company or services.<br/>
+                                    Contact us about anything related to Tarcin or services.<br/>
                                     We'll do our best to get back to you as soon as possible.
                                 </p>
                                 <section class="s_website_form" data-vcss="001" data-snippet="s_website_form">
@@ -239,7 +239,7 @@
                                             <p>The website will not work properly if you reject or discard those cookies.</p>
                                         </td>
                                         <td>
-                                            session_id (Odoo)<br/>
+                                            session_id (Nirvagi)<br/>
                                         </td>
                                     </tr>
                                     <tr>
@@ -251,7 +251,7 @@
                                             <p>Your experience may be degraded if you discard those cookies, but the website will still work.</p>
                                         </td>
                                         <td>
-                                            frontend_lang (Odoo)
+                                            frontend_lang (Nirvagi)
                                         </td>
                                     </tr>
                                     <tr>
@@ -264,10 +264,10 @@
                                             <p>We may not be able to provide the best service to you if you reject those cookies, but the website will work.</p>
                                         </td>
                                         <td>
-                                            im_livechat_previous_operator_pid (Odoo)<br/>
-                                            utm_campaign (Odoo)<br/>
-                                            utm_source (Odoo)<br/>
-                                            utm_medium (Odoo)
+                                            im_livechat_previous_operator_pid (Nirvagi)<br/>
+                                            utm_campaign (Nirvagi)<br/>
+                                            utm_source (Nirvagi)<br/>
+                                            utm_medium (Nirvagi)
                                         </td>
                                     </tr>
                                     <tr>
@@ -391,7 +391,7 @@
     <!-- Configurator page features -->
     <record id="feature_page_about_us" model="website.configurator.feature">
         <field name="name">About Us</field>
-        <field name="description">Info and stats about your company</field>
+        <field name="description">Info and status about your company</field>
         <field name="iap_page_code">about_us</field>
         <field name="sequence">1</field>
         <field name="page_view_id" ref="aboutus"/>

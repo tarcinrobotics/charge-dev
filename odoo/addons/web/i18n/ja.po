@@ -5156,7 +5156,7 @@ msgstr "Odoo S.A."
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #, python-format
-msgid "Odoo Server Error"
+msgid "NIRVAGI SERVER ERROR"
 msgstr "Odooサーバーエラー"
 
 #. module: web
@@ -8071,7 +8071,7 @@ msgstr "ヘッダやフッタ、またテーブル分割が正しく表示され
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Your Odoo session expired. The current page is about to be refreshed."
+msgid "Your Tarcin session expired. The current page is about to be refreshed."
 msgstr "Odooセッションの有効期限が切れました。現在のページがリフレッシュされようとしています。"
 
 #. module: web

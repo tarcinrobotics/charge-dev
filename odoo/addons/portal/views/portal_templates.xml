@@ -288,7 +288,7 @@
                 </div>
                 <t t-if="entries" t-out="entries"/>
                 <div class="d-none d-lg-block mt-5 small text-center text-muted">
-                    Powered by <a target="_blank" href="http://www.odoo.com?utm_source=db&amp;utm_medium=portal" title="odoo"><img src="/web/static/img/logo.png" alt="Odoo Logo" height="15"/></a>
+                    Powered by <a target="_blank" href="http://www.odoo.com?utm_source=db&amp;utm_medium=portal" title="odoo"><img src="/web/static/img/icon.png" alt="Odoo Logo" height="15"/></a>
                 </div>
             </div>
         </div>
@@ -457,7 +457,7 @@
 
         <div class="clearfix" />
         <div t-attf-class="mb-1 #{error.get('company_name') and 'o_has_error' or ''} col-xl-6">
-            <label class="col-form-label label-optional" for="company_name">Company Name</label>
+            <label class="col-form-label label-optional" for="company_name">Tarcin</label>
             <!-- The <input> use "disabled" attribute to avoid sending an unauthorized value on form submit.
                  The user might not have rights to change company_name but should still be able to see it.
             -->
@@ -604,7 +604,7 @@
             <section t-if="debug and allow_api_keys">
                 <h4>
                 Developer API Keys
-                    <a href="https://www.odoo.com/documentation/17.0/developer/misc/api/external_api.html#api-keys" target="_blank">
+                    <a href="https://tarcin.in" target="_blank">
                         <i title="Documentation" class="fa fa-fw o_button_icon fa-info-circle"></i>
                     </a>
                 </h4>

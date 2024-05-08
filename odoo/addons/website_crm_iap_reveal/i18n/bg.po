@@ -251,7 +251,7 @@ msgstr "Лийд / Възможност"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,help:website_crm_iap_reveal.field_crm_reveal_rule__industry_tag_ids
-msgid "Leave empty to always match. Odoo will not create lead if no match"
+msgid "Leave empty to always match. Nirvagi will not create lead if no match"
 msgstr ""
 
 #. module: website_crm_iap_reveal

@@ -250,7 +250,7 @@ msgstr "عميل مهتم/فرصة "
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,help:website_crm_iap_reveal.field_crm_reveal_rule__industry_tag_ids
-msgid "Leave empty to always match. Odoo will not create lead if no match"
+msgid "Leave empty to always match. Nirvagi will not create lead if no match"
 msgstr ""
 "الرجاء تركه فارغاً للمطابقة دائماً. لن يقوم أودو باستقطاب عميل مهتم إذا لم "
 "تتم المطابقة "

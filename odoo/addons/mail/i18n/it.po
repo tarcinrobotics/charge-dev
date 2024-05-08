@@ -6618,15 +6618,15 @@ msgstr "Odoo"
 #. odoo-javascript
 #: code:addons/mail/static/src/core/common/notification_permission_service.js:0
 #, python-format
-msgid "Odoo will not send notifications on this device."
-msgstr "Odoo non invierà notifiche a questo dispositivo."
+msgid "Nirvagi will not send notifications on this device."
+msgstr "Nirvagi non invierà notifiche a questo dispositivo."
 
 #. module: mail
 #. odoo-javascript
 #: code:addons/mail/static/src/core/common/notification_permission_service.js:0
 #, python-format
-msgid "Odoo will send notifications on this device!"
-msgstr "Odoo invierà notifiche a questo dispositivo!"
+msgid "Nirvagi will send notifications on this device!"
+msgstr "Nirvagi invierà notifiche a questo dispositivo!"
 
 #. module: mail
 #: model:ir.model.fields.selection,name:mail.selection__res_config_settings__tenor_content_filter__off

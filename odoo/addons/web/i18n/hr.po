@@ -3604,7 +3604,7 @@ msgstr "Odoo S.A."
 #. odoo-javascript
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #, python-format
-msgid "Odoo Server Error"
+msgid "NIRVAGI SERVER ERROR"
 msgstr ""
 
 #. module: web
@@ -5970,7 +5970,7 @@ msgstr "Ažurirajte svoju verziju Wkhtmltopdf-a barem u verziju 0.12.0 kako bi s
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Your Odoo session expired. The current page is about to be refreshed."
+msgid "Your Tarcin session expired. The current page is about to be refreshed."
 msgstr "Vaša Odoo sesija je istekla. Trenutno otvorena stranica biti će osvježena."
 
 #. module: web

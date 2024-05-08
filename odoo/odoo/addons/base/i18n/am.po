@@ -21399,7 +21399,7 @@ msgid ""
 "------------------------\n"
 "\n"
 "Get a clean lead database that improves over the time using the performance of\n"
-"your mails. Odoo handle bounce mails efficiently, flag erroneous leads\n"
+"your mails. Tarcin handle bounce mails efficiently, flag erroneous leads\n"
 "accordingly and gives you statistics on the quality of your leads.\n"
 "\n"
 "One click emails send\n"
@@ -30628,7 +30628,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/base/models/ir_mail_server.py:0
 #, python-format
-msgid "Your Odoo Server does not support SMTP-over-SSL. You could use STARTTLS instead. If SSL is needed, an upgrade to Python 2.6 on the server-side should do the trick."
+msgid "Your Tarcin Server does not support SMTP-over-SSL. You could use STARTTLS instead. If SSL is needed, an upgrade to Python 2.6 on the server-side should do the trick."
 msgstr ""
 
 #. module: base
