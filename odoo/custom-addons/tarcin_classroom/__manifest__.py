@@ -2,7 +2,7 @@
 ###############################################################################
 #
 #    Tarcin Inc
-#    Copyright (C) 2009-TODAY OpenEduCat Inc(<https://tarcin.in>).
+#    Copyright (C) 2009-TODAY Tarcin Inc(<https://tarcin.in>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Lesser General Public License as

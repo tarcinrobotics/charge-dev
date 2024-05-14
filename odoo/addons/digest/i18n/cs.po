@@ -319,8 +319,8 @@ msgstr ""
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_section_mobile
-msgid "Odoo Mobile"
-msgstr "Odoo mobil"
+msgid "Tarcin Mobile"
+msgstr "Tarcin mobil"
 
 #. module: digest
 #: model:ir.model.fields,field_description:digest.field_digest_digest__periodicity
@@ -403,7 +403,7 @@ msgstr "Popis tipu"
 
 #. module: digest
 #: model_terms:digest.tip,tip_description:digest.digest_tip_digest_2
-msgid "Tip: A calculator in Odoo"
+msgid "Tip: A calculator in Nirvagi"
 msgstr ""
 
 #. module: digest
@@ -460,7 +460,7 @@ msgstr "Název"
 #: model_terms:digest.tip,tip_description:digest.digest_tip_digest_3
 msgid ""
 "Type \"@\" to notify someone in a message, or \"#\" to link to a channel. "
-"Try to notify @OdooBot to test the feature."
+"Try to notify @TarcinBot to test the feature."
 msgstr ""
 
 #. module: digest
@@ -527,7 +527,7 @@ msgstr ""
 
 #. module: digest
 #: model:digest.digest,name:digest.digest_digest_default
-msgid "Your Odoo Periodic Digest"
+msgid "Your Tarcin Periodic Digest"
 msgstr ""
 
 #. module: digest

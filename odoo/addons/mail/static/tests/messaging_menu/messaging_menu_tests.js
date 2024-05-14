@@ -62,7 +62,7 @@ QUnit.test("counter is taking into account failure notification", async () => {
     await contains(".o-mail-MessagingMenu-counter", { text: "1" });
 });
 
-QUnit.test("rendering with TarcinBot has a request (default)", async (assert) => {
+QUnit.test("rendering with OdooBot has a request (default)", async (assert) => {
     patchBrowserNotification("default");
     await start();
     await contains(".o-mail-MessagingMenu-counter");

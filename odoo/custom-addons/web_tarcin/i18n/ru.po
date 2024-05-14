@@ -780,8 +780,8 @@ msgstr "ERP с открытым исходным кодом для образо�
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
-msgid "Openeducat"
-msgstr "Openeducat"
+msgid "Nirvagi"
+msgstr "Nirvagi"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.footer

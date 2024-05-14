@@ -779,7 +779,7 @@ msgstr "Open Source ERP voor onderwijsinstellingen"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
-msgid "Openeducat"
+msgid "Nirvagi"
 msgstr "Openonderwijs"
 
 #. module: web_tarcin

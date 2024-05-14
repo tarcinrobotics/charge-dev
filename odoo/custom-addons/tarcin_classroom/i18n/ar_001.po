@@ -17,7 +17,7 @@ msgstr ""
 msgid "Active"
 msgstr "نشيط"
 
-#. module: openeducat_classroom
+#. module: tarcin_classroom
 #: model_terms:ir.ui.view,arch_db:openeducat_classroom.view_op_classroom_form
 #: model_terms:ir.ui.view,arch_db:openeducat_classroom.view_op_classroom_search
 msgid "Archived"
@@ -29,7 +29,7 @@ msgstr "مؤرشف"
 msgid "Asset"
 msgstr "أصل"
 
-#. module: openeducat_classroom
+#. module: tarcin_classroom
 #: model_terms:ir.ui.view,arch_db:openeducat_classroom.view_op_classroom_form
 msgid "Asset Management"
 msgstr "إدارة الأصول"
@@ -44,7 +44,7 @@ msgstr "حزمة"
 msgid "Capacity"
 msgstr "سعة"
 
-#. module: openeducat_classroom
+#. module: tarcin_classroom
 #: model:ir.ui.menu,name:openeducat_classroom.menu_op_school_config_class_room
 msgid "Class Room Management"
 msgstr "إدارة الغرف الصفية"

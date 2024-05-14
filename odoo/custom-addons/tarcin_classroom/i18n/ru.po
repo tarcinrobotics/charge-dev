@@ -12,50 +12,50 @@ msgstr ""
 "Content-Transfer-Encoding:"
 "Plural-Forms:"
 
-#. module: openeducat_classroom
-#: model:ir.model.fields,field_description:openeducat_classroom.field_op_classroom__active
+#. module: tarcin_classroom
+#: model:ir.model.fields,field_description:tarcin_classroom.field_op_classroom__active
 msgid "Active"
 msgstr "Активный"
 
-#. module: openeducat_classroom
-#: model_terms:ir.ui.view,arch_db:openeducat_classroom.view_op_classroom_form
-#: model_terms:ir.ui.view,arch_db:openeducat_classroom.view_op_classroom_search
+#. module: tarcin_classroom
+#: model_terms:ir.ui.view,arch_db:tarcin_classroom.view_op_classroom_form
+#: model_terms:ir.ui.view,arch_db:tarcin_classroom.view_op_classroom_search
 msgid "Archived"
 msgstr "В архиве"
 
-#. module: openeducat_classroom
-#: model:ir.model.fields,field_description:openeducat_classroom.field_op_asset__asset_id
-#: model:ir.model.fields,field_description:openeducat_classroom.field_op_classroom__asset_line
+#. module: tarcin_classroom
+#: model:ir.model.fields,field_description:tarcin_classroom.field_op_asset__asset_id
+#: model:ir.model.fields,field_description:tarcin_classroom.field_op_classroom__asset_line
 msgid "Asset"
 msgstr "Объект"
 
-#. module: openeducat_classroom
+#. module: tarcin_classroom
 #: model_terms:ir.ui.view,arch_db:openeducat_classroom.view_op_classroom_form
 msgid "Asset Management"
 msgstr "Управление активами"
 
-#. module: openeducat_classroom
+#. module: tarcin_classroom
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_classroom__batch_id
 msgid "Batch"
 msgstr "Партия"
 
-#. module: openeducat_classroom
+#. module: tarcin_classroom
 #: model_terms:ir.ui.view,arch_db:openeducat_classroom.view_op_classroom_search
 msgid "Capacity"
 msgstr "Емкость"
 
-#. module: openeducat_classroom
+#. module: tarcin_classroom
 #: model:ir.ui.menu,name:openeducat_classroom.menu_op_school_config_class_room
 msgid "Class Room Management"
 msgstr "Классное руководство"
 
-#. module: openeducat_classroom
+#. module: tarcin_classroom
 #: model:ir.actions.act_window,name:openeducat_classroom.act_open_op_classroom_view
 #: model:ir.ui.menu,name:openeducat_classroom.menu_op_classroom_sub
 msgid "Class Rooms"
 msgstr "Классные комнаты"
 
-#. module: openeducat_classroom
+#. module: tarcin_classroom
 #: model:ir.model,name:openeducat_classroom.model_op_classroom
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_facility_line__classroom_id
 #: model_terms:ir.ui.view,arch_db:openeducat_classroom.view_op_classroom_form
@@ -64,12 +64,12 @@ msgstr "Классные комнаты"
 msgid "Classroom"
 msgstr "Класс"
 
-#. module: openeducat_classroom
-#: model:ir.model,name:openeducat_classroom.model_op_asset
+#. module: tarcin_classroom
+#: model:ir.model,name:tarcin_classroom.model_op_asset
 msgid "Classroom Assets"
 msgstr "Ресурсы класса"
 
-#. module: openeducat_classroom
+#. module: tarcin_classroom
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_asset__code
 #: model:ir.model.fields,field_description:openeducat_classroom.field_op_classroom__code
 #: model_terms:ir.ui.view,arch_db:openeducat_classroom.view_op_classroom_search

@@ -3,26 +3,26 @@
 
     <!-- Multi - Company Rules -->
     <record id="sale_order_comp_rule" model="ir.rule">
-        <field name="name">Sales Order multi-company</field>
+        <field name="name">Tarcin Services multi-company</field>
         <field name="model_id" ref="model_sale_order"/>
         <field name="domain_force">[('company_id', 'in', company_ids)]</field>
     </record>
 
     <record id="sale_order_line_comp_rule" model="ir.rule">
-        <field name="name">Sales Order Line multi-company</field>
+        <field name="name">Service Order Line multi-company</field>
         <field name="model_id" ref="model_sale_order_line"/>
         <field name="domain_force">[('company_id', 'in', company_ids)]</field>
     </record>
 
     <record id="sale_order_report_comp_rule" model="ir.rule">
-        <field name="name">Sales Order Analysis multi-company</field>
+        <field name="name">Services Order Analysis multi-company</field>
         <field name="model_id" ref="model_sale_report"/>
         <field name="domain_force">[('company_id', 'in', company_ids)]</field>
     </record>
 
     <!-- Portal Access Rules -->
     <record id="sale_order_rule_portal" model="ir.rule">
-        <field name="name">Portal Personal Quotations/Sales Orders</field>
+        <field name="name">Portal Personal Quotations/Tarcin Services</field>
         <field name="model_id" ref="sale.model_sale_order"/>
         <field name="domain_force">[('message_partner_ids','child_of',[user.commercial_partner_id.id])]</field>
         <field name="groups" eval="[(4, ref('base.group_portal'))]"/>
@@ -33,7 +33,7 @@
     </record>
 
     <record id="sale_order_line_rule_portal" model="ir.rule">
-        <field name="name">Portal Sales Orders Line</field>
+        <field name="name">Portal Service Orders Line</field>
         <field name="model_id" ref="sale.model_sale_order_line"/>
         <field name="domain_force">[('order_id.message_partner_ids','child_of',[user.commercial_partner_id.id])]</field>
         <field name="groups" eval="[(4, ref('base.group_portal'))]"/>

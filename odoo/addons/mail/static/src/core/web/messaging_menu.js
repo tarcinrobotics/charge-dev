@@ -97,7 +97,7 @@ export class MessagingMenu extends Component {
 
     get installationRequest() {
         return {
-            body: _t("Come here often? Install TarcinBot on your device!"),
+            body: _t("Come here often? Install odooBot on your device!"),
             displayName: _t("%s has a suggestion", this.store.odoobot.name),
             onClick: () => {
                 this.installPrompt.show();

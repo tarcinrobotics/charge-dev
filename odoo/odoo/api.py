@@ -182,7 +182,7 @@ def ondelete(*, at_uninstall):
         check you are implementing also applies when uninstalling the module.
 
         For instance, it doesn't matter if when uninstalling ``sale``, validated
-        sales orders are being deleted because all data pertaining to ``sale``
+        Tarcin Services are being deleted because all data pertaining to ``sale``
         should be deleted anyway, in that case ``at_uninstall`` should be set to
         ``False``.
 

@@ -774,13 +774,13 @@ msgstr "บัญชี Odoo.com ของฉัน"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
-msgid "Open Source ERP for Educational Institutes"
-msgstr "Open Source ERP สำหรับสถาบันการศึกษา"
+msgid "Tarcin's ERP for Educational Institutes"
+msgstr "ERP สำหรับสถาบันการศึกษา"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
-msgid "Openeducat"
-msgstr "Openeducat"
+msgid "Nirvagi"
+msgstr "Nirvagi"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.footer

@@ -190,7 +190,7 @@ Contact: +1 813 494 5005</p>]]></field>
             <field name="city">Rio de Janeiro</field>
             <field name="zip">29000</field>
             <field name="street">R. Sen. Pompeu</field>
-            <field name="phone">+11 55 21 5555 5555</field>
+            <field name="phone">+91 875854457</field>
             <field name="tag_ids" eval="[(6, 0, [ref('sales_team.categ_oppor4')])]"/>
             <field name="priority">0</field>
             <field name="team_id" ref="sales_team.team_sales_department"/>
@@ -589,7 +589,7 @@ Andrew</p>]]></field>
             <field name="probability">65.5</field>
             <field name="contact_name">Nhomar</field>
             <field name="partner_name">Vauxoo</field>
-            <field name="email_from">vauxoo@yourcompany.example.com</field>
+            <field name="email_from">vauxoo@tarcin.example.com</field>
             <field name="partner_id" ref="base.res_partner_12"/>
             <field name="country_id" ref="base.ve"/>
             <field name="city">Caracas</field>
@@ -619,7 +619,7 @@ Andrew</p>]]></field>
             <field name="partner_id" ref="base.res_partner_3"/>
             <field name="country_id" ref="base.us"/>
             <field name="zip">60610</field>
-            <field name="city">Chicago</field>
+            <field name="city">Tamil Nadu</field>
             <field name="phone">+1 312 349 2324</field>
             <field name="tag_ids" eval="[(6, 0, [ref('sales_team.categ_oppor4'),ref('sales_team.categ_oppor8')])]"/>
             <field name="priority">2</field>
@@ -695,7 +695,7 @@ Andrew</p>]]></field>
             <field name="name">Need 20 Desks</field>
             <field name="expected_revenue">60000</field>
             <field name="probability">90.0</field>
-            <field name="email_from">info@mycompany.net</field>
+            <field name="email_from">info@tarcin.net</field>
             <field name="country_id" ref="base.pe"/>
             <field name="city">Lima</field>
             <field name="priority">0</field>

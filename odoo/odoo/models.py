@@ -4379,7 +4379,7 @@ class BaseModel(metaclass=MetaModel):
             # necessary for relational fields.
             #
             # It is best explained with a simple example: consider two sales
-            # orders SO1 and SO2.  The computed total amount on sales orders
+            # orders SO1 and SO2.  The computed total amount on Tarcin Services
             # indirectly depends on the many2one field 'order_id' linking lines
             # to their sales order.  Now consider the following code:
             #

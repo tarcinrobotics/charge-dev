@@ -8,8 +8,8 @@
                 <t t-else="">Quotations</t>
             </li>
             <li t-elif="page_name == 'order' or sale_order and sale_order.state not in ('sent', 'cancel')" t-attf-class="breadcrumb-item #{'active ' if not sale_order else ''}">
-                <a t-if="sale_order" t-attf-href="/my/orders?{{ keep_query() }}">Sales Orders</a>
-                <t t-else="">Sales Orders</t>
+                <a t-if="sale_order" t-attf-href="/my/orders?{{ keep_query() }}">Tarcin Services</a>
+                <t t-else="">Tarcin Services</t>
             </li>
             <li t-if="sale_order" class="breadcrumb-item active">
                 <span t-field="sale_order.type_name"/>
@@ -35,9 +35,9 @@
         <div id="portal_client_category" position="inside">
             <t t-call="portal.portal_docs_entry">
                 <t t-set="icon" t-value="'/sale/static/src/img/bag.svg'"/>
-                <t t-set="title">Sales Orders</t>
+                <t t-set="title">Tarcin Services</t>
                 <t t-set="url" t-value="'/my/orders'"/>
-                <t t-set="text">Follow, view or pay your orders</t>
+                <t t-set="text">Follow, view or pay our services</t>
                 <t t-set="placeholder_count" t-value="'order_count'"/>
             </t>
         </div>
@@ -91,13 +91,13 @@
                 <t t-set="title">Your Orders</t>
             </t>
             <div t-if="not orders" class="alert alert-warning" role="alert">
-                There are currently no sales orders for your account.
+                There are currently no Tarcin Services for your account.
             </div>
             <t t-if="orders" t-call="portal.portal_table">
                 <thead>
                     <tr class="active">
                         <th>
-                            <span class='d-none d-md-inline'>Sales Order #</span>
+                            <span class='d-none d-md-inline'>Tarcin Service #</span>
                             <span class='d-block d-md-none'>Ref.</span>
                         </th>
                         <th class="text-end">Order Date</th>
@@ -343,7 +343,7 @@
                         <t t-elif="message == 'sign_ok' and sale_order._has_to_be_paid()">
                             Your order has been signed but still needs to be paid to be confirmed.
                         </t>
-                        <t t-else="">Your order has been signed.</t>
+                        <t t-else="">Your Service has been signed.</t>
                     </div>
 
                     <div t-if="message == 'cant_reject'" class="alert alert-danger alert-dismissible d-print-none" role="alert">

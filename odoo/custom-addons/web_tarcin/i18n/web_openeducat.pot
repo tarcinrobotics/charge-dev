@@ -667,12 +667,12 @@ msgstr ""
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
-msgid "Open Source ERP for Educational Institutes"
+msgid "Tarcin's ERP for Educational Institutes"
 msgstr ""
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
-msgid "Openeducat"
+msgid "Nirvagi"
 msgstr ""
 
 #. module: web_tarcin

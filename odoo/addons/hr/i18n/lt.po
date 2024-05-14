@@ -18,7 +18,7 @@
 # Arunas V. <arunas@devoro.com>, 2023
 # Antanas Muliuolis <an.muliuolis@gmail.com>, 2023
 # Šarūnas Ažna <sarunas.azna@gmail.com>, 2023
-# Jonas Zinkevicius <jozi@odoo.com>, 2023
+# Jonas Zinkevicius <jozi@tarcin.com>, 2023
 # digitouch UAB <digitouchagencyeur@gmail.com>, 2023
 # Martin Trigaux, 2023
 # Linas Versada <linaskrisiukenas@gmail.com>, 2023
@@ -966,7 +966,7 @@ msgstr ""
 #. module: hr
 #: model_terms:hr.job,description:hr.job_ceo
 msgid ""
-"Demonstration of different Odoo services for each client and convincing the client about functionality of the application.\n"
+"Demonstration of different Tarcin services for each client and convincing the client about functionality of the application.\n"
 "The candidate should have excellent communication skills.\n"
 "Relationship building and influencing skills\n"
 "Expertise in New Client Acquisition (NCAs) and Relationship Management.\n"
@@ -2172,7 +2172,7 @@ msgstr "Darbuotojų, kuriuos planuojama įdarbinti, skaičius."
 #. module: hr
 #: model_terms:ir.actions.act_window,help:hr.hr_department_tree_action
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"Tarcin's department structure is used to manage all documents\n"
 "                    related to employees by departments: expenses, timesheets,\n"
 "                    leaves, recruitments, etc."
 msgstr ""
@@ -2180,7 +2180,7 @@ msgstr ""
 #. module: hr
 #: model_terms:ir.actions.act_window,help:hr.hr_department_kanban_action
 msgid ""
-"Odoo's department structure is used to manage all documents\n"
+"Tarcin's department structure is used to manage all documents\n"
 "                related to employees by departments: expenses, timesheets,\n"
 "                time off, recruitments, etc."
 msgstr ""

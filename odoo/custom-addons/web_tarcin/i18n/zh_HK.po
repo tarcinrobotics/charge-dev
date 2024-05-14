@@ -769,8 +769,8 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web_tarcin/static/src/xml/base_inherit.xml:0
 #, python-format
-msgid "My Odoo.com account"
-msgstr "My Odoo.com account"
+msgid "My Nirvagi.com account"
+msgstr "My Nirvagi.com account"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
@@ -779,8 +779,8 @@ msgstr "Open Source ERP for Educational Institutes"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
-msgid "Openeducat"
-msgstr "Openeducat"
+msgid "Tarcin"
+msgstr "Tarcin"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.footer

@@ -779,8 +779,8 @@ msgstr "ERP de código aberto para instituições educacionais"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
-msgid "Openeducat"
-msgstr "Openeducat"
+msgid "Nirvagi"
+msgstr "Nirvagi"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.footer

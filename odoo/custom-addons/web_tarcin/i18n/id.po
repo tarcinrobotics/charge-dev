@@ -776,12 +776,12 @@ msgstr "Akun Odoo.com saya"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
-msgid "Open Source ERP for Educational Institutes"
+msgid "ERP for Educational Institutes"
 msgstr "ERP Sumber Terbuka untuk Institusi Pendidikan"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
-msgid "Openeducat"
+msgid "Nirvagi"
 msgstr "pendidikan terbuka"
 
 #. module: web_tarcin

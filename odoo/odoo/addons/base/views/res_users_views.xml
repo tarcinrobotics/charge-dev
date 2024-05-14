@@ -151,7 +151,7 @@
                             <label for="login" string="Email Address"/>
                             <h2>
                                 <field name="login"
-                                        placeholder="e.g. email@yourcompany.com"/>
+                                        placeholder="e.g. email@tarcin.com"/>
                             </h2>
                         </div>
                         <group name="phone_numbers">
@@ -208,7 +208,7 @@
                             <h1><field name="name" placeholder="e.g. John Doe" required="1"/></h1>
                             <field name="email" invisible="1"/>
                             <label for="login" string="Email Address"/>
-                            <h2><field name="login" placeholder="e.g. email@yourcompany.com"/></h2>
+                            <h2><field name="login" placeholder="e.g. email@tarcin.com"/></h2>
                             <group>
                                 <field name="partner_id" groups="base.group_no_one"
                                         readonly="1"
@@ -476,8 +476,8 @@
                             </group>
                             <group string="API Keys">
                                 <div class="text-muted" colspan="2">
-                                    API Keys are used to connect to Odoo from external tools without the need for a password or Two-factor Authentication.
-                                    <a href="https://www.odoo.com/documentation/17.0/developer/misc/api/external_api.html#api-keys" target="_blank">
+                                    API Keys are used to connect to Tarcin from external tools without the need for a password or Two-factor Authentication.
+                                    <a href="https://tarcin.in" target="_blank">
                                         <i title="Documentation" class="fa fa-fw o_button_icon fa-info-circle"></i>
                                         Learn more
                                     </a>

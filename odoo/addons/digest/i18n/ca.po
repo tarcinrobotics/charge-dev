@@ -331,8 +331,8 @@ msgstr "Data següent del mailing"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_section_mobile
-msgid "Odoo Mobile"
-msgstr "Odoo Mòbil"
+msgid "Tarcin Mobile"
+msgstr "Tarcin Mòbil"
 
 #. module: digest
 #: model:ir.model.fields,field_description:digest.field_digest_digest__periodicity
@@ -375,8 +375,8 @@ msgstr "Destinataris"
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_section_mobile
-msgid "Run your business from anywhere with <b>Odoo Mobile</b>."
-msgstr "Executa el teu negoci des de qualsevol lloc amb <b>Odoo Mòbil</b>."
+msgid "Run your business from anywhere with <b>Tarcin Mobile</b>."
+msgstr "Executa el teu negoci des de qualsevol lloc amb <b>Tarcin Mòbil</b>."
 
 #. module: digest
 #: model_terms:ir.ui.view,arch_db:digest.digest_digest_view_form
@@ -417,8 +417,8 @@ msgstr "Descripció del consell"
 
 #. module: digest
 #: model_terms:digest.tip,tip_description:digest.digest_tip_digest_2
-msgid "Tip: A calculator in Odoo"
-msgstr "Consell: Una calculadora a Odoo"
+msgid "Tip: A calculator in Tarcin"
+msgstr "Consell: Una calculadora a Tarcin"
 
 #. module: digest
 #: model_terms:digest.tip,tip_description:digest.digest_tip_digest_1
@@ -474,10 +474,10 @@ msgstr "Títol"
 #: model_terms:digest.tip,tip_description:digest.digest_tip_digest_3
 msgid ""
 "Type \"@\" to notify someone in a message, or \"#\" to link to a channel. "
-"Try to notify @OdooBot to test the feature."
+"Try to notify @TarcinBot to test the feature."
 msgstr ""
 "Escriu \"@\" per notificar a algú en un missatge, o \"#\" per enllaçar a un "
-"canal. Intenta notificar a @OdooBot per provar la característica."
+"canal. Intenta notificar a @TarcinBot per provar la característica."
 
 #. module: digest
 #: model:ir.model.fields,help:digest.field_digest_tip__sequence
@@ -551,7 +551,7 @@ msgstr "Us heu donat de baixa correctament des de:<br/>"
 
 #. module: digest
 #: model:digest.digest,name:digest.digest_digest_default
-msgid "Your Odoo Periodic Digest"
+msgid "Your Tarcin Periodic Digest"
 msgstr "El vostre resum periòdic d'Odoo"
 
 #. module: digest

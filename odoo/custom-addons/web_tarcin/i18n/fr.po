@@ -776,12 +776,12 @@ msgstr "Mon compte Odoo.com"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
-msgid "Open Source ERP for Educational Institutes"
-msgstr "ERP Open Source pour les établissements d'enseignement"
+msgid "ERP for Educational Institutes"
+msgstr "ERP pour les établissements d'enseignement"
 
 #. module: web_tarcin
 #: model_terms:ir.ui.view,arch_db:web_tarcin.brand_promotion_inherit
-msgid "Openeducat"
+msgid "Nirvagi"
 msgstr "Éducation ouverte"
 
 #. module: web_tarcin

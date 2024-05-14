@@ -34,8 +34,8 @@
                     <td valign="top" style="font-size: 13px;">
                         <div>
                             Hi <t t-out="object.partner_id and object.partner_id.name or ''">Deco Addict</t>,<br/><br/>
-                            Welcome to <t t-out="object.company_id.name or ''">My Company (San Francisco)</t>.
-                            It's great to meet you! Now that you're on board, you'll discover what <t t-out="object.company_id.name or ''">My Company (San Francisco)</t> has to offer. My name is <t t-out="object.user_id.name or ''">Marc Demo</t> and I'll help you get the most out of Odoo. Could we plan a quick demo soon?<br/>
+                            Welcome to <t t-out="object.company_id.name or ''">Tarcin (Tamil Nadu)</t>.
+                            It's great to meet you! Now that you're on board, you'll discover what <t t-out="object.company_id.name or ''">Tarcin (Tamil Nadu)</t> has to offer. My name is <t t-out="object.user_id.name or ''">Marc Demo</t> and I'll help you get the most out of Tarcin. Could we plan a quick demo soon?<br/>
                             Feel free to reach out at any time!<br/><br/>
                             Best,<br/>
                             <t t-if="object.user_id">
@@ -44,7 +44,7 @@
                                 <br/>Phone: <t t-out="object.user_id.phone or ''">+1 650-123-4567</t>
                             </t>
                             <t t-else="">
-                                <t t-out="object.company_id.name or ''">My Company (San Francisco)</t>
+                                <t t-out="object.company_id.name or ''">Tarcin (Tamil Nadu)</t>
                             </t>
                         </div>
                     </td>
@@ -56,11 +56,11 @@
     <tr>
         <td align="center" style="min-width: 590px; padding: 0 8px 0 8px; font-size:11px;">
             <hr width="100%" style="background-color:rgb(204,204,204);border:medium none;clear:both;display:block;font-size:0px;min-height:1px;line-height:0; margin: 16px 0px 4px 0px;"/>
-            <b t-out="object.company_id.name or ''">My Company (San Francisco)</b><br/>
+            <b t-out="object.company_id.name or ''">Tarcin (Tamil Nadu)</b><br/>
             <div style="color: #999999;">
-                <t t-out="object.company_id.phone or ''">+1 650-123-4567</t>
+                <t t-out="object.company_id.phone or ''">+91 8072399711</t>
                 <t t-if="object.company_id.email">
-                    | <a t-attf-href="'mailto:%s' % {{ object.company_id.email }}" style="text-decoration:none; color: #999999;" t-out="object.company_id.email or ''">info@yourcompany.com</a>
+                    | <a t-attf-href="'mailto:%s' % {{ object.company_id.email }}" style="text-decoration:none; color: #999999;" t-out="object.company_id.email or ''">info@tarcin.com</a>
                 </t>
                 <t t-if="object.company_id.website">
                     | <a t-attf-href="'%s' % {{ object.company_id.website }}" style="text-decoration:none; color: #999999;" t-out="object.company_id.website or ''">http://www.example.com</a>
@@ -73,7 +73,7 @@
 </td></tr>
 <!-- POWERED BY -->
 <tr><td align="center" style="min-width: 590px;">
-    Powered by <a target="_blank" href="https://www.odoo.com?utm_source=db&amp;utm_medium=email" style="color: #875A7B;">Odoo</a>
+    Powered by <a target="_blank" href="https://tarcin.in" style="color: #0000FF;">Tarcin</a>
 </td></tr>
 </table>
         </field>

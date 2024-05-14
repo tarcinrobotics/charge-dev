@@ -288,7 +288,7 @@
                 </div>
                 <t t-if="entries" t-out="entries"/>
                 <div class="d-none d-lg-block mt-5 small text-center text-muted">
-                    Powered by <a target="_blank" href="http://www.odoo.com?utm_source=db&amp;utm_medium=portal" title="odoo"><img src="/web/static/img/icon.png" alt="Odoo Logo" height="15"/></a>
+                    Powered by <a target="_blank" href="https://tarcin.in" title="Tarcin"><img src="/web/static/img/icon.png" alt="Tarcin Logo" height="15"/></a>
                 </div>
             </div>
         </div>

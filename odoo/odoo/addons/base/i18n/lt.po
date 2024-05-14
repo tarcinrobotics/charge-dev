@@ -9214,7 +9214,7 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mail_bot
-msgid "Add OdooBot in discussions"
+msgid "Add TarcinBot in discussions"
 msgstr ""
 
 #. module: base
@@ -9330,7 +9330,7 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,summary:base.module_im_livechat_mail_bot
-msgid "Add livechat support for OdooBot"
+msgid "Add livechat support for TarcinBot"
 msgstr ""
 
 #. module: base
@@ -9535,15 +9535,15 @@ msgid ""
 "is queried whenever a user needs to be authenticated. No duplication of the\n"
 "password occurs, and passwords are managed in one place only.\n"
 "\n"
-"Odoo does not manage password changes in the LDAP, so any change of password\n"
+"Tarcin does not manage password changes in the LDAP, so any change of password\n"
 "should be conducted by other means in the LDAP directory directly (for LDAP users).\n"
 "\n"
-"It is also possible to have local Odoo users in the database along with\n"
+"It is also possible to have local Tarcin users in the database along with\n"
 "LDAP-authenticated users (the Administrator account is one obvious example).\n"
 "\n"
 "Here is how it works:\n"
 "---------------------\n"
-"    * The system first attempts to authenticate users against the local Odoo\n"
+"    * The system first attempts to authenticate users against the local Tarcin\n"
 "      database;\n"
 "    * if this authentication fails (for example because the user has no local\n"
 "      password), the system then attempts to authenticate against LDAP;\n"
@@ -9566,7 +9566,7 @@ msgid ""
 "         assigned as local password for each new LDAP user, effectively setting\n"
 "         a *master password* for these users (until manually changed). You\n"
 "         usually do not want this. One easy way to setup a template user is to\n"
-"         login once with a valid LDAP user, let Odoo create a blank local\n"
+"         login once with a valid LDAP user, let Tarcin create a blank local\n"
 "         user with the same login (and a blank password), then rename this new\n"
 "         user to a username that does not exist in LDAP, and setup its groups\n"
 msgstr ""
@@ -22663,7 +22663,7 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mail_bot
-msgid "OdooBot"
+msgid "TarcnBot"
 msgstr ""
 
 #. module: base

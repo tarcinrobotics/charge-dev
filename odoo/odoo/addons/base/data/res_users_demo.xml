@@ -5,7 +5,7 @@
         <record id="partner_demo" model="res.partner">
             <field name="name">Marc Demo</field>
             <field name="company_id" ref="main_company"/>
-            <field name="company_name">YourCompany</field>
+            <field name="company_name">Tarcin</field>
             <field name="street">3575  Buena Vista Avenue</field>
             <field name="city">Eugene</field>
             <field name="state_id"  model="res.country.state" search="[('code','=','OR')]"/>
@@ -17,15 +17,15 @@
         </record>
 
         <record id="main_partner" model="res.partner">
-            <field name="name">YourCompany</field>
-            <field name="company_name">YourCompany</field>
-            <field name="street">250 Executive Park Blvd, Suite 3400</field>
-            <field name="city">San Francisco</field>
+            <field name="name">Your Company</field>
+            <field name="company_name">Tarcin</field>
+            <field name="street">176,E 6th street,KK Nagar</field>
+            <field name="city">Tamil Nadu</field>
             <field name="zip">94134</field>
             <field name='country_id' ref='base.us'/>
             <field name='state_id' ref='state_us_5'/>
-            <field name="phone">+1 (650) 555-0111 </field>
-            <field name="email">info@yourcompany.example.com</field>
+            <field name="phone">+91 8072399711 </field>
+            <field name="email">info@tarcin.example.com</field>
             <field name="website">www.example.com</field>
         </record>
 
@@ -45,14 +45,14 @@
 
         <record model="res.partner" id="base.partner_admin">
             <field name="name">Mitchell Admin</field>
-            <field name="company_name">YourCompany</field>
+            <field name="company_name">Tarcin</field>
             <field name="street">215 Vine St</field>
             <field name="city">Scranton</field>
             <field name="zip">18503</field>
             <field name='country_id' ref='base.us'/>
             <field name='state_id' ref='state_us_39'/>
             <field name="phone">+1 555-555-5555</field>
-            <field name="email">admin@yourcompany.example.com</field>
+            <field name="email">admin@tarcin.example.com</field>
             <field name="tz">Europe/Brussels</field>
             <field name="image_1920" type="base64" file="base/static/img/partner_root-image.png"/>
         </record>
@@ -70,7 +70,7 @@
             <field model="res.country.state" name="state_id" search="[('code','ilike','NJ')]"/>
             <field name="zip">07002</field>
             <field name="country_id" ref="base.us"/>
-            <field name="company_name">YourCompany</field>
+            <field name="company_name">Tarcin</field>
             <field name="image_1920" type="base64" file="base/static/img/partner_demo_portal.png"/>
             <field name="phone">(683)-556-5104</field>
         </record>
