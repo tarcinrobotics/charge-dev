@@ -51,7 +51,7 @@
         'demo/attendance_line_demo.xml',
     ],
     'images': [
-        'static/description/openeducat_attendance_banner.jpg',
+        'static/description/tarcin_attendance_banner.jpg',
     ],
     'installable': True,
     'auto_install': False,

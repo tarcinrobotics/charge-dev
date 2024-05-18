@@ -30,7 +30,7 @@ class OpStudent(models.Model):
     activity_count = fields.Integer(compute='compute_count')
 
     def get_activity(self):
-        action = self.env.ref('openeducat_activity.'
+        action = self.env.ref('tarcin_activity.'
                               'act_open_op_activity_view').read()[0]
         action['domain'] = [('student_id', 'in', self.ids)]
         return action

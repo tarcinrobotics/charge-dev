@@ -25,7 +25,7 @@ from odoo import models, api
 
 
 class StudentAttendanceReport(models.AbstractModel):
-    _name = "report.openeducat_attendance.student_attendance_report"
+    _name = "report.tarcin_attendance.student_attendance_report"
     _description = "Attendance Report"
 
     def get_student_name(self, data):

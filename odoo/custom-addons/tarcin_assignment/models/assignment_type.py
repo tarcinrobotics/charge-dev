@@ -11,7 +11,7 @@
 from odoo import models, fields
 
 
-class GradingAssigmentType(models.Model):
+class GradingAssignmentType(models.Model):
     _name = 'grading.assignment.type'
     _description = "Assignment Type"
 

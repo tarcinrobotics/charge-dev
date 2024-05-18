@@ -113,7 +113,7 @@
                                                             <span class="s_website_form_mark"> *</span>
                                                         </label>
                                                         <div class="col-sm">
-                                                            <textarea id="contact6" class="form-control s_website_form_input" name="description" required=""></textarea>
+                                                            <textarea id="contact6" class="form-control s_website_form_input" name="description" required=""> </textarea>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -130,7 +130,7 @@
                                                 <div class="mb-0 py-2 col-12 s_website_form_submit" data-name="Submit Button">
                                                     <div style="width: 200px;" class="s_website_form_label"/>
                                                     <a href="#" role="button" class="btn btn-primary s_website_form_send">Submit</a>
-                                                    <span id="s_website_form_result"></span>
+                                                    <span id="s_website_form_result"> </span>
                                                 </div>
                                             </div>
                                         </form>
@@ -139,7 +139,7 @@
                             </div>
                             <div class="col-lg-4 mt-4 mt-lg-0">
                                 <ul class="list-unstyled mb-0 ps-2">
-                                    <li>My Company</li>
+                                    <li>Tarcin</li>
                                     <li><i class="fa fa-map-marker fa-fw me-2"/><span class="o_force_ltr">3575 Fake Buena Vista Avenue</span></li>
                                     <li><i class="fa fa-phone fa-fw me-2"/><span class="o_force_ltr">+1 (650) 555-0111</span></li>
                                     <li><i class="fa fa-1x fa-fw fa-envelope me-2"/><span>info@yourcompany.example.com</span></li>
@@ -180,7 +180,7 @@
                                     </div>
                                     <div class="col-lg-4">
                                         <ul class="list-unstyled mb-0 ps-2">
-                                            <li>My Company</li>
+                                            <li>Tarcin</li>
                                             <li><i class="fa fa-map-marker fa-fw me-2"/><span class="o_force_ltr">3575 Fake Buena Vista Avenue</span></li>
                                             <li><i class="fa fa-phone fa-fw me-2"/><span class="o_force_ltr">+1 (650) 555-0111</span></li>
                                             <li><i class="fa fa-1x fa-fw fa-envelope me-2"/><span>info@yourcompany.example.com</span></li>

@@ -79,7 +79,7 @@
         </record>
 
         <record model="ir.ui.view" id="view_op_activity_graph">
-            <field name="name">op.acitviy.graph</field>
+            <field name="name">op.activity.graph</field>
             <field name="model">op.activity</field>
             <field name="arch" type="xml">
                 <graph string="Activity Graph View" type="bar">

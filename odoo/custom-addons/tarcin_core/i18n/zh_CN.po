@@ -438,28 +438,28 @@ msgid ""
 msgstr "为单个学生、一组学生或整个批次分配和管理作业。"
 
 #. module: openeducat_core
-#: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_openeducat_assignment
+#: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_tarcin_assignment
 #: model_terms:ir.ui.view,arch_db:openeducat_core.res_config_settings_view_form_core
 msgid "Assignment"
 msgstr "任务"
 
 #. module: openeducat_core
-#: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_openeducat_assignment_enterprise
+#: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_tarcin_assignment_enterprise
 msgid "Assignment Enterprise"
 msgstr "外派企业"
 
 #. module: openeducat_core
-#: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_openeducat_assignment_grading_bridge
+#: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_tarcin_assignment_grading_bridge
 msgid "Assignment Grading Bridge"
 msgstr "作业评分桥"
 
 #. module: openeducat_core
-#: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_openeducat_assignment_grading_enterprise
+#: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_tarcin_assignment_grading_enterprise
 msgid "Assignment Grading Enterprise"
 msgstr "作业评分企业"
 
 #. module: openeducat_core
-#: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_openeducat_assignment_rubrics
+#: model:ir.model.fields,field_description:openeducat_core.field_res_config_settings__module_tarcin_assignment_rubrics
 msgid "Assignment Rubrics"
 msgstr "作业量规"
 

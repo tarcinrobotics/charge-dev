@@ -10,7 +10,7 @@
         </record>
 
         <record id="op_parent_relationship_3" model="op.parent.relationship">
-            <field name="name">Gaurdian</field>
+            <field name="name">Guardian</field>
         </record>
     </data>
 </odoo>

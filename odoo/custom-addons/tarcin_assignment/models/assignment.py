@@ -23,7 +23,7 @@ from odoo import models, fields, api, _
 from odoo.exceptions import ValidationError
 
 
-class GradingAssigment(models.Model):
+class GradingAssignment(models.Model):
     _name = 'grading.assignment'
     _description = "Grading Assignment"
 

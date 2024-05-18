@@ -47,7 +47,7 @@ class TestAttendanceSheet(TestAttendanceCommon):
             'name': 'AS',
             'attendance_date': time.strftime('%Y-%m-01'),
             'register_id':
-                self.env.ref('openeducat_attendance.'
+                self.env.ref('tarcin_attendance.'
                              'op_attendance_register_1').id
         })
         info('  Details Of Attendance Sheet:.....')

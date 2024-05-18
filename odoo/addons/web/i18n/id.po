@@ -5160,7 +5160,7 @@ msgstr "Odoo"
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #, python-format
-msgid "Odoo Client Error"
+msgid "Nirvagi Error"
 msgstr "Eror Klien Odoo"
 
 #. module: web
@@ -5175,8 +5175,8 @@ msgstr "Eror Odoo"
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #, python-format
-msgid "Odoo Network Error"
-msgstr "Odoo Network Error"
+msgid "Nirvagi Network Error"
+msgstr "Nirvagi Network Error"
 
 #. module: web
 #. odoo-javascript

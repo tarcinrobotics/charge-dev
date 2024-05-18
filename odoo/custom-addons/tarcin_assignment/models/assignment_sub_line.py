@@ -33,9 +33,9 @@ class OpAssignmentSubLine(models.Model):
     def _compute_get_user_group(self):
         for user in self:
             if self.env.user.has_group(
-                    'openeducat_assignment.group_op_assignment_manager') or \
+                    'tarcin_assignment.group_op_assignment_manager') or \
                     self.env.user.has_group(
-                        'openeducat_assignment.group_op_assignment_user'):
+                        'tarcin_assignment.group_op_assignment_user'):
                 user.user_boolean = True
             else:
                 user.user_boolean = False
@@ -91,7 +91,7 @@ class OpAssignmentSubLine(models.Model):
     def unlink(self):
         for record in self:
             if not record.state == 'draft' and not self.env.user.has_group(
-                    'openeducat_assignment.group_op_assignment_user'):
+                    'tarcin_assignment.group_op_assignment_user'):
                 raise ValidationError(
                     _("You can't delete none draft submissions!"))
         res = super(OpAssignmentSubLine, self).unlink()

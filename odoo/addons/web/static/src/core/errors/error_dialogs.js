@@ -58,13 +58,13 @@ ErrorDialog.props = { ...standardErrorDialogProps };
 // Client Error Dialog
 // -----------------------------------------------------------------------------
 export class ClientErrorDialog extends ErrorDialog {}
-ClientErrorDialog.title = _t("Odoo Client Error");
+ClientErrorDialog.title = _t("Nirvagi Error");
 
 // -----------------------------------------------------------------------------
 // Network Error Dialog
 // -----------------------------------------------------------------------------
 export class NetworkErrorDialog extends ErrorDialog {}
-NetworkErrorDialog.title = _t("Odoo Network Error");
+NetworkErrorDialog.title = _t("Nirvagi Network Error");
 
 // -----------------------------------------------------------------------------
 // RPC Error Dialog
@@ -93,10 +93,10 @@ export class RPCErrorDialog extends ErrorDialog {
                 this.title = _t("NIRVAGI SERVER ERROR");
                 break;
             case "script":
-                this.title = _t("Odoo Client Error");
+                this.title = _t("Nirvagi Error");
                 break;
             case "network":
-                this.title = _t("Odoo Network Error");
+                this.title = _t("Nirvagi Network Error");
                 break;
         }
     }

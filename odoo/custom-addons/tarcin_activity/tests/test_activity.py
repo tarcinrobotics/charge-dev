@@ -65,16 +65,16 @@ class TestStudentMigrateWizard(TestActivityCommon):
 
     def test_case_1_student_migrate_wizard(self):
         student_migrate = self.op_student_migrate_wizard.create({
-            'course_from_id': self.env.ref('openeducat_core.op_course_2').id,
-            'course_to_id': self.env.ref('openeducat_core.op_course_3').id,
-            'batch_id': self.env.ref('openeducat_core.op_batch_2').id,
-            'student_ids': self.env.ref('openeducat_core.op_student_1'),
+            'course_from_id': self.env.ref('tarcin_core.op_course_2').id,
+            'course_to_id': self.env.ref('tarcin_core.op_course_3').id,
+            'batch_id': self.env.ref('tarcin_core.op_batch_2').id,
+            'student_ids': self.env.ref('tarcin_core.op_student_1'),
         })
         student_migrate1 = self.op_student_migrate_wizard.create({
-            'course_from_id': self.env.ref('openeducat_core.op_course_3').id,
-            'course_to_id': self.env.ref('openeducat_core.op_course_2').id,
-            'batch_id': self.env.ref('openeducat_core.op_batch_1').id,
-            'student_ids': self.env.ref('openeducat_core.op_student_2'),
+            'course_from_id': self.env.ref('tarcin_core.op_course_3').id,
+            'course_to_id': self.env.ref('tarcin_core.op_course_2').id,
+            'batch_id': self.env.ref('tarcin_core.op_batch_1').id,
+            'student_ids': self.env.ref('tarcin_core.op_student_2'),
         })
         student_migrate.student_migrate_forward()
         student_migrate1.student_by_course()

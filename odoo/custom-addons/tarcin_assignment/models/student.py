@@ -29,7 +29,7 @@ class OpStudent(models.Model):
     assignment_count = fields.Integer(compute='compute_count_assignment')
 
     def get_assignment(self):
-        action = self.env.ref('openeducat_assignment.'
+        action = self.env.ref('tarcin_assignment.'
                               'act_open_op_assignment_view').read()[0]
         action['domain'] = [('allocation_ids', 'in', self.ids)]
         return action

@@ -38,7 +38,7 @@ class OpSession(models.Model):
 
         if self.id == sheet.session_id.id:
             if len(sheet) <= 1:
-                view_id = self.env.ref('openeducat_attendance.'
+                view_id = self.env.ref('tarcin_attendance.'
                                        'view_op_attendance_sheet_form').id,
                 return {
                     'name': 'Attendance Sheet',
@@ -55,7 +55,7 @@ class OpSession(models.Model):
                     'domain': [('session_id', "=", sheet.session_id.id)]
                 }
 
-            action = self.env.ref('openeducat_attendance.'
+            action = self.env.ref('tarcin_attendance.'
                                   'act_open_op_attendance_sheet_view').read()[0]
             action['domain'] = [('session_id', '=', self.id)]
             action['context'] = {
@@ -64,7 +64,7 @@ class OpSession(models.Model):
             return action
 
         else:
-            view_id = self.env.ref('openeducat_attendance.'
+            view_id = self.env.ref('tarcin_attendance.'
                                    'view_op_attendance_sheet_form').id,
             return {
                 'name': 'Attendance Sheet',
