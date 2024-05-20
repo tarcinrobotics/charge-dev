@@ -5147,7 +5147,7 @@ msgstr ""
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Odoo Session Expired"
+msgid "Nirvagi session Expired"
 msgstr "Odoo sesija beigusies"
 
 #. module: web
@@ -8067,7 +8067,7 @@ msgstr ""
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Your Odoo session expired. The current page is about to be refreshed."
+msgid "Your Nirvagi session Expired. The current page is about to be refreshed."
 msgstr "Jūsu Odoo sesija beidzās. Pašreizējā lapa tiks atjaunināta."
 
 #. module: web

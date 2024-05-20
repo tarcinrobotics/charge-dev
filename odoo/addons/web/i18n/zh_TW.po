@@ -5160,7 +5160,7 @@ msgstr "Odoo 伺服器錯誤"
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Odoo Session Expired"
+msgid "Nirvagi session Expired"
 msgstr "操作時段過期"
 
 #. module: web
@@ -8062,7 +8062,7 @@ msgstr "您應該將Wkhtmltopdf的版本至少升級到0.12.0，以便正確顯�
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Your Odoo session expired. The current page is about to be refreshed."
+msgid "Your Nirvagi session Expired. The current page is about to be refreshed."
 msgstr "你的 Odoo 操作時段已過期。本頁面即將自動重新載入。"
 
 #. module: web

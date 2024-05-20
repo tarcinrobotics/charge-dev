@@ -5167,7 +5167,7 @@ msgstr "Odoo 서버 에러"
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Odoo Session Expired"
+msgid "Nirvagi session Expired"
 msgstr "Odoo 세션 만료"
 
 #. module: web
@@ -8080,7 +8080,7 @@ msgstr ""
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Your Odoo session expired. The current page is about to be refreshed."
+msgid "Your Nirvagi session Expired. The current page is about to be refreshed."
 msgstr "Odoo 세션이 만료되었습니다. 현재 페이지를 새로고침 합니다."
 
 #. module: web

@@ -5171,7 +5171,7 @@ msgstr "Odoo serveri viga"
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Odoo Session Expired"
+msgid "Nirvagi session Expired"
 msgstr "Odoo sessioon on aegunud"
 
 #. module: web

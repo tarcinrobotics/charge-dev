@@ -513,7 +513,7 @@
     </record>
 
     <data noupdate="1">
-        <!-- Default pagese -->
+        <!-- Default pages -->
         <record id="homepage_page" model="website.page">
             <field name="is_published">True</field>
             <field name="url">/</field>

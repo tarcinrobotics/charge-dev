@@ -5170,8 +5170,8 @@ msgstr "NIRVAGI SERVER ERROR"
 #: code:addons/web/static/src/core/errors/error_dialogs.js:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Odoo Session Expired"
-msgstr "Odoo Session Expired"
+msgid "Nirvagi session Expired"
+msgstr "Nirvagi session Expired"
 
 #. module: web
 #. odoo-javascript
@@ -8091,8 +8091,8 @@ msgstr ""
 #: code:addons/web/static/src/core/errors/error_dialogs.xml:0
 #: code:addons/web/static/src/public/error_notifications.js:0
 #, python-format
-msgid "Your Odoo session expired. The current page is about to be refreshed."
-msgstr "Your Odoo session expired. The current page is about to be refreshed."
+msgid "Your Nirvagi session Expired. The current page is about to be refreshed."
+msgstr "Your Nirvagi session Expired. The current page is about to be refreshed."
 
 #. module: web
 #. odoo-javascript

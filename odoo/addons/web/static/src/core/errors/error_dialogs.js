@@ -184,7 +184,7 @@ export class SessionExpiredDialog extends Component {
 }
 SessionExpiredDialog.template = "web.SessionExpiredDialog";
 SessionExpiredDialog.components = { Dialog };
-SessionExpiredDialog.title = _t("Odoo Session Expired");
+SessionExpiredDialog.title = _t("Nirvagi session Expired");
 SessionExpiredDialog.props = { ...standardErrorDialogProps };
 
 registry
