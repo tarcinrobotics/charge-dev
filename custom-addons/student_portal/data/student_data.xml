@@ -1,0 +1,7 @@
+<!-- data/student_data.xml -->
+<odoo>
+    <record id="model_student_student" model="ir.model">
+        <field name="name">student.student</field>
+        <field name="model">student.student</field>
+    </record>
+</odoo>
