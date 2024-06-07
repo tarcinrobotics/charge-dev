@@ -95,7 +95,7 @@
         </td></tr>
         <tr><td><br/>Best regards,</td></tr>
         <tr><td>
-           <t t-out="object.project_id.company_id.name or ''">YourCompany</t>
+           <t t-out="object.project_id.company_id.name or ''">Tarcin</t>
         </td></tr>
         <tr><td style="opacity: 0.5;">
             <t t-out="object.project_id.company_id.phone or ''">1 650-123-4567</t>
