@@ -13,8 +13,8 @@ class MailBot(models.AbstractModel):
 
     def _apply_logic(self, record, values, command=None):
         """ Apply bot logic to generate an answer (or not) for the user
-        The logic will only be applied if odoobot is in a chat with a user or
-        if someone pinged odoobot.
+        The logic will only be applied if Tarcinbot is in a chat with a user or
+        if someone pinged Tarcinbot.
 
          :param record: the mail_thread (or discuss_channel) where the user
             message was posted/odoobot will answer.
@@ -52,7 +52,7 @@ class MailBot(models.AbstractModel):
             elif odoobot_state == 'onboarding_attachement' and values.get("attachment_ids"):
                 self.env.user.odoobot_state = "idle"
                 self.env.user.odoobot_failed = False
-                return Markup(_("I am a simple bot, but if that's a dog, he is the cutest 😊 <br/>Congratulations, you finished this tour. You can now <b>close this chat window</b>. Enjoy discovering Odoo."))
+                return Markup(_("I am a simple bot, but if that's a dog, he is the cutest 😊 <br/>Congratulations, you finished this tour. You can now <b>close this chat window</b>. Enjoy discovering Nirvagi."))
             elif odoobot_state in (False, "idle", "not_initialized") and (_('start the tour') in body.lower()):
                 self.env.user.odoobot_state = "onboarding_emoji"
                 return _("To start, try to send me an emoji :)")
