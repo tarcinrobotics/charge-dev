@@ -39,12 +39,12 @@
                     <t t-if="object.user_id">
                         -- <br/>
                         <strong t-out="object.user_id.name or ''">Mitchell Admin</strong><br/>
-                        Email: <t t-out="object.user_id.email or ''">admin@yourcompany.example.com</t><br/>
-                        Phone: <t t-out="object.user_id.phone or ''">+1 650-123-4567</t>
+                        Email: <t t-out="object.user_id.email or ''">admin@tarcin.in</t><br/>
+                        Phone: <t t-out="object.user_id.phone or ''">+91 8072399711</t>
                     </t>
                     <t t-else="">
                         -- <br/>
-                        <t t-out="object.company_id.name or ''">YourCompany</t><br/>
+                        <t t-out="object.company_id.name or ''">Tarcin</t><br/>
                         The HR Team
                     </t>
                 </div>
@@ -86,8 +86,8 @@
                 <t t-if="object.user_id">
                     You will soon be contacted by:<br/>
                     <strong t-out="object.user_id.name or ''">Mitchell Admin</strong><br/>
-                    <span>Email: <t t-out="object.user_id.email or ''">admin@yourcompany.example.com</t></span><br/>
-                    <span>Phone: <t t-out="object.user_id.phone or ''">+1 650-123-4567</t></span>
+                    <span>Email: <t t-out="object.user_id.email or ''">admin@tarcin.in</t></span><br/>
+                    <span>Phone: <t t-out="object.user_id.phone or ''">+91 8072399711</t></span>
                     <br/><br/>
                 </t>
                 See you soon,
@@ -178,8 +178,8 @@
                     <h3 style="color:#9A6C8E;"><strong>Your Contact:</strong></h3>
                     <p>
                         <strong t-out="object.user_id.name or ''">Mitchell Admin</strong><br/>
-                        <span>Email: <t t-out="object.user_id.email or ''">admin@yourcompany.example.com</t></span><br/>
-                        <span>Phone: <t t-out="object.user_id.phone or ''">+1 650-123-4567</t></span>
+                        <span>Email: <t t-out="object.user_id.email or ''">admin@tarcin.in</t></span><br/>
+                        <span>Phone: <t t-out="object.user_id.phone or ''">+91 8072399711</t></span>
                     </p>
                     <hr width="97%" style="background-color: rgb(204,204,204); border: medium none; clear: both; display: block; font-size: 0px; min-height: 1px; line-height: 0; margin: 16px 0px 16px 0px;"/>
                 </t>
@@ -250,12 +250,12 @@
                     <t t-if="object.user_id">
                         -- <br/>
                         <strong t-out="object.user_id.name or ''">Marc Demo</strong><br/>
-                        Email: <t t-out="object.user_id.email or ''">mark.brown23@example.com</t><br/>
-                        Phone: <t t-out="object.user_id.phone or ''">+1 650-123-4567</t>
+                        Email: <t t-out="object.user_id.email or ''">mark.brown23@tarcin.in</t><br/>
+                        Phone: <t t-out="object.user_id.phone or ''">+91 8072399711</t>
                     </t>
                     <t t-else="">
                         -- <br/>
-                        <t t-out="object.company_id.name or ''">YourCompany</t><br/>
+                        <t t-out="object.company_id.name or ''">Tarcin</t><br/>
                         The HR Team<br/>
                     </t>
                 </div>
