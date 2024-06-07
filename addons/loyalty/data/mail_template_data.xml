@@ -55,7 +55,7 @@
             Congratulations <t t-out="object._get_mail_partner().name or ''">Brandon Freeman</t>,<br />
         </t>
 
-        Here is your reward from <t t-out="object.program_id.company_id.name or ''">YourCompany</t>.<br />
+        Here is your reward from <t t-out="object.program_id.company_id.name or ''">Tarcin</t>.<br />
 
         <t t-foreach="object.program_id.reward_ids" t-as="reward">
             <t t-if="reward.required_points &lt;= object.points">
