@@ -72,7 +72,7 @@
                         <span style="color: #454748;">
                         -- <br/>
                         <t t-if="event_organizer">
-                            <t t-out="event_organizer.name or ''">YourCompany</t>
+                            <t t-out="event_organizer.name or ''">Tarcin</t>
                         </t>
                         <t t-else="">
                             The <t t-out="object.event_id.name or ''">OpenWood Collection Online Reveal</t> Team
@@ -157,7 +157,7 @@
                             <span style="font-weight:300;margin:10px 0px">Questions about this event?</span>
                             <div>Please contact the organizer:</div>
                             <ul>
-                                <li><t t-out="event_organizer.name or ''">YourCompany</t></li>
+                                <li><t t-out="event_organizer.name or ''">Tarcin</t></li>
                                 <t t-if="event_organizer.email">
                                     <li>Mail: <a t-attf-href="mailto:{{ event_organizer.email }}" style="text-decoration:none;color:#875A7B;" t-out="event_organizer.email">info@yourcompany.com</a></li>
                                 </t>
@@ -218,7 +218,7 @@
     <t t-if="object.company_id">
         <table width="590" border="0" cellpadding="0" cellspacing="0" style="min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;">
         <tr><td style="text-align: center; font-size: 14px;">
-            Sent by <a target="_blank" t-attf-href="{{ object.company_id.website }}" style="color: #875A7B;" t-out="object.company_id.name or ''">YourCompany</a>
+            Sent by <a target="_blank" t-attf-href="{{ object.company_id.website }}" style="color: #875A7B;" t-out="object.company_id.name or ''">Tarcin</a>
             <t t-if="is_online">
                 <br />
                 Discover <a href="/event" style="color:#875A7B;">all our events</a>.
@@ -323,7 +323,7 @@
                         <span style="color: #454748;">
                         -- <br/>
                         <t t-if="event_organizer">
-                            <t t-out="event_organizer.name">YourCompany</t>
+                            <t t-out="event_organizer.name">Tarcin</t>
                         </t>
                         <t t-else="">
                             The <t t-out="object.event_id.name or ''">OpenWood Collection Online Reveal</t> Team
@@ -408,12 +408,12 @@
                             <span style="font-weight:300;margin:10px 0px">Questions about this event?</span>
                             <div>Please contact the organizer:</div>
                             <ul>
-                                <li><t t-out="event_organizer.name or ''">YourCompany</t></li>
+                                <li><t t-out="event_organizer.name or ''">Tarcin</t></li>
                                 <t t-if="event_organizer.email">
                                     <li>Mail: <a t-attf-href="mailto:{{ event_organizer.email }}" style="text-decoration:none;color:#875A7B;" t-out="event_organizer.email or ''">info@yourcompany.com</a></li>
                                 </t>
                                 <t t-if="event_organizer.phone">
-                                    <li>Phone: <t t-out="event_organizer.phone">+1 650-123-4567</t></li>
+                                    <li>Phone: <t t-out="event_organizer.phone">+91 8072399711</t></li>
                                 </t>
                             </ul>
                         </div>
@@ -469,7 +469,7 @@
     <t t-if="object.company_id">
         <table width="590" border="0" cellpadding="0" cellspacing="0" style="min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;">
         <tr><td style="text-align: center; font-size: 14px;">
-            Sent by <a target="_blank" t-attf-href="{{ object.company_id.website }}" style="color: #875A7B;" t-out="object.company_id.name or ''">YourCompany</a>
+            Sent by <a target="_blank" t-attf-href="{{ object.company_id.website }}" style="color: #875A7B;" t-out="object.company_id.name or ''">Tarcin</a>
             <t t-if="is_online">
                 <br />
                 Discover <a href="/event" style="color:#875A7B;">all our events</a>.
@@ -555,7 +555,7 @@
                         <span style="color: #454748;">
                         -- <br/>
                         <t t-if="event_organizer">
-                            <t t-out="event_organizer.name or ''">YourCompany</t>
+                            <t t-out="event_organizer.name or ''">Tarcin</t>
                         </t>
                         <t t-else="">
                             The <t t-out="object.event_id.name or ''">OpenWood Collection Online Reveal</t> Team
@@ -639,7 +639,7 @@
                             <span style="font-weight:300;margin:10px 0px">Questions about this event?</span>
                             <div>Please contact the organizer:</div>
                             <ul>
-                                <li t-out="event_organizer.name or ''">YourCompany</li>
+                                <li t-out="event_organizer.name or ''">Tarcin</li>
                                 <t t-if="event_organizer.email">
                                     <li>Mail: <a t-attf-href="mailto:{{ event_organizer.email }}" style="text-decoration:none;color:#875A7B;" t-out="event_organizer.email or ''"></a></li>
                                 </t>
@@ -691,7 +691,7 @@
 <tr><td align="center" style="min-width: 590px;">
     <table t-if="object.company_id" width="590" border="0" cellpadding="0" cellspacing="0" style="min-width: 590px; background-color: #F1F1F1; color: #454748; padding: 8px; border-collapse:separate;">
       <tr><td style="text-align: center; font-size: 14px;">
-        Sent by <a target="_blank" t-attf-href="{{ object.company_id.website }}" style="color: #875A7B;" t-out="object.company_id.name or ''">YourCompany</a>
+        Sent by <a target="_blank" t-attf-href="{{ object.company_id.website }}" style="color: #875A7B;" t-out="object.company_id.name or ''">Tarcin</a>
         <t t-if="'website_url' in object.event_id and object.event_id.website_url">
             <br />
             Discover <a href="/event" style="color:#875A7B;">all our events</a>.
