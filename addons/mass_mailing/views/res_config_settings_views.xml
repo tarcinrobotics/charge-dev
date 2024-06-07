@@ -12,7 +12,7 @@
                             <setting title="This tool is advised if your marketing campaign is composed of several emails." help="Manage mass mailing campaigns">
                                 <field name="group_mass_mailing_campaign"/>
                             </setting>
-                            <setting name="dedicated_server_setting_container" title="Use a specific mail server in priority. Otherwise Odoo relies on the first outgoing mail server available (based on their sequencing) as it does for normal mails." help="Pick a dedicated outgoing mail server for your mass mailings">
+                            <setting name="dedicated_server_setting_container" title="Use a specific mail server in priority. Otherwise Nirvagi relies on the first outgoing mail server available (based on their sequencing) as it does for normal mails." help="Pick a dedicated outgoing mail server for your mass mailings">
                                 <field name="mass_mailing_outgoing_mail_server"/>
                                 <div class="content-group" invisible="not mass_mailing_outgoing_mail_server">
                                     <div class="mt16">
