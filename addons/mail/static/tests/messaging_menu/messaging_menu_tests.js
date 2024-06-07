@@ -62,7 +62,7 @@ QUnit.test("counter is taking into account failure notification", async () => {
     await contains(".o-mail-MessagingMenu-counter", { text: "1" });
 });
 
-QUnit.test("rendering with OdooBot has a request (default)", async (assert) => {
+QUnit.test("rendering with TarcinBot has a request (default)", async (assert) => {
     patchBrowserNotification("default");
     await start();
     await contains(".o-mail-MessagingMenu-counter");
@@ -77,7 +77,7 @@ QUnit.test("rendering with OdooBot has a request (default)", async (assert) => {
     await contains(".o-mail-NotificationItem", { text: "TarcinBot has a request" });
 });
 
-QUnit.test("rendering without OdooBot has a request (denied)", async () => {
+QUnit.test("rendering without TarcinBot has a request (denied)", async () => {
     patchBrowserNotification("denied");
     await start();
     await click(".o_menu_systray i[aria-label='Messages']");
@@ -85,7 +85,7 @@ QUnit.test("rendering without OdooBot has a request (denied)", async () => {
     await contains(".o-mail-NotificationItem", { count: 0 });
 });
 
-QUnit.test("rendering without OdooBot has a request (accepted)", async () => {
+QUnit.test("rendering without TarcinBot has a request (accepted)", async () => {
     patchBrowserNotification("granted");
     await start();
     await click(".o_menu_systray i[aria-label='Messages']");
