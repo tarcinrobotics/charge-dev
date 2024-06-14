@@ -125,7 +125,7 @@ export class WarningDialog extends Component {
         if (this.props.exceptionName && odooExceptionTitleMap.has(this.props.exceptionName)) {
             return odooExceptionTitleMap.get(this.props.exceptionName).toString();
         }
-        return this.props.title || _t("Odoo Warning");
+        return this.props.title || _t("Nirvagi Warning");
     }
 }
 WarningDialog.template = "web.WarningDialog";
@@ -143,7 +143,7 @@ export class RedirectWarningDialog extends Component {
         this.actionService = useService("action");
         const { data, subType } = this.props;
         const [message, actionId, buttonText, additionalContext] = data.arguments;
-        this.title = capitalize(subType) || _t("Odoo Warning");
+        this.title = capitalize(subType) || _t("Nirvagi Warning");
         this.message = message;
         this.actionId = actionId;
         this.buttonText = buttonText;
