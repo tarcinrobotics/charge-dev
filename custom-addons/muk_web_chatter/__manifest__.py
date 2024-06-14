@@ -9,8 +9,8 @@
     'category': 'Tools/UI',
     'license': 'LGPL-3', 
     'author': 'MuK IT',
-    'website': 'http://www.mukit.at',
-    'live_test_url': 'https://mukit.at/demo',
+    'website': 'https://tarcin.in',
+    'live_test_url': 'https://tarcin.in',
     'contributors': [
         'Mathias Markl <mathias.markl@mukit.at>',
     ],
