@@ -219,7 +219,7 @@ QUnit.test("RedirectWarningDialog", async (assert) => {
         },
     });
     assert.containsOnce(target, ".o_dialog");
-    assert.strictEqual(target.querySelector("header .modal-title").textContent, "Odoo Warning");
+    assert.strictEqual(target.querySelector("header .modal-title").textContent, "Nirvagi Warning");
     assert.strictEqual(target.querySelector("main").textContent, "Some strange unreadable message");
     const footerButtons = target.querySelectorAll("footer button");
     assert.deepEqual(
