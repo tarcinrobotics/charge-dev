@@ -32,15 +32,15 @@
         </g>
       </g>
       <g class="group" transform="translate(8 22)">
-        <path fill="#342E62" stroke="#342E62" d="M62.5 3.648L66.659 8.5 62.5 13.352V3.648zm-59 0v9.704L-.659 8.5 3.5 3.648z" class="combined_shape"/>
+        <path fill="#fff" stroke="#fff" d="M62.5 3.648L66.659 8.5 62.5 13.352V3.648zm-59 0v9.704L-.659 8.5 3.5 3.648z" class="combined_shape"/>
         <use fill="#000" filter="url(#filter-3)" xlink:href="#path-2"/>
-        <use fill="#342E62" fill-opacity=".78" xlink:href="#path-2"/>
+        <use fill="#fff" fill-opacity=".78" xlink:href="#path-2"/>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-5)" xlink:href="#path-4"/>
-          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-4"/>
+          <use fill="#fff" fill-opacity=".95" xlink:href="#path-4"/>
         </g>
         <use fill="#000" filter="url(#filter-7)" xlink:href="#path-6"/>
-        <use fill="#342E62" fill-opacity=".78" xlink:href="#path-6"/>
+        <use fill="#fff" fill-opacity=".78" xlink:href="#path-6"/>
       </g>
     </g>
   </g>

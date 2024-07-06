@@ -27,9 +27,9 @@
       <rect width="82" height="60" class="bg"/>
       <g class="group" transform="translate(15 21)">
         <g class="image_1_border">
-          <rect width="24" height="19" fill="#342E62" class="rectangle"/>
+          <rect width="24" height="19" fill="#fff" class="rectangle"/>
           <g class="oval___oval_mask" transform="translate(.462 .442)">
-            <mask id="mask-2" fill="#342E62">
+            <mask id="mask-2" fill="#fff">
               <use xlink:href="#path-1"/>
             </mask>
             <use fill="#79D1F2" class="mask" xlink:href="#path-1"/>
@@ -37,15 +37,15 @@
             <ellipse cx="23.308" cy="19.884" fill="url(#linearGradient-3)" class="oval" mask="url(#mask-2)" rx="10.846" ry="6.628"/>
             <ellipse cx=".231" cy="20.105" fill="url(#linearGradient-4)" class="oval" mask="url(#mask-2)" rx="17.308" ry="10.384"/>
           </g>
-          <path fill="#342E62" d="M24 0v19H0V0h24zm-1 1H1v17h22V1z" class="rectangle_2"/>
+          <path fill="#fff" d="M24 0v19H0V0h24zm-1 1H1v17h22V1z" class="rectangle_2"/>
         </g>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-6)" xlink:href="#path-5"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-5"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-5"/>
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-8)" xlink:href="#path-7"/>
-          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-7"/>
+          <use fill="#fff" fill-opacity=".348" xlink:href="#path-7"/>
         </g>
       </g>
     </g>

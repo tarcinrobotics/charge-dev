@@ -10916,7 +10916,7 @@ class CanvasGraphics {
     } = _ref;
     const width = this.ctx.canvas.width;
     const height = this.ctx.canvas.height;
-    const defaultBackgroundColor = background || "#342E62";
+    const defaultBackgroundColor = background || "#fff";
     this.ctx.save();
 
     if (this.foregroundColor && this.backgroundColor) {
@@ -10930,7 +10930,7 @@ class CanvasGraphics {
       defaultBg = this.ctx.fillStyle;
       isValidDefaultBg = typeof defaultBg === "string" && /^#[0-9A-Fa-f]{6}$/.test(defaultBg);
 
-      if (fg === "#000000" && bg === "#342E62" || fg === bg || !isValidDefaultBg) {
+      if (fg === "#000000" && bg === "#fff" || fg === bg || !isValidDefaultBg) {
         this.foregroundColor = this.backgroundColor = null;
       } else {
         const [rB, gB, bB] = (0, _display_utils.getRGB)(defaultBg);

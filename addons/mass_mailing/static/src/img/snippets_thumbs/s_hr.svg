@@ -13,9 +13,9 @@
       <g class="group" transform="translate(19 24)">
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-2)" xlink:href="#path-1"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-1"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-1"/>
         </g>
-        <path fill="#342E62" stroke="#342E62" d="M25.925 10.5L22 13.64l-3.925-3.14h7.85zm0-8h-7.85L22-.64l3.925 3.14z" class="combined_shape"/>
+        <path fill="#fff" stroke="#fff" d="M25.925 10.5L22 13.64l-3.925-3.14h7.85zm0-8h-7.85L22-.64l3.925 3.14z" class="combined_shape"/>
       </g>
     </g>
   </g>

@@ -19,13 +19,13 @@
       <g class="group_2" transform="translate(19 21)">
         <g class="rectangle_2">
           <use fill="#000" filter="url(#filter-2)" xlink:href="#path-1"/>
-          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-1"/>
+          <use fill="#fff" fill-opacity=".95" xlink:href="#path-1"/>
         </g>
         <g class="rectangle_copy">
           <use fill="#000" filter="url(#filter-4)" xlink:href="#path-3"/>
           <use fill="#000" fill-opacity=".348" xlink:href="#path-3"/>
         </g>
-        <rect width="44" height="4" fill="#342E62" fill-opacity=".78" class="combined_shape"/>
+        <rect width="44" height="4" fill="#fff" fill-opacity=".78" class="combined_shape"/>
       </g>
     </g>
   </g>

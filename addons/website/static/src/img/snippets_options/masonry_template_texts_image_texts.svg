@@ -10,7 +10,7 @@
         </linearGradient>
     </defs>
     <!-- Text -->
-    <rect x="0" y="5" width="60" height="30" fill="#342E62"/>
+    <rect x="0" y="5" width="60" height="30" fill="#fff"/>
     <rect x="15" y="16" width="30" height="2" fill="#333333"/>
     <rect x="15" y="21" width="30" height="1" fill="#666666"/>
     <rect x="15" y="24" width="20" height="1" fill="#666666"/>
@@ -32,7 +32,7 @@
     <rect x="195" y="21" width="30" height="1" fill="#666666"/>
     <rect x="195" y="24" width="20" height="1" fill="#666666"/>
     <!-- Text -->
-    <rect x="180" y="35" width="60" height="30" fill="#342E62"/>
+    <rect x="180" y="35" width="60" height="30" fill="#fff"/>
     <rect x="195" y="46" width="30" height="2" fill="#333333"/>
     <rect x="195" y="51" width="30" height="1" fill="#666666"/>
     <rect x="195" y="54" width="20" height="1" fill="#666666"/>

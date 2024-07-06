@@ -47,30 +47,30 @@
       <g class="group" transform="translate(15 17)">
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-2)" xlink:href="#path-1"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-1"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-1"/>
         </g>
         <rect width="14" height="1" class="rectangle" fill="url(#linearGradient-13)" transform="translate(0 4)"/>
         <g class="combined_shape" transform="translate(0 3)">
           <use fill="#000" filter="url(#filter-4)" xlink:href="#path-3"/>
-          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-3"/>
+          <use fill="#fff" fill-opacity=".348" xlink:href="#path-3"/>
         </g>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-6)" xlink:href="#path-5"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-5"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-5"/>
         </g>
         <rect width="14" height="1" class="rectangle" fill="url(#linearGradient-13)" transform="translate(20 4)"/>
         <g class="combined_shape" transform="translate(0 3)">
           <use fill="#000" filter="url(#filter-8)" xlink:href="#path-7"/>
-          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-7"/>
+          <use fill="#fff" fill-opacity=".348" xlink:href="#path-7"/>
         </g>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-10)" xlink:href="#path-9"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-9"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-9"/>
         </g>
         <rect width="14" height="1" class="rectangle" fill="url(#linearGradient-13)" transform="translate(39 4)"/>
         <g class="combined_shape" transform="translate(0 3)">
           <use fill="#000" filter="url(#filter-12)" xlink:href="#path-11"/>
-          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-11"/>
+          <use fill="#fff" fill-opacity=".348" xlink:href="#path-11"/>
         </g>
         <g class="group" transform="translate(12 22)">
           <circle cx="2" cy="2" r="2" fill="url(#linearGradient-13)" class="oval"/>

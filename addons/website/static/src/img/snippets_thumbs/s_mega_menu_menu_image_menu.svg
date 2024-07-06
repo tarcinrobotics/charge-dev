@@ -40,16 +40,16 @@
       <g class="group" transform="translate(15 20)">
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-2)" xlink:href="#path-1"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-1"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-1"/>
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-4)" xlink:href="#path-3"/>
-          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-3"/>
+          <use fill="#fff" fill-opacity=".348" xlink:href="#path-3"/>
         </g>
         <g class="image_1_border" transform="translate(19)">
-          <rect width="16" height="20" fill="#342E62" class="rectangle"/>
+          <rect width="16" height="20" fill="#fff" class="rectangle"/>
           <g class="oval___oval_mask" transform="translate(.47 .465)">
-            <mask id="mask-6" fill="#342E62">
+            <mask id="mask-6" fill="#fff">
               <use xlink:href="#path-5"/>
             </mask>
             <use fill="#79D1F2" class="mask" xlink:href="#path-5"/>
@@ -57,15 +57,15 @@
             <ellipse cx="15.294" cy="20.93" fill="url(#linearGradient-7)" class="oval" mask="url(#mask-6)" rx="11.059" ry="6.977"/>
             <ellipse cx="-8.235" cy="21.163" fill="url(#linearGradient-8)" class="oval" mask="url(#mask-6)" rx="17.647" ry="10.93"/>
           </g>
-          <path fill="#342E62" d="M16 0v20H0V0h16zm-1 1H1v18h14V1z" class="rectangle_2"/>
+          <path fill="#fff" d="M16 0v20H0V0h16zm-1 1H1v18h14V1z" class="rectangle_2"/>
         </g>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-10)" xlink:href="#path-9"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-9"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-9"/>
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-12)" xlink:href="#path-11"/>
-          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-11"/>
+          <use fill="#fff" fill-opacity=".348" xlink:href="#path-11"/>
         </g>
       </g>
     </g>

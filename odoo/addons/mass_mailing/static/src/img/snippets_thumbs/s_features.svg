@@ -24,11 +24,11 @@
         <path fill="url(#linearGradient-1)" d="M7 0a6 6 0 1 1 0 12A6 6 0 0 1 7 0zm19 0a6 6 0 1 1 0 12 6 6 0 0 1 0-12zm19 0a6 6 0 1 1 0 12 6 6 0 0 1 0-12z" class="combined_shape"/>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-3)" xlink:href="#path-2"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-2"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-2"/>
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-5)" xlink:href="#path-4"/>
-          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-4"/>
+          <use fill="#fff" fill-opacity=".348" xlink:href="#path-4"/>
         </g>
       </g>
     </g>

@@ -28,7 +28,7 @@ class TrackManifest(http.Controller):
             'scope': url_for('/event'),
             'start_url': url_for('/event'),
             'display': 'standalone',
-            'background_color': '#342E62',
+            'background_color': '#fff',
             'theme_color': '#875A7B',
         }
         icon_sizes = ['192x192', '512x512']

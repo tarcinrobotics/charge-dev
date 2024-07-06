@@ -124,11 +124,11 @@ $o-wevent-color: $body-color;
     }
 
     .o_wevent_cta  {
-        color: #342E62;
+        color: #fff;
         background-color: $o-enterprise-color;
         border: $o-enterprise-color;
         &:hover {
-            color: #342E62;
+            color: #fff;
             background-color: #624159;
             border-color: #52374b;
         }

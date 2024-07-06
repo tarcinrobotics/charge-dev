@@ -133,7 +133,7 @@
     </record>
 
     <record id="product.product_attribute_value_3" model="product.attribute.value">
-        <field name="html_color">#342E62</field>
+        <field name="html_color">#fff</field>
     </record>
     <record id="product.product_attribute_value_4" model="product.attribute.value">
         <field name="html_color">#000000</field>

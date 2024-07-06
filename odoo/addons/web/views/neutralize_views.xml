@@ -5,7 +5,7 @@
             <div>
                 <span id="oe_neutralize_banner" t-attf-style="
                         text-align: center;
-                        color: #342E62;
+                        color: #fff;
                         background-color: #D0442C;
                         position: relative;
                         display: block;

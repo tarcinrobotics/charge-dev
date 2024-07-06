@@ -10065,7 +10065,7 @@
         static id = 'arc';
         static defaults = {
             borderAlign: 'center',
-            borderColor: '#342E62',
+            borderColor: '#fff',
             borderDash: [],
             borderDashOffset: 0,
             borderJoinStyle: undefined,
@@ -14789,18 +14789,18 @@
             external: null,
             position: 'average',
             backgroundColor: 'rgba(0,0,0,0.8)',
-            titleColor: '#342E62',
+            titleColor: '#fff',
             titleFont: {
                 weight: 'bold'
             },
             titleSpacing: 2,
             titleMarginBottom: 6,
             titleAlign: 'left',
-            bodyColor: '#342E62',
+            bodyColor: '#fff',
             bodySpacing: 2,
             bodyFont: {},
             bodyAlign: 'left',
-            footerColor: '#342E62',
+            footerColor: '#fff',
             footerSpacing: 2,
             footerMarginTop: 6,
             footerFont: {
@@ -14813,7 +14813,7 @@
             cornerRadius: 6,
             boxHeight: (ctx, opts)=>opts.bodyFont.size,
             boxWidth: (ctx, opts)=>opts.bodyFont.size,
-            multiKeyBackground: '#342E62',
+            multiKeyBackground: '#fff',
             displayColors: true,
             boxPadding: 0,
             borderColor: 'rgba(0,0,0,0)',

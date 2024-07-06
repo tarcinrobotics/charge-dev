@@ -3,7 +3,7 @@
     <g class="3_buttons_copy_7" transform="translate(-170 -5)">
       <g class="size_medium" transform="translate(170 5)">
         <path fill="#B8B8B8" d="M23 0v12H0V0h23zm-4 2H4v8h15V2z" class="o_subdle"/>
-        <rect width="13" height="6" x="5" y="3" fill="#342E62" class="o_graphic"/>
+        <rect width="13" height="6" x="5" y="3" fill="#fff" class="o_graphic"/>
       </g>
     </g>
   </g>

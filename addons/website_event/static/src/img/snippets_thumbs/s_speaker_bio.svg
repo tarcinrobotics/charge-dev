@@ -37,22 +37,22 @@
         <g class="group_2" transform="translate(13 1)">
           <g class="rectangle">
             <use fill="#000" filter="url(#filter-2)" xlink:href="#path-1"/>
-            <use fill="#342E62" fill-opacity=".95" xlink:href="#path-1"/>
+            <use fill="#fff" fill-opacity=".95" xlink:href="#path-1"/>
           </g>
           <g class="rectangle">
             <use fill="#000" filter="url(#filter-4)" xlink:href="#path-3"/>
-            <use fill="#342E62" fill-opacity=".348" xlink:href="#path-3"/>
+            <use fill="#fff" fill-opacity=".348" xlink:href="#path-3"/>
           </g>
           <g class="rectangle">
             <use fill="#000" filter="url(#filter-6)" xlink:href="#path-5"/>
-            <use fill="#342E62" fill-opacity=".348" xlink:href="#path-5"/>
+            <use fill="#fff" fill-opacity=".348" xlink:href="#path-5"/>
           </g>
           <g class="rectangle">
             <use fill="#000" filter="url(#filter-8)" xlink:href="#path-7"/>
-            <use fill="#342E62" fill-opacity=".348" xlink:href="#path-7"/>
+            <use fill="#fff" fill-opacity=".348" xlink:href="#path-7"/>
           </g>
         </g>
-        <mask id="mask-11" fill="#342E62">
+        <mask id="mask-11" fill="#fff">
           <use xlink:href="#path-10"/>
         </mask>
         <use fill="url(#linearGradient-9)" class="user" xlink:href="#path-10"/>

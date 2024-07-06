@@ -31,7 +31,7 @@ Content-Transfer-Encoding: quoted-printable
  <head>=20
   <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
  </head>=20
- <body style=3D"margin: 0; padding: 0; background: #342E62;-webkit-text-size-adjust: 100%;">=20
+ <body style=3D"margin: 0; padding: 0; background: #fff;-webkit-text-size-adjust: 100%;">=20
 
   <p>Please call me as soon as possible this afternoon!</p>
 
@@ -73,7 +73,7 @@ Content-Transfer-Encoding: quoted-printable
  <head>=20
   <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
  </head>=20
- <body style=3D"margin: 0; padding: 0; background: #342E62;-webkit-text-size-adjust: 100%;">=20
+ <body style=3D"margin: 0; padding: 0; background: #fff;-webkit-text-size-adjust: 100%;">=20
 
   <p>Please call me as soon as possible this afternoon!</p>
   {extra_html}
@@ -124,7 +124,7 @@ Message-ID: {msg_id}
  <head>=20
   <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
  </head>=20
- <body style=3D"margin: 0; padding: 0; background: #342E62;-webkit-text-size-adjust: 100%;">=20
+ <body style=3D"margin: 0; padding: 0; background: #fff;-webkit-text-size-adjust: 100%;">=20
 
   <p>Please call me as soon as possible this afternoon!</p>
 
@@ -679,7 +679,7 @@ Content-Transfer-Encoding: 8bit
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
   </head>
-  <body text="#000000" bgcolor="#342E62">
+  <body text="#000000" bgcolor="#fff">
     <p><img
 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjCNAadd3NDM8g9w0P_-gAVYrrqC0wmBNYKGsTZ2Pst5SsNxTRnA"
         alt="Résultat de recherche d'images pour &quot;dessin la
@@ -928,7 +928,7 @@ e; font-weight: bold;">
                       <tr>
                         <td align=3D"center" style=3D"min-width: 590px;">
                           <table width=3D"590" border=3D"0" cellpadding=3D=
-"0" bgcolor=3D"#342E62" style=3D"min-width: 590px; background-color: rgb(25=
+"0" bgcolor=3D"#fff" style=3D"min-width: 590px; background-color: rgb(25=
 5, 255, 255); padding: 20px;">
                             <tbody>
                               <tr><td valign=3D"top" style=3D"font-family:A=
@@ -961,13 +961,13 @@ cida Grande&quot;, Helvetica, Verdana, Arial, sans-serif">Thank you,</p>
 5,90,123); padding: 20px;">
                             <tbody><tr>
                               <td valign=3D"middle" align=3D"left" style=
-=3D"color: #342E62; padding-top: 10px; padding-bottom: 10px; font-size: 12px;"=
+=3D"color: #fff; padding-top: 10px; padding-bottom: 10px; font-size: 12px;"=
 >
                                 xxxx<br />
                                 +1-801-980-4240
                               </td>
                               <td valign=3D"middle" align=3D"right" style=
-=3D"color: #342E62; padding-top: 10px; padding-bottom: 10px; font-size: 12px;"=
+=3D"color: #fff; padding-top: 10px; padding-bottom: 10px; font-size: 12px;"=
 >
                                 <a href=3D"http://erp.xxxx.xxxx/info@xxxx-a=
 aa.com" style=3D"text-decoration:none; color: white;">info@aust-mfg.com</a>=

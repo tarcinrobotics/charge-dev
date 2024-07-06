@@ -31,7 +31,7 @@ class ProductAttributeValue(models.Model):
                 attribute_id = values.get("attribute_id")
                 if attribute_id in color_attribute_ids:
                     values["html_color"] = r.choice(
-                        ["#342E62", "#000000", "#FFC300", "#1BC56D", "#342E62F00", "#FF0000"],
+                        ["#fff", "#000000", "#FFC300", "#1BC56D", "#fffF00", "#FF0000"],
                     )
                 elif not r.getrandbits(4):
                     values["is_custom"] = True

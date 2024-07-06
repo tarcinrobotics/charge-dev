@@ -32,7 +32,7 @@ class TestProductConfiguratorCommon(TransactionCase):
         product_attribute_value_3 = cls.env['product.attribute.value'].create({
             'name': 'White',
             'attribute_id': product_attribute_2.id,
-            'html_color': '#342E62',
+            'html_color': '#fff',
             'sequence': 1,
         })
         product_attribute_value_4 = cls.env['product.attribute.value'].create({

@@ -64,7 +64,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        color: #342E62;
+        color: #fff;
         background-color: rgba($color: $o-brand-odoo, $alpha: 0.7);
     }
     .o_table_ui_menu {
@@ -491,7 +491,7 @@ $oe-dropzone-size: $oe-dropzone-size-outside + $oe-dropzone-size-inside;
 .oe-collaboration-caret-top-square {
     min-height: 5px;
     min-width: 5px;
-    color: #342E62;
+    color: #fff;
     text-shadow: 0 0 5px #000;
     position: absolute;
     bottom: 100%;

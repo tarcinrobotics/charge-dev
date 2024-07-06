@@ -25,7 +25,7 @@
           <rect width="82" height="60" class="rectangle"/>
         </g>
       </g>
-      <rect width="41" height="60" fill="#342E62" class="rectangle"/>
+      <rect width="41" height="60" fill="#fff" class="rectangle"/>
       <g class="group" transform="translate(4 22)">
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-3)" xlink:href="#path-2"/>

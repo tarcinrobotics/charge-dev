@@ -94,13 +94,13 @@ body .text-color {
     color: #00438b;
 }
 .slice {
-    stroke: #342E62;
+    stroke: #fff;
     stroke-width: 0px;
 }
 
 /* Leave graph */
 
-path {  stroke: #342E62; }
+path {  stroke: #fff; }
 path:hover {  opacity:0.9; }
 rect:hover {  fill:#934da5; }
 .axis {  font: 10px sans-serif; }
@@ -161,7 +161,7 @@ rect:hover {  fill:#934da5; }
 }
 
 #broad_factor_pdf {
-    background-color: #342E62;
+    background-color: #fff;
     border: 0;
     color : #000000;
     float: right;
@@ -235,7 +235,7 @@ rect:hover {  fill:#934da5; }
 }
 .employee-prof .employee-icon img{
     width: 100%;
-    background: #342E62;
+    background: #fff;
 }
 
 .employee-prof .employee-name h2 {
@@ -246,7 +246,7 @@ rect:hover {  fill:#934da5; }
     font-size: 17px;
     margin-top: 12px;
     margin-bottom: 2px;
-    color: #342E62;
+    color: #fff;
 
 }
 .media-body.employee-name {
@@ -267,7 +267,7 @@ rect:hover {  fill:#934da5; }
 }
 .employee-prof p {
     margin: 0 0 9px;
-    color: #342E62;
+    color: #fff;
 }
 .employee-gender {
     width: 40%;
@@ -281,7 +281,7 @@ rect:hover {  fill:#934da5; }
 }
 .employee-gender p {
     margin: 0px 0 4px !important;
-    color: #342E62;
+    color: #fff;
 }
 .employee-age {
     width: 40%;
@@ -294,7 +294,7 @@ rect:hover {  fill:#934da5; }
 }
 .employee-age p {
     margin: 0 0 1px;
-    color: #342E62;
+    color: #fff;
 }
 .employee-experience {
 
@@ -318,7 +318,7 @@ rect:hover {  fill:#934da5; }
 }
 .employee-country p {
     margin: 0px 0 1px !important;
-    color: #342E62;
+    color: #fff;
 }
 .employee-mobile {
     width: 40%;
@@ -331,7 +331,7 @@ rect:hover {  fill:#934da5; }
 }
 .employee-mobile p {
     margin: 0 0 1px;
-    color: #342E62;
+    color: #fff;
 }
 .oh-payslip {
 
@@ -345,7 +345,7 @@ rect:hover {  fill:#934da5; }
     text-align: center;
     padding-top: 15%;
     background: #ff8762;
-    color: #342E62;
+    color: #fff;
 
 }
 .oh-payslip .oh-card {
@@ -377,7 +377,7 @@ rect:hover {  fill:#934da5; }
     font-size: 25px;
     font-weight: 900;
     display: inline-block;
-    color: #342E62;
+    color: #fff;
 
 }
 .stat-widget-one {
@@ -417,7 +417,7 @@ rect:hover {  fill:#934da5; }
 }
 .leave-manager {
 
-    background-color: #342E62;
+    background-color: #fff;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     will-change: transform, box-shadow;
     box-shadow: 0 10px 40px 0 rgba(62,57,107,0.07), 0 2px 9px 0 rgba(62,57,107,0.06);
@@ -507,7 +507,7 @@ h4 .stat-count {
     padding: 5.2rem 0;
     margin: 0;
     background: #ff8762;
-    color: #342E62;
+    color: #fff;
 
 }
 .leaves_request_today h4 {
@@ -515,7 +515,7 @@ h4 .stat-count {
     padding: 2.2rem 0;
     margin: 0 !important;
     background: #5ebade;
-    color: #342E62;
+    color: #fff;
 
 }
 .leaves_request_month h4 {
@@ -523,12 +523,12 @@ h4 .stat-count {
     padding: 2.1rem 0;
     margin: 0 !important;
     background: #b298e1;
-    color: #342E62;
+    color: #fff;
 
 }
 .leaves_request_today  h4 .stat-count ,.leaves_request_month h4 .stat-count , .hr_leave_request_approve h4 .stat-count
 {
-    color:#342E62 !important;
+    color:#fff !important;
 }
 .graph_view .legend {
     margin-bottom: -49px !important;
@@ -540,7 +540,7 @@ h4 .stat-count {
 }
 .hr-chart-1{
     margin: 15px 0px;
-    background: #342E62;
+    background: #fff;
     padding: 0px !important;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     will-change: transform, box-shadow;
@@ -580,7 +580,7 @@ h4 .stat-count {
     padding: 2.5rem 0;
     margin: 0;
     background: #ff8762;
-    color: #342E62;
+    color: #fff;
     width: 26%;
     float: left;
 }
@@ -588,7 +588,7 @@ h4 .stat-count {
 
     font-size: 17px;
     text-align: center;
-    color: #342E62 !important;
+    color: #fff !important;
     margin-top: 0px;
     width: 100%;
     float: left;
@@ -605,7 +605,7 @@ h4 .stat-count {
     box-shadow: 0 10px 40px 0 rgba(62,57,107,0.07), 0 2px 9px 0 rgba(62,57,107,0.06);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     will-change: transform, box-shadow;
-    background: #342E62;
+    background: #fff;
     height: 80px;
 
 }
@@ -615,7 +615,7 @@ h4 .stat-count {
 }
 .leave-manager {
 
-    background-color: #342E62;
+    background-color: #fff;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     will-change: transform, box-shadow;
     box-shadow: 0 10px 40px 0 rgba(62,57,107,0.07), 0 2px 9px 0 rgba(62,57,107,0.06);
@@ -640,7 +640,7 @@ h4 .stat-count {
     box-shadow: 0 10px 40px 0 rgba(62,57,107,0.07), 0 2px 9px 0 rgba(62,57,107,0.06);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     will-change: transform, box-shadow;
-    background: #342E62;
+    background: #fff;
     margin-top: 15px;
     height: 80px;
 
@@ -661,7 +661,7 @@ h4 .stat-count {
     padding: 2.5rem 0;
     margin: 0;
     background: #70cac1;
-    color: #342E62;
+    color: #fff;
     width: 26%;
     float: left;
 
@@ -669,7 +669,7 @@ h4 .stat-count {
 .hr_job_application_approve .stat-count {
 
     font-size: 17px !important;
-    color: #342E62 !important;
+    color: #fff !important;
     margin-top: 0px !important;
     width: 100%;
     float: left;
@@ -702,14 +702,14 @@ h4 .stat-count {
 }
 .hr_attendance_login .stat-content {
     width: 100%;
-    color: #342E62 !important;
+    color: #fff !important;
 }
 .hr_attendance_login .stat-widget-one .stat-text {
     margin: 0;
     text-align: center;
     width: 100% !important;
     padding: 0;
-    color: #342E62;
+    color: #fff;
 }
 .hr_attendance_login .stat-widget-one .stat-icon .fa {
     font-size: 50px;
@@ -723,7 +723,7 @@ h4 .stat-count {
     margin-top: 1.5%;
 }
 .monthly_leave_graph_view .oh-card {
-    background: #342E62;
+    background: #fff;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     will-change: transform, box-shadow;
     box-shadow: 0 10px 40px 0 rgba(62,57,107,0.07), 0 2px 9px 0 rgba(62,57,107,0.06);
@@ -731,7 +731,7 @@ h4 .stat-count {
 }
 .broad_factor_graph .oh-card {
     padding: 15px !important;
-    background: #342E62;
+    background: #fff;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     will-change: transform, box-shadow;
     box-shadow: 0 10px 40px 0 rgba(62,57,107,0.07), 0 2px 9px 0 rgba(62,57,107,0.06);
@@ -746,7 +746,7 @@ h4 .stat-count {
 }
 #broad_factor_pdf {
 
-    background-color: #342E62;
+    background-color: #fff;
     float: right;
     border-radius: 30px;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -775,7 +775,7 @@ h4 .stat-count {
     border-radius: 100%;
 }
 .hr_notification {
-    background: #342E62;
+    background: #fff;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     will-change: transform, box-shadow;
     box-shadow: 0 10px 40px 0 rgba(62,57,107,0.07), 0 2px 9px 0 rgba(62,57,107,0.06);
@@ -801,13 +801,13 @@ h4 .stat-count {
     font-size: 17px;
     text-align: center;
     padding: 12px 0;
-    color: #342E62;
+    color: #fff;
     font-weight: 300;
     background: #5ebade;
     margin-bottom: 9px;
 }
 .monthly_leave_trend .oh-card{
-    background: #342E62;
+    background: #fff;
     transition: none !important;
     will-change: none !important;
     box-shadow: none !important;
@@ -828,13 +828,13 @@ h4 .stat-count {
     shape-rendering: crispEdges;
 }
 .monthly_leave_trend circle{
-    fill: #342E62;
+    fill: #fff;
     stroke: #44b7ac;
     stroke-width: 1.5;
 }
 .hr-chart-1 {
     margin: 15px 0px;
-    background: #342E62;
+    background: #fff;
     padding: 0px !important;
         padding-top: 0px;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -843,7 +843,7 @@ h4 .stat-count {
     padding-top: 3px !important;
 }
 .monthly_leave_trend {
-    background: #342E62;
+    background: #fff;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     will-change: transform, box-shadow;
     box-shadow: 0 10px 40px 0 rgba(62,57,107,0.07), 0 2px 9px 0 rgba(62,57,107,0.06);
@@ -860,7 +860,7 @@ h4 .stat-count {
 }
 
 .monthly_join_resign_trend .oh-card {
-    background: #342E62;
+    background: #fff;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     will-change: transform, box-shadow;
     box-shadow: 0 10px 40px 0 rgba(62,57,107,0.07), 0 2px 9px 0 rgba(62,57,107,0.06);
@@ -907,13 +907,13 @@ h4 .stat-count {
     shape-rendering: crispEdges;
 }
 .monthly_attrition_rate circle{
-    fill: #342E62;
+    fill: #fff;
     stroke: #44b7ac;
     stroke-width: 1.5;
 }
 
 .monthly_attrition_rate .oh-card {
-    background: #342E62;
+    background: #fff;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     will-change: transform, box-shadow;
     box-shadow: 0 10px 40px 0 rgba(62,57,107,0.07), 0 2px 9px 0 rgba(62,57,107,0.06);
@@ -966,7 +966,7 @@ h4 .stat-count {
 .oh-ribbon span {
     font-size: 10px;
     font-weight: bold;
-    color: #342E62;
+    color: #fff;
     text-transform: uppercase;
     text-align: center;
     line-height: 20px;

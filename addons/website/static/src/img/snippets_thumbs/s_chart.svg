@@ -38,7 +38,7 @@
         <rect width="6" height="13" x="33" y="4" fill="url(#linearGradient-5)" class="rectangle" rx="1"/>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-7)" xlink:href="#path-6"/>
-          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-6"/>
+          <use fill="#fff" fill-opacity=".95" xlink:href="#path-6"/>
         </g>
       </g>
     </g>

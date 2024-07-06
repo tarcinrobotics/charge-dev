@@ -598,7 +598,7 @@
                     "tag": "chart",
                     "data": {
                         "title": "",
-                        "background": "#342E62",
+                        "background": "#fff",
                         "legendPosition": "right",
                         "metaData": {
                             "groupBy": [

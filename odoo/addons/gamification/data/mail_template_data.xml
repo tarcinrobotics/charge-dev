@@ -144,7 +144,7 @@
                         </div>
                     </tr>
                 </table>
-                <table cellspacing="0" cellpadding="0" width="100%" bgcolor="#342E62" style="background-color:#342E62;">
+                <table cellspacing="0" cellpadding="0" width="100%" bgcolor="#fff" style="background-color:#fff;">
                     <tr><td style="padding: 15px;">
                         <t t-if="object.visibility_mode == 'personal'">
                             <span style="color:#666666;font-size:13px;">Here is your current progress in the challenge <strong t-out="object.name or ''"></strong>.</span>
@@ -246,7 +246,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div t-attf-style="background-color:{{ bgColor }};height:{{ heightB }}px;">
-                                                                    <strong><span t-attf-style="color:#342E62;font-size:{{ fontSize }}px;" t-out="podiumPosition or ''"></span></strong>
+                                                                    <strong><span t-attf-style="color:#fff;font-size:{{ fontSize }}px;" t-out="podiumPosition or ''"></span></strong>
                                                                 </div>
                                                                 <div style="height:30px;">
                                                                     <t t-out="&quot;%.2f&quot; % goal['current'] or ''"></t>
@@ -288,7 +288,7 @@
                                                 </thead>
                                                 <tbody t-foreach="line['goals']" t-as="goal">
                                                     <tr>
-                                                        <t t-set="tdBgColor" t-value="'#342E62'"/>
+                                                        <t t-set="tdBgColor" t-value="'#fff'"/>
                                                         <t t-set="tdColor" t-value="'gray'"/>
                                                         <t t-set="mutedColor" t-value="'#AAAAAA'"/>
                                                         <t t-set="tdPercentageColor" t-value="'#9A6C8E'"/>
@@ -347,7 +347,7 @@
                     <t t-foreach="gamification_redirection_data" t-as="data">
                         <t t-set="url" t-value="data['url']"/>
                         <t t-set="label" t-value="data['label']"/>
-                        <a t-att-href="url" style="background-color: #875A7B; padding: 8px 16px 8px 16px; text-decoration: none; color: #342E62; border-radius: 5px; font-size:13px;" t-out="label or ''">LABEL</a>
+                        <a t-att-href="url" style="background-color: #875A7B; padding: 8px 16px 8px 16px; text-decoration: none; color: #fff; border-radius: 5px; font-size:13px;" t-out="label or ''">LABEL</a>
                     </t>
                 </div>
             </td>

@@ -64,7 +64,7 @@ class TestController(HttpCase):
   <rect width="300" height="300" style="fill:#3AADAA;" />
   <rect x="20" y="20" width="300" height="300" style="fill:#7C6576;" />
   <rect x="40" y="40" width="300" height="300" style="fill:#F6F6F6;" />
-  <rect x="60" y="60" width="300" height="300" style="fill:#342E62;" />
+  <rect x="60" y="60" width="300" height="300" style="fill:#fff;" />
   <rect x="80" y="80" width="300" height="300" style="fill:#383E45;" />
 </svg>
         """

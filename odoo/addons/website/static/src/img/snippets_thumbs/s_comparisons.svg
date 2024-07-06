@@ -49,23 +49,23 @@
         <rect width="8" height="3" x="22" y="29" fill="url(#linearGradient-2)" class="rectangle"/>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-4)" xlink:href="#path-3"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-3"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-3"/>
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-6)" xlink:href="#path-5"/>
-          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-5"/>
+          <use fill="#fff" fill-opacity=".348" xlink:href="#path-5"/>
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-8)" xlink:href="#path-7"/>
-          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-7"/>
+          <use fill="#fff" fill-opacity=".348" xlink:href="#path-7"/>
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-10)" xlink:href="#path-9"/>
-          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-9"/>
+          <use fill="#fff" fill-opacity=".348" xlink:href="#path-9"/>
         </g>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-12)" xlink:href="#path-11"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-11"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-11"/>
         </g>
       </g>
     </g>

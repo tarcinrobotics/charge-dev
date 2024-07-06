@@ -494,7 +494,7 @@
             h3 {
                 font-size: 14px;
                 font-weight: bolder;
-                color: #342E62;
+                color: #fff;
                 font-family: Tahoma, Verdana, Segoe, sans-serif;
             }
             p, p > *, li, li > * {
@@ -934,7 +934,7 @@
                 border-color: #D3C5B1;
             }
             a.btn.btn-secondary, a.btn.btn-outline-secondary, a.btn.btn-fill-secondary {
-                color: #342E62;
+                color: #fff;
                 background-color: #543427;
                 border-color: #543427;
             }
@@ -1103,7 +1103,7 @@
             }
             a.btn.btn-secondary, a.btn.btn-outline-secondary, a.btn.btn-fill-secondary {
                 color: #CE0000;
-                background-color: #342E62;
+                background-color: #fff;
                 border-color: #CE0000;
             }
         </style>

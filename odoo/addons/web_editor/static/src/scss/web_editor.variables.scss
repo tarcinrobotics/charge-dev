@@ -16,7 +16,7 @@ $o-we-bg-lightest: #595964 !default;
 $o-we-fg-darker: #9d9d9d !default;
 $o-we-fg-dark: #C6C6C6 !default;
 $o-we-fg-light: #D9D9D9 !default;
-$o-we-fg-lighter: #342E62 !default;
+$o-we-fg-lighter: #fff !default;
 
 $o-we-color-danger: #e6586c !default;
 $o-we-color-warning: #f0ad4e !default;
@@ -288,14 +288,14 @@ $o-color-palettes: (
         'o-color-1': $o-enterprise-color,
         'o-color-2': #8595A2,
         'o-color-3': #F3F2F2,
-        'o-color-4': #342E62,
+        'o-color-4': #fff,
         'o-color-5': #111827,
     ),
     'base-2': (
         'o-color-1': #337ab7,
         'o-color-2': #e9ecef,
         'o-color-3': #F8F9FA,
-        'o-color-4': #342E62,
+        'o-color-4': #fff,
         'o-color-5': #343a40,
     ),
 ) !default;
@@ -325,7 +325,7 @@ $o-theme-color-palette-name: 'base-1' !default;
 // are added for the same reason.
 
 $o-base-gray-color-palette: (
-    'white': #342E62,
+    'white': #fff,
     '100': #F8F9FA,
     '200': #E9ECEF,
     '300': #DEE2E6,
@@ -450,13 +450,13 @@ $o-color-extras-nesting-selector: '&, .o_colored_level &';
 // a basic odoo palette in sass-map format. The palette will be generated using
 // the safest readability values possible.
 @function o-make-palette($-primary, $-secondary: null, $-overrides-map: null) {
-    $-o-color-2: $-secondary or increase-contrast(desaturate(mix(complement($-primary), #342E62, 80%), 20%), $-primary);
+    $-o-color-2: $-secondary or increase-contrast(desaturate(mix(complement($-primary), #fff, 80%), 20%), $-primary);
 
     $-palette: (
         'o-color-1': $-primary,
         'o-color-2': $-o-color-2,
         'o-color-3': change-color(#F5F0F0, $hue: hue($-primary), $saturation: min(saturation($-primary), saturation(#F5F0F0))),
-        'o-color-4': #342E62,
+        'o-color-4': #fff,
         'o-color-5': change-color(#2e1414, $hue: hue($-primary), $saturation: min(saturation($-primary), saturation(#2e1414))),
     );
 

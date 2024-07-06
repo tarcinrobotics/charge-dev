@@ -79,7 +79,7 @@
     </template>
 
     <template id="mass_mailing.mass_mailing_kpi_link_trackers" name="Marketing: mailing link trackers statistic">
-        <table t-if="link_trackers" class="global_table_layout" bgcolor="#342E62" cellspacing="0" cellpadding="0" align="center" border="0" style="width: 100%;">
+        <table t-if="link_trackers" class="global_table_layout" bgcolor="#fff" cellspacing="0" cellpadding="0" align="center" border="0" style="width: 100%;">
             <tr>
                 <td style="width: 100%;">
                     <table cellspacing="0" cellpadding="0" border="0" align="center" style="width:100%;">

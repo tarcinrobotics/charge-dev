@@ -82,7 +82,7 @@ $o-onboarding-step-width: map-get($container-max-widths, 'lg') / 4 !default;
         .o_onboarding_step_action__done {
             i {
                 background-color: $o-onboarding-color-orange;
-                color: #342E62;
+                color: #fff;
             }
         }
 

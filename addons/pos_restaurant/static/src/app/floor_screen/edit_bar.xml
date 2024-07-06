@@ -51,7 +51,7 @@
             </span>
         </div>
         <div t-if="props.isColorPicker and props.selectedTables.length > 0" class="color-picker d-flex justify-content-center align-items-center bg-200 h-54">
-            <span class="color py-4 cursor-pointer float-start"  style="background-color:#342E62" role="img" aria-label="White" title="White" t-on-click.stop="() => props.setTableColor('#342E62')" />
+            <span class="color py-4 cursor-pointer float-start"  style="background-color:#fff" role="img" aria-label="White" title="White" t-on-click.stop="() => props.setTableColor('#fff')" />
             <span class="color py-4 cursor-pointer float-start"  style="background-color:#EB6D6D" role="img" aria-label="Red" title="Red" t-on-click.stop="() => props.setTableColor('#EB6D6D')" />
             <span class="color py-4 cursor-pointer float-start"  style="background-color:#35D374" role="img" aria-label="Green" title="Green" t-on-click.stop="() => props.setTableColor('#35D374')" />
             <span class="color py-4 cursor-pointer float-start"  style="background-color:#6C6DEC" role="img" aria-label="Blue" title="Blue" t-on-click.stop="() => props.setTableColor('#6C6DEC')" />

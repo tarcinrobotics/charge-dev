@@ -116,7 +116,7 @@
     const SELECTION_BORDER_COLOR = "#3266ca";
     const HEADER_BORDER_COLOR = "#C0C0C0";
     const CELL_BORDER_COLOR = "#E2E3E3";
-    const BACKGROUND_CHART_COLOR = "#342E62";
+    const BACKGROUND_CHART_COLOR = "#fff";
     const BG_HOVER_COLOR = "#EBEBEB";
     const DISABLED_TEXT_COLOR = "#CACACA";
     const DEFAULT_COLOR_SCALE_MIDPOINT_COLOR = 0xb6d7a8;
@@ -143,11 +143,11 @@
         "#D9D9D9",
         "#EFEFEF",
         "#F3F3F3",
-        "#342E62",
+        "#fff",
         "#980000",
         "#FF0000",
         "#FF9900",
-        "#342E62F00",
+        "#fffF00",
         "#00FF00",
         "#00FFFF",
         "#4A86E8",
@@ -157,7 +157,7 @@
         "#E6B8AF",
         "#F4CCCC",
         "#FCE5CD",
-        "#342E622CC",
+        "#fff2CC",
         "#D9EAD3",
         "#D0E0E3",
         "#C9DAF8",
@@ -5065,7 +5065,7 @@
         if (!backgroundColor) {
             return "#000000";
         }
-        return relativeLuminance(backgroundColor) < 0.3 ? "#342E62" : "#000000";
+        return relativeLuminance(backgroundColor) < 0.3 ? "#fff" : "#000000";
     }
     function checkDataset(definition) {
         if (definition.dataSets) {
@@ -7999,7 +7999,7 @@
         border: none;
         height: 20px;
         width: 20px;
-        background-color: #342E62;
+        background-color: #fff;
         margin: 2px 3px 1px 0px;
         padding: 0px 1px 0px 0px;
       }
@@ -8521,7 +8521,7 @@
             const { ctx } = chart;
             ctx.save();
             ctx.globalCompositeOperation = "destination-over";
-            ctx.fillStyle = "#342E62";
+            ctx.fillStyle = "#fff";
             ctx.fillRect(0, 0, chart.width, chart.height);
             ctx.restore();
         },
@@ -8886,7 +8886,7 @@
             display: false,
             font: {
                 size: 30,
-                color: "#342E62",
+                color: "#fff",
             },
             backgroundColor: "#000000",
             borderColor: "#000000",
@@ -9588,7 +9588,7 @@
             const dataset = {
                 label,
                 data,
-                borderColor: "#342E62",
+                borderColor: "#fff",
                 backgroundColor,
             };
             config.data.datasets.push(dataset);
@@ -10337,7 +10337,7 @@
                         percent,
                     },
                     valueLabel: {
-                        textColor: this.valueLabelOptions.font?.color || "#342E62",
+                        textColor: this.valueLabelOptions.font?.color || "#fff",
                         backgroundColor: this.valueLabelOptions.backgroundColor || "#000",
                         borderColor: this.valueLabelOptions.borderColor || "#000",
                         borderRadius: this.valueLabelOptions.borderRadius || 10,
@@ -21980,13 +21980,13 @@
         width: ${MAGNIFIER_EDGE}px;
         box-sizing: border-box;
         border-radius: 50%;
-        border: 2px solid #342E62;
+        border: 2px solid #fff;
         box-shadow: 0px 0px 3px #c0c0c0;
         position: absolute;
         z-index: 2;
       }
       .saturation {
-        background: linear-gradient(to right, #342E62 0%, transparent 100%);
+        background: linear-gradient(to right, #fff 0%, transparent 100%);
       }
       .lightness {
         background: linear-gradient(to top, #000 0%, transparent 100%);
@@ -25933,7 +25933,7 @@
 
   .o-autofill-nextvalue {
     position: absolute;
-    background-color: #342E62;
+    background-color: #fff;
     border: 1px solid black;
     padding: 5px;
     font-size: 12px;
@@ -26081,7 +26081,7 @@
   .o-autocomplete-dropdown {
     pointer-events: auto;
     cursor: pointer;
-    background-color: #342E62;
+    background-color: #fff;
     max-width: 400px;
 
     .o-autocomplete-value-focus {
@@ -26452,7 +26452,7 @@
     // -----------------------------------------------------------------------------
     css /* scss */ `
   .o-formula-assistant {
-    background: #342E62;
+    background: #fff;
     .o-formula-assistant-head {
       background-color: #f2f2f2;
       padding: 10px;
@@ -27256,7 +27256,7 @@
             // position style
             const { x: left, y: top, width, height } = this.rect;
             // color style
-            const background = (!isFormula && style.fillColor) || "#342E62";
+            const background = (!isFormula && style.fillColor) || "#fff";
             const color = (!isFormula && style.textColor) || "#000000";
             // font style
             const fontSize = (!isFormula && style.fontSize) || 10;
@@ -27406,7 +27406,7 @@
   }
   .o-filter-icon:hover {
     background: ${FILTERS_COLOR};
-    color: #342E62;
+    color: #fff;
   }
 `;
     class FilterIcon extends owl.Component {
@@ -27495,7 +27495,7 @@
     width: ${GRID_ICON_EDGE_LENGTH}px;
 
     &:hover {
-      color: #342E62;
+      color: #fff;
       background-color: #808080;
     }
 
@@ -28249,7 +28249,7 @@
     }
 
     const CURSOR_SVG = /*xml*/ `
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="16"><path d="M6.5.4c1.3-.8 2.9-.1 3.8 1.4l2.9 5.1c.2.4.9 1.6-.4 2.3l-1.6.9 1.8 3.1c.2.4.1 1-.2 1.2l-1.6 1c-.3.1-.9 0-1.1-.4l-1.8-3.1-1.6 1c-.6.4-1.7 0-2.2-.8L0 4.3"/><path fill="#342E62" d="M9.1 2a1.4 1.1 60 0 0-1.7-.6L5.5 2.5l.9 1.6-1 .6-.9-1.6-.6.4 1.8 3.1-1.3.7-1.8-3.1-1 .6 3.8 6.6 6.8-3.98M3.9 8.8 10.82 5l.795 1.4-6.81 3.96"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="16"><path d="M6.5.4c1.3-.8 2.9-.1 3.8 1.4l2.9 5.1c.2.4.9 1.6-.4 2.3l-1.6.9 1.8 3.1c.2.4.1 1-.2 1.2l-1.6 1c-.3.1-.9 0-1.1-.4l-1.8-3.1-1.6 1c-.6.4-1.7 0-2.2-.8L0 4.3"/><path fill="#fff" d="M9.1 2a1.4 1.1 60 0 0-1.7-.6L5.5 2.5l.9 1.6-1 .6-.9-1.6-.6.4 1.8 3.1-1.3.7-1.8-3.1-1 .6 3.8 6.6 6.8-3.98M3.9 8.8 10.82 5l.795 1.4-6.81 3.96"/></svg>
 `;
     css /* scss */ `
   .o-paint-format-cursor {
@@ -31107,7 +31107,7 @@
         const thresholds = [];
         for (let i = 0; i < scale.cfvos.length; i++) {
             thresholds.push({
-                color: hexaToInt(convertColor(scale.colors[i]) || "#342E62"),
+                color: hexaToInt(convertColor(scale.colors[i]) || "#fff"),
                 type: CF_THRESHOLD_CONVERSION_MAP[scale.cfvos[i].type],
                 value: scale.cfvos[i].value,
             });
@@ -31571,7 +31571,7 @@
             labelRange,
             title: chartData.title || "",
             type: chartData.type,
-            background: convertColor({ rgb: chartData.backgroundColor }) || "#342E62",
+            background: convertColor({ rgb: chartData.backgroundColor }) || "#fff",
             verticalAxisPosition: chartData.verticalAxisPosition,
             legendPosition: chartData.legendPosition,
             stacked: chartData.stacked || false,
@@ -31865,7 +31865,7 @@
 
     const TABLE_HEADER_STYLE = {
         fillColor: "#000000",
-        textColor: "#342E62",
+        textColor: "#fff",
         bold: true,
     };
     const TABLE_HIGHLIGHTED_CELL_STYLE = {
@@ -45574,7 +45574,7 @@
             const { ctx, thinLineWidth } = renderingContext;
             const { width, height } = this.getters.getSheetViewDimensionWithHeaders();
             // white background
-            ctx.fillStyle = "#342E62";
+            ctx.fillStyle = "#fff";
             ctx.fillRect(0, 0, width + CANVAS_SHIFT, height + CANVAS_SHIFT);
             const areGridLinesVisible = !this.getters.isDashboard() &&
                 this.getters.getGridLinesVisibility(this.getters.getActiveSheetId());
@@ -45591,8 +45591,8 @@
             const { ctx } = renderingContext;
             for (const box of this.boxes) {
                 let style = box.style;
-                if (style.fillColor && style.fillColor !== "#342E62") {
-                    ctx.fillStyle = style.fillColor || "#342E62";
+                if (style.fillColor && style.fillColor !== "#fff") {
+                    ctx.fillStyle = style.fillColor || "#fff";
                     ctx.fillRect(box.x, box.y, box.width, box.height);
                 }
                 if (box.isError) {
@@ -45628,7 +45628,7 @@
                             (box.clipRect?.x || box.x + box.width / 2 - box.content.width / 2) + thinLineWidth / 2;
                         width = clipWidth - 2 * thinLineWidth;
                     }
-                    ctx.fillStyle = "#342E62";
+                    ctx.fillStyle = "#fff";
                     ctx.fillRect(x, y, width, height);
                 }
             }
@@ -45886,7 +45886,7 @@
             for (const i of visibleCols) {
                 const colSize = this.getters.getColSize(sheetId, i);
                 const colName = numberToLetters(i);
-                ctx.fillStyle = activeCols.has(i) ? "#342E62" : TEXT_HEADER_COLOR;
+                ctx.fillStyle = activeCols.has(i) ? "#fff" : TEXT_HEADER_COLOR;
                 let colStart = this.getHeaderOffset("COL", left, i);
                 ctx.fillText(colName, colStart + colSize / 2, HEADER_HEIGHT / 2);
                 ctx.moveTo(colStart + colSize, 0);
@@ -45895,7 +45895,7 @@
             // row text + separator
             for (const i of visibleRows) {
                 const rowSize = this.getters.getRowSize(sheetId, i);
-                ctx.fillStyle = activeRows.has(i) ? "#342E62" : TEXT_HEADER_COLOR;
+                ctx.fillStyle = activeRows.has(i) ? "#fff" : TEXT_HEADER_COLOR;
                 let rowStart = this.getHeaderOffset("ROW", top, i);
                 ctx.fillText(String(i + 1), HEADER_WIDTH / 2, rowStart + rowSize / 2);
                 ctx.moveTo(0, rowStart + rowSize);
@@ -51149,7 +51149,7 @@
 
     &.active {
       color: #484;
-      background-color: #342E62;
+      background-color: #fff;
       box-shadow: 0 1px 3px 1px rgba(60, 64, 67, 0.15);
     }
 
@@ -51784,8 +51784,8 @@
         }
         get groupButtonStyle() {
             return cssPropertiesToCss({
-                "background-color": this.isGroupFolded ? "#333" : "#342E62",
-                color: this.isGroupFolded ? "#342E62" : "#333",
+                "background-color": this.isGroupFolded ? "#333" : "#fff",
+                color: this.isGroupFolded ? "#fff" : "#333",
             });
         }
         get groupButtonIcon() {
@@ -52327,7 +52327,7 @@
     font-size: 12px;
   }
   .o-border-style-dropdown {
-    background: #342E62;
+    background: #fff;
     padding: 4px;
     .o-dropdown-line {
       .o-line-item.active {
@@ -52636,7 +52636,7 @@
     line-height: 1.2;
     font-size: 13px;
     font-weight: 500;
-    background-color: #342E62;
+    background-color: #fff;
 
     .o-topbar-top {
       border-bottom: 1px solid ${SEPARATOR_COLOR};
@@ -52735,7 +52735,7 @@
         state = owl.useState({
             menuState: { isOpen: false, position: null, menuItems: [] },
             activeTool: "",
-            fillColor: "#342E62",
+            fillColor: "#fff",
             textColor: "#000000",
         });
         isSelectingMenu = false;
@@ -52823,7 +52823,7 @@
         }
         updateCellState() {
             const style = this.env.model.getters.getCurrentStyle();
-            this.state.fillColor = style.fillColor || "#342E62";
+            this.state.fillColor = style.fillColor || "#fff";
             this.state.textColor = style.textColor || "#000000";
             this.menus = topbarMenuRegistry.getMenuItems();
         }
@@ -53058,7 +53058,7 @@
 
     &.o-button-grey {
       border-color: lightgrey;
-      background: #342E62;
+      background: #fff;
       color: #333;
       &:hover:enabled {
         background-color: rgba(0, 0, 0, 0.08);

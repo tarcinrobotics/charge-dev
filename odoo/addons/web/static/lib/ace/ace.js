@@ -16933,7 +16933,7 @@ url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAJCAYAAADU6McMAAAAGXRF
 url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAA3CAYAAADNNiA5AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAACBJREFUeNpi+P//fz4TAwPDZxDxD5X4i5fLMEwJgAADAEPVDbjNw87ZAAAAAElFTkSuQmCC\");\
 }\
 .ace_tooltip {\
-background-color: #342E62;\
+background-color: #fff;\
 background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.1));\
 border: 1px solid gray;\
 border-radius: 1px;\
@@ -19910,7 +19910,7 @@ background: #e8e8e8;\
 background-color: #6B72E6;\
 }\
 .ace-tm {\
-background-color: #342E62;\
+background-color: #fff;\
 color: black;\
 }\
 .ace-tm .ace_cursor {\

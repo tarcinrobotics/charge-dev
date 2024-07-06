@@ -53,19 +53,19 @@
       <g class="group_2" transform="translate(14 17)">
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-2)" xlink:href="#path-1"/>
-          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-1"/>
+          <use fill="#fff" fill-opacity=".348" xlink:href="#path-1"/>
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-4)" xlink:href="#path-3"/>
-          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-3"/>
+          <use fill="#fff" fill-opacity=".348" xlink:href="#path-3"/>
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-6)" xlink:href="#path-5"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-5"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-5"/>
         </g>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-8)" xlink:href="#path-7"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-7"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-7"/>
         </g>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-10)" xlink:href="#path-9"/>
@@ -73,11 +73,11 @@
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-12)" xlink:href="#path-11"/>
-          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-11"/>
+          <use fill="#fff" fill-opacity=".348" xlink:href="#path-11"/>
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-14)" xlink:href="#path-13"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-13"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-13"/>
         </g>
         <path fill="url(#linearGradient-15)" d="M18 12a3 3 0 1 1 0 6 3 3 0 0 1 0-6zm0-11a3 3 0 1 1 0 6 3 3 0 0 1 0-6zm17 11a3 3 0 1 1 0 6 3 3 0 0 1 0-6zm0-11a3 3 0 1 1 0 6 3 3 0 0 1 0-6z" class="combined_shape"/>
       </g>

@@ -15,7 +15,7 @@
       <rect width="82" height="60" class="bg"/>
       <g class="group" opacity=".5">
         <g class="oval___oval_mask">
-          <mask id="mask-2" fill="#342E62">
+          <mask id="mask-2" fill="#fff">
             <use xlink:href="#path-1"/>
           </mask>
           <use fill="#79D1F2" class="mask" xlink:href="#path-1"/>
@@ -24,7 +24,7 @@
           <ellipse cx="18" cy="67" fill="url(#linearGradient-4)" class="oval" mask="url(#mask-2)" rx="51" ry="32"/>
         </g>
       </g>
-      <g fill="#342E62" stroke="#342E62" class="center_group" transform="translate(9 27)">
+      <g fill="#fff" stroke="#fff" class="center_group" transform="translate(9 27)">
         <path d="M61.5-1.352L65.659 3.5 61.5 8.352v-9.704zm-58 0v9.704L-.659 3.5 3.5-1.352z" class="combined_shape"/>
       </g>
     </g>

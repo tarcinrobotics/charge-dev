@@ -3,8 +3,8 @@
 
 // These colors are already normalized as per normalizeCSSColor in @web/legacy/js/widgets/colorpicker
 export default [
-    ['#000000', '#424242', '#636363', '#9C9C94', '#CEC6CE', '#EFEFEF', '#F7F7F7', '#342E62'],
-    ['#FF0000', '#FF9C00', '#342E62F00', '#00FF00', '#00FFFF', '#0000FF', '#9C00FF', '#FF00FF'],
+    ['#000000', '#424242', '#636363', '#9C9C94', '#CEC6CE', '#EFEFEF', '#F7F7F7', '#fff'],
+    ['#FF0000', '#FF9C00', '#fffF00', '#00FF00', '#00FFFF', '#0000FF', '#9C00FF', '#FF00FF'],
     ['#F7C6CE', '#FFE7CE', '#FFEFC6', '#D6EFD6', '#CEDEE7', '#CEE7F7', '#D6D6E7', '#E7D6DE'],
     ['#E79C9C', '#FFC69C', '#FFE79C', '#B5D6A5', '#A5C6CE', '#9CC6EF', '#B5A5D6', '#D6A5BD'],
     ['#E76363', '#F7AD6B', '#FFD663', '#94BD7B', '#73A5AD', '#6BADDE', '#8C7BC6', '#C67BA5'],

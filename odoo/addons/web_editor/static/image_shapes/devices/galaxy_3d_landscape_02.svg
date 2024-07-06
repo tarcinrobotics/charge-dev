@@ -67,7 +67,7 @@
         <linearGradient id="gradient_06" x1="780.07" y1="-5623.42" x2="1134.84" y2="-5068.77" gradientTransform="translate(3035.45 -4157.39) rotate(180)" gradientUnits="userSpaceOnUse">
             <stop offset="0.61" stop-color="#4f4f4f"/>
             <stop offset="0.71" stop-color="#e0e0e0"/>
-            <stop offset="0.91" stop-color="#342E62"/>
+            <stop offset="0.91" stop-color="#fff"/>
         </linearGradient>
         <linearGradient id="gradient_07" x1="2596.11" y1="-5724.5" x2="2532.94" y2="-5603.57" gradientTransform="translate(3035.45 -4157.39) rotate(180)" gradientUnits="userSpaceOnUse">
             <stop offset="0.53" stop-color="#313131"/>
@@ -136,8 +136,8 @@
             <stop offset="0.98" stop-color="#2c2c2c"/>
         </linearGradient>
         <linearGradient id="gradient_17" x1="1431.34" y1="818.64" x2="3778.83" y2="-125.56" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#342E62" stop-opacity="0.5"/>
-            <stop offset="1" stop-color="#342E62"/>
+            <stop offset="0" stop-color="#fff" stop-opacity="0.5"/>
+            <stop offset="1" stop-color="#fff"/>
         </linearGradient>
         <clipPath id="screen_path">
             <polygon points="2921.14 399.82 2950.74 445.93 2947.74 501.51 1020.79 1734.75 37.47 1216.43 63.03 1143.37 1951.57 19.84 2018.86 8.26 2099.78 27.19 2921.14 399.82"/>

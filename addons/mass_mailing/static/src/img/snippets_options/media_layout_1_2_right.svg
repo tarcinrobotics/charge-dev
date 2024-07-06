@@ -3,7 +3,7 @@
     <g class="3_buttons_copy_6" transform="translate(-171 -7)">
       <g class="media_layout_1_2_right" transform="translate(171 7)">
         <rect width="10" height="8" fill="#B8B8B8" class="o_subdle"/>
-        <rect width="11" height="8" x="12" fill="#342E62" class="o_graphic"/>
+        <rect width="11" height="8" x="12" fill="#fff" class="o_graphic"/>
       </g>
     </g>
   </g>

@@ -56,7 +56,7 @@
        gradientTransform="matrix(0.67555556,0,0,0.67555556,0,-0.67555559)" />
   </defs>
   <sodipodi:namedview
-     pagecolor="#342E62"
+     pagecolor="#fff"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -92,7 +92,7 @@
      y="-3.9968029e-15"
      ry="34.723557" />
   <rect
-     style="fill:#342E62;fill-opacity:1;stroke:none"
+     style="fill:#fff;fill-opacity:1;stroke:none"
      id="rect3952"
      width="5"
      height="80"
@@ -106,9 +106,9 @@
      height="80"
      width="3.0532093"
      id="rect3954"
-     style="fill:#342E62;fill-opacity:1;stroke:none" />
+     style="fill:#fff;fill-opacity:1;stroke:none" />
   <rect
-     style="fill:#342E62;fill-opacity:1;stroke:none"
+     style="fill:#fff;fill-opacity:1;stroke:none"
      id="rect3956"
      width="5.0000033"
      height="80"
@@ -122,9 +122,9 @@
      height="80"
      width="3.0000036"
      id="rect3958"
-     style="fill:#342E62;fill-opacity:1;stroke:none" />
+     style="fill:#fff;fill-opacity:1;stroke:none" />
   <rect
-     style="fill:#342E62;fill-opacity:1;stroke:none"
+     style="fill:#fff;fill-opacity:1;stroke:none"
      id="rect3960"
      width="3.0000036"
      height="80"
@@ -138,9 +138,9 @@
      height="80"
      width="3.0000036"
      id="rect3962"
-     style="fill:#342E62;fill-opacity:1;stroke:none" />
+     style="fill:#fff;fill-opacity:1;stroke:none" />
   <rect
-     style="fill:#342E62;fill-opacity:1;stroke:none"
+     style="fill:#fff;fill-opacity:1;stroke:none"
      id="rect3964"
      width="5.0000057"
      height="80"
@@ -154,7 +154,7 @@
      height="80"
      width="3.0000036"
      id="rect3966"
-     style="fill:#342E62;fill-opacity:1;stroke:none" />
+     style="fill:#fff;fill-opacity:1;stroke:none" />
   <rect
      ry="1"
      y="37"
@@ -162,9 +162,9 @@
      height="80"
      width="5.0000057"
      id="rect3968"
-     style="fill:#342E62;fill-opacity:1;stroke:none" />
+     style="fill:#fff;fill-opacity:1;stroke:none" />
   <rect
-     style="fill:#342E62;fill-opacity:1;stroke:none"
+     style="fill:#fff;fill-opacity:1;stroke:none"
      id="rect3970"
      width="3.0000036"
      height="80"
@@ -178,9 +178,9 @@
      height="80"
      width="5.0000057"
      id="rect3972"
-     style="fill:#342E62;fill-opacity:1;stroke:none" />
+     style="fill:#fff;fill-opacity:1;stroke:none" />
   <rect
-     style="fill:#342E62;fill-opacity:1;stroke:none"
+     style="fill:#fff;fill-opacity:1;stroke:none"
      id="rect3974"
      width="3.0532093"
      height="80"

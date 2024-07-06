@@ -28,10 +28,10 @@
         <radialGradient id="gradient_03" cx="363.24" cy="1231.66" r="901.88" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#c4c4c4"/>
             <stop offset="0.1" stop-color="#8c8c8c"/>
-            <stop offset="0.12" stop-color="#342E62"/>
+            <stop offset="0.12" stop-color="#fff"/>
             <stop offset="0.13" stop-color="#777"/>
             <stop offset="0.37" stop-color="#5f5f5f"/>
-            <stop offset="0.38" stop-color="#342E62"/>
+            <stop offset="0.38" stop-color="#fff"/>
             <stop offset="0.43" stop-color="#434343"/>
             <stop offset="0.49" stop-color="#292929"/>
             <stop offset="0.58" stop-color="#656565"/>
@@ -67,8 +67,8 @@
             <stop offset="0.98" stop-color="#2c2c2c"/>
         </linearGradient>
         <linearGradient id="gradient_08" x1="-265.55" y1="1347.5" x2="1788.41" y2="521.36" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#342E62" stop-opacity="0.5"/>
-            <stop offset="1" stop-color="#342E62"/>
+            <stop offset="0" stop-color="#fff" stop-opacity="0.5"/>
+            <stop offset="1" stop-color="#fff"/>
         </linearGradient>
         <clipPath id="screen_path">
             <polygon points="706.08 8.3 76.75 171.12 43.24 195.84 27.94 227.61 22.53 261.39 10 2356.44 48.74 2430.69 724.43 2435.45 737.42 37.45 706.08 8.3"/>

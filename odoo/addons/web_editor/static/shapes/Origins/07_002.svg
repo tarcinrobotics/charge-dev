@@ -7,8 +7,8 @@
             <polygon fill="#383E45" points="0,500 1400,500 0,456.9"/>
         </svg>
         <linearGradient id="gradient" gradientUnits="userSpaceOnUse" x1="0" y1="1400" x2="1400" y2="1400">
-            <stop offset="0" stop-color="#342E62" stop-opacity="0"/>
-            <stop offset="1" stop-color="#342E62" stop-opacity=".25"/>
+            <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+            <stop offset="1" stop-color="#fff" stop-opacity=".25"/>
         </linearGradient>
     </defs>
     <svg>

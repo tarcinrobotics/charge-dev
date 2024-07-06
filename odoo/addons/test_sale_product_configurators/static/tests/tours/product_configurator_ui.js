@@ -42,7 +42,7 @@ registry.category("web_tour.tours").add('sale_product_configurator_tour', {
     trigger: '.btn-primary:disabled:contains("Confirm")',
     isCheck: true, // check confirm button is disabled
 }, {
-    trigger: 'label[style="background-color:#342E62"] input'
+    trigger: 'label[style="background-color:#fff"] input'
 }, {
     trigger: '.btn-primary:not(:disabled):contains("Confirm")',
     extra_trigger: '.modal-footer',

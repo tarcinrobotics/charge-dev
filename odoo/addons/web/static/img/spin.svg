@@ -30,5 +30,5 @@
             animation: dash 2.5s ease infinite;
         }
     </style>
-    <circle cy="25" cx="25" r="19" stroke="#342E62" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <circle cy="25" cx="25" r="19" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/>
 </svg>

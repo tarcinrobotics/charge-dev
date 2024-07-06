@@ -19,7 +19,7 @@ test12</font></div><div><font color="#1f1f1f" face="monospace" size="2"><br></fo
 <a href="javascript:alert('malicious code')">test link</a>
 """
 
-EDI_LIKE_HTML_SOURCE = u"""<div style="font-family: 'Lucida Grande', Ubuntu, Arial, Verdana, sans-serif; font-size: 12px; color: rgb(34, 34, 34); background-color: #342E62; ">
+EDI_LIKE_HTML_SOURCE = u"""<div style="font-family: 'Lucida Grande', Ubuntu, Arial, Verdana, sans-serif; font-size: 12px; color: rgb(34, 34, 34); background-color: #fff; ">
     <p>Hello {{ object.partner_id.name }},</p>
     <p>A new invoice is available for you: </p>
     <p style="border-left: 1px solid #8e0000; margin-left: 30px;">
@@ -67,7 +67,7 @@ QUOTE_BLOCKQUOTE = u"""<html>
   <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
   </head>
-  <body text="#000000" bgcolor="#342E62">
+  <body text="#000000" bgcolor="#fff">
     <div class="moz-cite-prefix">On 05-01-16 05:52, Andreas Becker
       wrote:<br>
     </div>
@@ -114,7 +114,7 @@ QUOTE_THUNDERBIRD_HTML = u"""<html>
   <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
   </head>
-  <body text="#000000" bgcolor="#342E62">
+  <body text="#000000" bgcolor="#fff">
     <div class="moz-cite-prefix">On 01/05/2016 10:24 AM, Raoul
       Poilvache wrote:<br>
     </div>

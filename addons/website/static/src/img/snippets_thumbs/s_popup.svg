@@ -26,12 +26,12 @@
         </g>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-3)" xlink:href="#path-2"/>
-          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-2"/>
+          <use fill="#fff" fill-opacity=".95" xlink:href="#path-2"/>
         </g>
-        <path fill="#342E62" fill-opacity=".78" d="M52 0v6H0V0h52zm-1.538 1L49 2.461 47.538 1l-.53.537 1.459 1.46L47 4.464l.529.537L49 3.53 50.471 5 51 4.463l-1.467-1.465 1.458-1.461L50.462 1z" class="combined_shape"/>
+        <path fill="#fff" fill-opacity=".78" d="M52 0v6H0V0h52zm-1.538 1L49 2.461 47.538 1l-.53.537 1.459 1.46L47 4.464l.529.537L49 3.53 50.471 5 51 4.463l-1.467-1.465 1.458-1.461L50.462 1z" class="combined_shape"/>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-5)" xlink:href="#path-4"/>
-          <use fill="#342E62" fill-opacity=".8" xlink:href="#path-4"/>
+          <use fill="#fff" fill-opacity=".8" xlink:href="#path-4"/>
         </g>
       </g>
     </g>

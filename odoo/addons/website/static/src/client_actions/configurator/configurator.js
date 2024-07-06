@@ -574,13 +574,13 @@ class Store {
     setRecommendedPalette(color1, color2) {
         if (color1 && color2) {
             if (color1 === color2) {
-                color2 = mixCssColors('#342E62', color1, 0.2);
+                color2 = mixCssColors('#fff', color1, 0.2);
             }
             const recommendedPalette = {
                 color1: color1,
                 color2: color2,
-                color3: mixCssColors('#342E62', color2, 0.9),
-                color4: '#342E62',
+                color3: mixCssColors('#fff', color2, 0.9),
+                color4: '#fff',
                 color5: mixCssColors(color1, '#000000', 0.75),
             };
             CUSTOM_BG_COLOR_ATTRS.forEach((attr) => {

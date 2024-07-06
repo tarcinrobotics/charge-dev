@@ -16,13 +16,13 @@
             <path d="M478.39,179.33c.53,9-2.2,16.58-6.1,16.94s-7.49-6.64-8-15.64,2.2-16.58,6.1-16.94S477.86,170.33,478.39,179.33Z" fill="#121212"/>
         </mask>
         <linearGradient id="gradient_01" x1="129.41" y1="-0.54" x2="103.42" y2="-23.95" gradientTransform="matrix(1, 0, 0, -1, 0, 4.62)" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#342E62"/>
+            <stop offset="0" stop-color="#fff"/>
             <stop offset="0.43" stop-color="#c4c4c4"/>
             <stop offset="1" stop-color="#8c8c8c"/>
         </linearGradient>
         <linearGradient id="gradient_02" x1="82.46" y1="-1224.89" x2="44.79" y2="-1224.89" gradientTransform="matrix(1, 0, 0, -1, 0, 4.62)" gradientUnits="userSpaceOnUse">
             <stop offset="0.05" stop-color="#cacaca"/>
-            <stop offset="0.21" stop-color="#342E62"/>
+            <stop offset="0.21" stop-color="#fff"/>
             <stop offset="0.36" stop-color="#bebebe"/>
             <stop offset="1" stop-color="#4e4e4e"/>
         </linearGradient>
@@ -33,10 +33,10 @@
         <radialGradient id="gradient_04" cx="436.72" cy="1232.66" r="902.56" gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#c4c4c4"/>
             <stop offset="0.1" stop-color="#8c8c8c"/>
-            <stop offset="0.12" stop-color="#342E62"/>
+            <stop offset="0.12" stop-color="#fff"/>
             <stop offset="0.13" stop-color="#777"/>
             <stop offset="0.37" stop-color="#5f5f5f"/>
-            <stop offset="0.38" stop-color="#342E62"/>
+            <stop offset="0.38" stop-color="#fff"/>
             <stop offset="0.43" stop-color="#434343"/>
             <stop offset="0.49" stop-color="#292929"/>
             <stop offset="0.58" stop-color="#656565"/>
@@ -45,8 +45,8 @@
             <stop offset="1" stop-color="#c4c4c4"/>
         </radialGradient>
         <linearGradient id="gradient_05" x1="-140.44" y1="1040.17" x2="1604.24" y2="338.43" gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#342E62" stop-opacity="0.5"/>
-            <stop offset="1" stop-color="#342E62"/>
+            <stop offset="0" stop-color="#fff" stop-opacity="0.5"/>
+            <stop offset="1" stop-color="#fff"/>
         </linearGradient>
         <clipPath id="screen_path">
             <polygon points="95.21 12.06 724.55 174.88 758.06 199.6 773.35 231.37 778.76 265.15 791.29 2360.2 752.55 2434.45 76.86 2439.21 63.88 41.21 95.21 12.06"/>

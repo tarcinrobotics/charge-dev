@@ -36,7 +36,7 @@ chartRegistry.add("odoo_bar", {
 });
 
 function createOdooChartRuntime(chart, getters) {
-    const background = chart.background || "#342E62";
+    const background = chart.background || "#fff";
     const { datasets, labels } = chart.dataSource.getData();
     const locale = getters.getLocale();
     const chartJsConfig = getBarConfiguration(chart, labels, locale);

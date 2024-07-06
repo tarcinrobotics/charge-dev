@@ -727,7 +727,7 @@
                     "data": {
                         "title": "",
                         "id": "26f09a19-26d7-4d7d-b8d9-9eda7661ef5a",
-                        "background": "#342E62",
+                        "background": "#fff",
                         "legendPosition": "top",
                         "metaData": {
                             "groupBy": [
@@ -767,7 +767,7 @@
                     "data": {
                         "title": "",
                         "id": "70a88eff-8ce0-4392-8905-156ef2771086",
-                        "background": "#342E62",
+                        "background": "#fff",
                         "legendPosition": "right",
                         "metaData": {
                             "groupBy": [

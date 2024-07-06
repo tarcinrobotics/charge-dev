@@ -188,7 +188,7 @@ const backgroundColorPlugin = {
         const { ctx } = chart;
         ctx.save();
         ctx.globalCompositeOperation = "destination-over";
-        ctx.fillStyle = "#342E62";
+        ctx.fillStyle = "#fff";
         ctx.fillRect(0, 0, chart.width, chart.height);
         ctx.restore();
     },

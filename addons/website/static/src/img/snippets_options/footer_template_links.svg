@@ -11,7 +11,7 @@
       <use fill="#000" fill-opacity=".14" xlink:href="#path-2"/>
       <use fill="url(#linearGradient-1)" fill-opacity=".3" xlink:href="#path-2"/>
     </g>
-    <g fill="#342E62" class="group_2" opacity=".804" transform="translate(20 17)">
+    <g fill="#fff" class="group_2" opacity=".804" transform="translate(20 17)">
       <g class="group_copy_3" transform="translate(128)">
         <rect width="23" height="4" class="rectangle" rx="1"/>
         <rect width="23" height="4" class="rectangle" rx="1" transform="translate(0 8)"/>

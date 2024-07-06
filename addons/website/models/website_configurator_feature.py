@@ -43,7 +43,7 @@ class WebsiteConfiguratorFeature(models.Model):
             'color1': '#3AADAA',
             'color2': '#7C6576',
             'color3': '#F6F6F6',
-            'color4': '#342E62',
+            'color4': '#fff',
             'color5': '#383E45',
             'menu': '#MENU_COLOR',
             'footer': '#FOOTER_COLOR',

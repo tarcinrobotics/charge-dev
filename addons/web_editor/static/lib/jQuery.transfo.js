@@ -130,7 +130,7 @@ OTHER DEALINGS IN THE SOFTWARE.
             transfo.settings.document = transfo.settings.document || document;
 
             // generate all the controls markup
-            var css = "box-sizing: border-box; position: absolute; background-color: #342E62; border: 1px solid #ccc; width: 8px; height: 8px; margin-left: -4px; margin-top: -4px;";
+            var css = "box-sizing: border-box; position: absolute; background-color: #fff; border: 1px solid #ccc; width: 8px; height: 8px; margin-left: -4px; margin-top: -4px;";
             transfo.$markup = $(''
                 + '<div class="transfo-container">'
                 +  '<div class="transfo-controls">'

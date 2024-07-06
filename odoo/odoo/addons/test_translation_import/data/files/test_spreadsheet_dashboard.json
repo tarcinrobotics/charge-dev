@@ -71,7 +71,7 @@
                     "data": {
                         "type": "bar",
                         "dataSetsHaveTitle": false,
-                        "background": "#342E62",
+                        "background": "#fff",
                         "dataSets": [
                             "A4"
                         ],
@@ -94,7 +94,7 @@
                         "baselineMode": "difference",
                         "title": "",
                         "type": "scorecard",
-                        "background": "#342E62",
+                        "background": "#fff",
                         "keyValue": "A5"
                     }
                 },
@@ -111,7 +111,7 @@
                         "baselineMode": "difference",
                         "title": "Scorecard chart",
                         "type": "scorecard",
-                        "background": "#342E62",
+                        "background": "#fff",
                         "baselineDescr": "Scorecard description",
                         "keyValue": "A6"
                     }
@@ -126,7 +126,7 @@
                     "data": {
                         "title": "Opportunities",
                         "id": "3",
-                        "background": "#342E62",
+                        "background": "#fff",
                         "legendPosition": "top",
                         "metaData": {
                             "groupBy": [],

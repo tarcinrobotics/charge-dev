@@ -24,13 +24,13 @@
       <g class="group" transform="translate(16 26)">
         <g class="shape">
           <use fill="#000" filter="url(#filter-2)" xlink:href="#path-1"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-1"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-1"/>
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-4)" xlink:href="#path-3"/>
-          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-3"/>
+          <use fill="#fff" fill-opacity=".78" xlink:href="#path-3"/>
         </g>
-        <mask id="mask-7" fill="#342E62">
+        <mask id="mask-7" fill="#fff">
           <use xlink:href="#path-6"/>
         </mask>
         <use fill="url(#linearGradient-5)" class="heart" xlink:href="#path-6"/>

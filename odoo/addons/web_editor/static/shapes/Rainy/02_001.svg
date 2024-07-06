@@ -27,14 +27,14 @@
         gradientTransform="translate(-3083.61 4675.81)" xlink:href="#linear-gradient-3" />
         <linearGradient id="linear-gradient-9" x1="3707.04" y1="-4424.5" x2="4113.36" y2="-4587.33"
         gradientTransform="translate(-3177.31 4595.72)" gradientUnits="userSpaceOnUse">
-            <stop offset="0.01" stop-color="#342E62" />
+            <stop offset="0.01" stop-color="#fff" />
             <stop offset="1" stop-color="#3aadaa" />
         </linearGradient>
         <linearGradient id="linear-gradient-10" x1="475.66" y1="94.68" x2="309.78" y2="271.21"
         gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#linear-gradient-3" />
         <linearGradient id="linear-gradient-11" x1="137.82" y1="496.61" x2="248.33" y2="420.7"
         gradientUnits="userSpaceOnUse">
-            <stop offset="0" stop-color="#342E62" />
+            <stop offset="0" stop-color="#fff" />
             <stop offset="0.44" stop-color="#3aadaa" stop-opacity="0" />
         </linearGradient>
         <g id="animations">

@@ -382,7 +382,7 @@ svg.nvd3-svg {
 .nvd3 .nv-brushBackground rect {
     stroke: #000;
     stroke-width: .4;
-    fill: #342E62;
+    fill: #fff;
     fill-opacity: .7;
 }
 
@@ -406,7 +406,7 @@ svg.nvd3-svg {
 }
 
 .nvd3.nv-pie path {
-    stroke: #342E62;
+    stroke: #fff;
     stroke-width: 1px;
     stroke-opacity: 1;
 }

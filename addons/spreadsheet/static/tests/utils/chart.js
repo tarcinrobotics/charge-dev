@@ -66,7 +66,7 @@ function getChartDefinition(type) {
         },
         stacked: true,
         title: "Partners",
-        background: "#342E62",
+        background: "#fff",
         legendPosition: "top",
         verticalAxisPosition: "left",
         dataSourceId: uuidGenerator.uuidv4(),

@@ -12,17 +12,17 @@
         <path fill="url(#linearGradient)" d="M2 5l-10 10l10 10l-7 -10z"/>
         <path fill="url(#linearGradient)" d="M40 5l10 10l-10 10l7 -10z"/>
         <rect fill="#000" width="12" height="2" x="9" y="0"/>
-        <rect fill="#342E62" fill-opacity=".78" width="12" height="2" x="9" y="0"/>
+        <rect fill="#fff" fill-opacity=".78" width="12" height="2" x="9" y="0"/>
         <rect fill="#000" width="20" height="2" x="13" y="5"/>
-        <rect fill="#342E62" fill-opacity=".348" width="20" height="2" x="13" y="5"/>
+        <rect fill="#fff" fill-opacity=".348" width="20" height="2" x="13" y="5"/>
         <rect fill="#000" width="16" height="2" x="13" y="10"/>
-        <rect fill="#342E62" fill-opacity=".348" width="16" height="2" x="13" y="10"/>
+        <rect fill="#fff" fill-opacity=".348" width="16" height="2" x="13" y="10"/>
         <rect fill="#000" width="22" height="2" x="13" y="15"/>
-        <rect fill="#342E62" fill-opacity=".348" width="22" height="2" x="13" y="15"/>
+        <rect fill="#fff" fill-opacity=".348" width="22" height="2" x="13" y="15"/>
         <rect fill="#000" width="14" height="2" x="13" y="20"/>
-        <rect fill="#342E62" fill-opacity=".348" width="14" height="2" x="13" y="20"/>
+        <rect fill="#fff" fill-opacity=".348" width="14" height="2" x="13" y="20"/>
         <rect fill="#000" width="8" height="2" x="9" y="25"/>
-        <rect fill="#342E62" fill-opacity=".78" width="8" height="2" x="9" y="25"/>
+        <rect fill="#fff" fill-opacity=".78" width="8" height="2" x="9" y="25"/>
       </g>
     </g>
   </g>

@@ -20,7 +20,7 @@ chartRegistry.add("odoo_pie", {
 });
 
 function createOdooChartRuntime(chart, getters) {
-    const background = chart.background || "#342E62";
+    const background = chart.background || "#fff";
     const { datasets, labels } = chart.dataSource.getData();
     const locale = getters.getLocale();
     const chartJsConfig = getPieConfiguration(chart, labels, locale);
@@ -30,7 +30,7 @@ function createOdooChartRuntime(chart, getters) {
         const dataset = {
             label,
             data,
-            borderColor: "#342E62",
+            borderColor: "#fff",
             backgroundColor,
         };
         chartJsConfig.data.datasets.push(dataset);

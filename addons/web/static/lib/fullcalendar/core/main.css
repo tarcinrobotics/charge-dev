@@ -271,7 +271,7 @@ temporary rendered events).
 
 .fc-event,
 .fc-event:hover {
-  color: #342E62;
+  color: #fff;
   /* default TEXT color */
   text-decoration: none;
   /* if <a> has an href */
@@ -429,7 +429,7 @@ temporary rendered events).
   height: 6px;
   border-style: solid;
   border-color: inherit;
-  background: #342E62;
+  background: #fff;
   /* vertically center */
   top: 50%;
   margin-top: -4px;
@@ -567,7 +567,7 @@ TODO: more distinction between this file and common.css
 }
 
 .fc-unthemed .fc-popover {
-  background-color: #342E62;
+  background-color: #fff;
 }
 
 .fc-unthemed .fc-divider,
@@ -713,13 +713,13 @@ Lots taken from Flatly (MIT): https://bootswatch.com/4/flatly/bootstrap.css
 
 /* "primary" coloring */
 .fc-button-primary {
-  color: #342E62;
+  color: #fff;
   background-color: #2C3E50;
   border-color: #2C3E50;
 }
 
 .fc-button-primary:hover {
-  color: #342E62;
+  color: #fff;
   background-color: #1e2b37;
   border-color: #1a252f;
 }
@@ -730,14 +730,14 @@ Lots taken from Flatly (MIT): https://bootswatch.com/4/flatly/bootstrap.css
 }
 
 .fc-button-primary:disabled {
-  color: #342E62;
+  color: #fff;
   background-color: #2C3E50;
   border-color: #2C3E50;
 }
 
 .fc-button-primary:not(:disabled):active,
 .fc-button-primary:not(:disabled).fc-button-active {
-  color: #342E62;
+  color: #fff;
   background-color: #1a252f;
   border-color: #151e27;
 }
@@ -865,7 +865,7 @@ Lots taken from Flatly (MIT): https://bootswatch.com/4/flatly/bootstrap.css
   /* Global Event Restyling
   --------------------------------------------------------------------------------------------------*/
   .fc-event {
-    background: #342E62 !important;
+    background: #fff !important;
     color: #000 !important;
     page-break-inside: avoid;
   }
@@ -883,7 +883,7 @@ Lots taken from Flatly (MIT): https://bootswatch.com/4/flatly/bootstrap.css
 .fc tbody,
 .fc-row {
     border-color: #ccc !important;
-    background: #342E62 !important;
+    background: #fff !important;
   }
 
   /* kill the overlaid, absolutely-positioned components */

@@ -34,7 +34,7 @@
       <g class="group_2">
         <g class="group" opacity=".5">
           <g class="oval___oval_mask">
-            <mask id="mask-2" fill="#342E62">
+            <mask id="mask-2" fill="#fff">
               <use xlink:href="#path-1"/>
             </mask>
             <use fill="#79D1F2" class="mask" xlink:href="#path-1"/>
@@ -45,18 +45,18 @@
         </g>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-6)" xlink:href="#path-5"/>
-          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-5"/>
+          <use fill="#fff" fill-opacity=".95" xlink:href="#path-5"/>
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-8)" xlink:href="#path-7"/>
-          <use fill="#342E62" fill-opacity=".8" xlink:href="#path-7"/>
+          <use fill="#fff" fill-opacity=".8" xlink:href="#path-7"/>
         </g>
-        <mask id="mask-10" fill="#342E62">
+        <mask id="mask-10" fill="#fff">
           <use xlink:href="#path-9"/>
         </mask>
         <g class="rss">
           <use fill="#000" filter="url(#filter-11)" xlink:href="#path-9"/>
-          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-9"/>
+          <use fill="#fff" fill-opacity=".95" xlink:href="#path-9"/>
         </g>
       </g>
     </g>

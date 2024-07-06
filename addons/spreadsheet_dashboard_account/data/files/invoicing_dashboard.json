@@ -1222,7 +1222,7 @@
                     "tag": "chart",
                     "data": {
                         "title": "",
-                        "background": "#342E62",
+                        "background": "#fff",
                         "legendPosition": "none",
                         "metaData": {
                             "groupBy": [
@@ -1453,7 +1453,7 @@
         "2": {
             "textColor": "#000000",
             "bold": true,
-            "fillColor": "#342E62",
+            "fillColor": "#fff",
             "fontSize": 10
         },
         "3": {
@@ -1497,7 +1497,7 @@
         },
         "13": {
             "bold": true,
-            "fillColor": "#342E62",
+            "fillColor": "#fff",
             "fontSize": 10
         },
         "14": {
@@ -1520,7 +1520,7 @@
         "18": {
             "bold": true,
             "align": "right",
-            "fillColor": "#342E62",
+            "fillColor": "#fff",
             "fontSize": 10
         }
     },

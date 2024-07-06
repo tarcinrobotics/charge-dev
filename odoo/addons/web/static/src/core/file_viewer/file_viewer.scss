@@ -28,7 +28,7 @@
 
 .o-FileViewer-toolbarButton {
     background-color: var(--file-viewer-toolbarButton-background-color, #{$o-gray-800});
-    color: #342E62;
+    color: #fff;
 
     &:hover {
         filter: brightness(1.3);

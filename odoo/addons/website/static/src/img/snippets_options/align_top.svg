@@ -4,7 +4,7 @@
       <g class="align_top" transform="translate(139 5)">
         <rect width="8" height="12" x="12" fill="#B8B8B8" class="o_subdle"/>
         <polygon fill="#B8B8B8" points="0 11 9 11 9 12 0 12" class="o_subdle"/>
-        <rect width="9" height="6" fill="#342E62" class="o_graphic"/>
+        <rect width="9" height="6" fill="#fff" class="o_graphic"/>
       </g>
     </g>
   </g>

@@ -734,7 +734,7 @@ function jSignatureClass(parent, options, instanceExtensions) {
         ,'height' : 'ratio'
         ,'sizeRatio': 4 // only used when height = 'ratio'
         ,'color' : '#000'
-        ,'background-color': '#342E62'
+        ,'background-color': '#fff'
         ,'decor-color': '#eee'
         ,'show-stroke': true
         ,'lineWidth' : 0
