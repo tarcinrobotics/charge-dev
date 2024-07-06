@@ -38,23 +38,23 @@
         </g>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-3)" xlink:href="#path-2"/>
-          <use fill="#FFF" fill-opacity=".95" xlink:href="#path-2"/>
+          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-2"/>
         </g>
         <g class="shape">
           <use fill="#000" filter="url(#filter-5)" xlink:href="#path-4"/>
-          <use fill="#FFF" fill-opacity=".95" xlink:href="#path-4"/>
+          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-4"/>
         </g>
-        <mask id="mask-7" fill="#fff">
+        <mask id="mask-7" fill="#342E62">
           <use xlink:href="#path-6"/>
         </mask>
         <g class="plus_circle">
           <use fill="#000" filter="url(#filter-8)" xlink:href="#path-6"/>
-          <use fill="#FFF" fill-opacity=".95" xlink:href="#path-6"/>
+          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-6"/>
         </g>
-        <path fill="#FFF" fill-opacity=".78" d="M49 0v6H0V0h49zm-1.538 1L46 2.461 44.538 1l-.53.537 1.459 1.46L44 4.464l.529.537L46 3.53 47.471 5 48 4.463l-1.467-1.465 1.458-1.461L47.462 1z" class="combined_shape"/>
+        <path fill="#342E62" fill-opacity=".78" d="M49 0v6H0V0h49zm-1.538 1L46 2.461 44.538 1l-.53.537 1.459 1.46L44 4.464l.529.537L46 3.53 47.471 5 48 4.463l-1.467-1.465 1.458-1.461L47.462 1z" class="combined_shape"/>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-10)" xlink:href="#path-9"/>
-          <use fill="#FFF" fill-opacity=".8" xlink:href="#path-9"/>
+          <use fill="#342E62" fill-opacity=".8" xlink:href="#path-9"/>
         </g>
       </g>
     </g>

@@ -5,7 +5,7 @@
     </defs>
     <g fill="none" fill-rule="evenodd">
         <polygon fill="#903B8E" points="34 2 34 34 4 34"/>
-        <use fill="#FFF" fill-opacity=".93" xlink:href="#print-a"/>
+        <use fill="#342E62" fill-opacity=".93" xlink:href="#print-a"/>
         <rect width="30" height="33" x="4" y="2" stroke="#903B8E" stroke-width="2" rx="3"/>
         <g transform="translate(11 11)">
             <use fill="#903B8E" fill-rule="nonzero" xlink:href="#print-b"/>

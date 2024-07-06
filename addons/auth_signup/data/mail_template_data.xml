@@ -10,8 +10,8 @@
             <field name="email_to">{{ object.email_formatted }}</field>
             <field name="description">Sent to new user after you invited them</field>
             <field name="body_html" type="html">
-<table border="0" cellpadding="0" cellspacing="0" style="padding-top: 16px; background-color: #FFFFFF; font-family:Verdana, Arial,sans-serif; color: #000000; width: 100%; border-collapse:separate;"><tr><td align="center">
-<table border="0" cellpadding="0" cellspacing="0" width="590" style="padding: 16px; background-color: #FFFFFF; color: #000000; border-collapse:separate;">
+<table border="0" cellpadding="0" cellspacing="0" style="padding-top: 16px; background-color: #342E62; font-family:Verdana, Arial,sans-serif; color: #000000; width: 100%; border-collapse:separate;"><tr><td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="590" style="padding: 16px; background-color: #342E62; color: #000000; border-collapse:separate;">
 <tbody>
     <!-- HEADER -->
     <tr>
@@ -41,7 +41,7 @@
                         You have been invited by <t t-out="object.create_uid.name or ''">TarcinBot</t> of <t t-out="object.company_id.name or ''">Tarcin</t> to connect on Nirvagi.
                         <div style="margin: 16px 0px 16px 0px;">
                             <a t-att-href="object.signup_url"
-                                style="background-color: #012146; padding: 8px 16px 8px 16px; text-decoration: none; color: #fff; border-radius: 5px; font-size:13px;">
+                                style="background-color: #012146; padding: 8px 16px 8px 16px; text-decoration: none; color: #342E62; border-radius: 5px; font-size:13px;">
                                 Accept invitation
                             </a>
                         </div>
@@ -106,8 +106,8 @@
             <field name="email_to">{{ object.email_formatted }}</field>
             <field name="description">Sent automatically to admin if new user haven't responded to the invitation</field>
             <field name="body_html" type="html">
-<table border="0" cellpadding="0" cellspacing="0" style="background-color: #FFFFFF; font-family:Verdana, Arial,sans-serif; color: #454748; width: 100%; border-collapse:separate;"><tr><td align="center">
-<table border="0" cellpadding="0" cellspacing="0" width="590" style="padding: 16px; background-color: #FFFFFF; color: #454748; border-collapse:separate;">
+<table border="0" cellpadding="0" cellspacing="0" style="background-color: #342E62; font-family:Verdana, Arial,sans-serif; color: #454748; width: 100%; border-collapse:separate;"><tr><td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="590" style="padding: 16px; background-color: #342E62; color: #454748; border-collapse:separate;">
 <tbody>
     <!-- CONTENT -->
     <tr>
@@ -158,8 +158,8 @@
             <field name="email_to">{{ object.email_formatted }}</field>
             <field name="description">Sent to portal user who registered themselves</field>
             <field name="body_html" type="html">
-<table border="0" cellpadding="0" cellspacing="0" style="padding-top: 16px; background-color: #FFFFFF; font-family:Verdana, Arial,sans-serif; color: #454748; width: 100%; border-collapse:separate;"><tr><td align="center">
-<table border="0" cellpadding="0" cellspacing="0" width="590" style="padding: 16px; background-color: #FFFFFF; color: #454748; border-collapse:separate;">
+<table border="0" cellpadding="0" cellspacing="0" style="padding-top: 16px; background-color: #342E62; font-family:Verdana, Arial,sans-serif; color: #454748; width: 100%; border-collapse:separate;"><tr><td align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="590" style="padding: 16px; background-color: #342E62; color: #454748; border-collapse:separate;">
 <tbody>
     <!-- HEADER -->
     <tr>
@@ -191,7 +191,7 @@
                         To gain access to your account, you can use the following link:
                         <div style="margin: 16px 0px 16px 0px;">
                             <a t-attf-href="/web/login?auth_login={{object.email}}"
-                                style="background-color: #875A7B; padding: 8px 16px 8px 16px; text-decoration: none; color: #fff; border-radius: 5px; font-size:13px;">
+                                style="background-color: #875A7B; padding: 8px 16px 8px 16px; text-decoration: none; color: #342E62; border-radius: 5px; font-size:13px;">
                                 Go to My Account
                             </a>
                         </div>

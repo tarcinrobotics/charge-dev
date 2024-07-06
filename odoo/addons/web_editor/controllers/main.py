@@ -617,7 +617,7 @@ class Web_Editor(http.Controller):
             '1': '#3AADAA',
             '2': '#7C6576',
             '3': '#F6F6F6',
-            '4': '#FFFFFF',
+            '4': '#342E62',
             '5': '#383E45',
         }
         bundle_css = None

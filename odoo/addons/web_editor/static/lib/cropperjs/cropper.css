@@ -50,7 +50,7 @@
 }
 
 .cropper-drag-box {
-  background-color: #fff;
+  background-color: #342E62;
   opacity: 0;
 }
 
@@ -136,7 +136,7 @@
 }
 
 .cropper-face {
-  background-color: #fff;
+  background-color: #342E62;
   left: 0;
   top: 0;
 }

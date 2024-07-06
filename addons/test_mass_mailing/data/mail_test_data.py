@@ -29,7 +29,7 @@ Content-Transfer-Encoding: quoted-printable
  <head>=20
   <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
  </head>=20
- <body style=3D"margin: 0; padding: 0; background: #ffffff;-webkit-text-size-adjust: 100%;">=20
+ <body style=3D"margin: 0; padding: 0; background: #342E62;-webkit-text-size-adjust: 100%;">=20
 
   <p>I would gladly answer to your mass mailing!</p>
 

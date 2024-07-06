@@ -50,7 +50,7 @@ color: #F92672\
 }\
 .ace-monokai .ace_punctuation,\
 .ace-monokai .ace_punctuation.ace_tag {\
-color: #fff\
+color: #342E62\
 }\
 .ace-monokai .ace_constant.ace_character,\
 .ace-monokai .ace_constant.ace_language,\

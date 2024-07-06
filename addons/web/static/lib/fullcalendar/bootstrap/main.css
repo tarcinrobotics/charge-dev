@@ -15,7 +15,7 @@
 }
 
 .fc-bootstrap a.fc-event:not([href]):not([tabindex]) {
-  color: #fff;
+  color: #342E62;
 }
 
 .fc-bootstrap .fc-popover.card {

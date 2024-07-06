@@ -4,7 +4,7 @@
     </defs>
     <g fill="none" fill-rule="evenodd">
         <polygon fill="#903B8E" points="34 2 34 34 4 34"/>
-        <use fill="#FFF" fill-opacity=".93" xlink:href="#font-a"/>
+        <use fill="#342E62" fill-opacity=".93" xlink:href="#font-a"/>
         <rect width="30" height="33" x="4" y="2" stroke="#903B8E" stroke-width="2" rx="3"/>
         <g fill="#903B8E" transform="translate(11 5)">
             <text font-family="Montserrat-Bold, Montserrat" font-size="19" font-weight="bold">

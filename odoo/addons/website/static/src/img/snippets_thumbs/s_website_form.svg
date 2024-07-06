@@ -23,11 +23,11 @@
       <g class="group" transform="translate(17 13)">
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-2)" xlink:href="#path-1"/>
-          <use fill="#FFF" fill-opacity=".78" xlink:href="#path-1"/>
+          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-1"/>
         </g>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-4)" xlink:href="#path-3"/>
-          <use fill="#FFF" fill-opacity=".348" xlink:href="#path-3"/>
+          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-3"/>
         </g>
         <rect width="17" height="5" x="14" y="30" fill="url(#linearGradient-5)" class="rectangle"/>
       </g>

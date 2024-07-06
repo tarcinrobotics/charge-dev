@@ -46,7 +46,7 @@ class TestAvatarMixin(TransactionCase):
             "<?xml version='1.0' encoding='UTF-8' ?>"
             "<svg height='180' width='180' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>"
             "<rect fill='hsl(184, 40%, 45%)' height='180' width='180'/>"
-            "<text fill='#ffffff' font-size='96' text-anchor='middle' x='90' y='125' font-family='sans-serif'>M</text>"
+            "<text fill='#342E62' font-size='96' text-anchor='middle' x='90' y='125' font-family='sans-serif'>M</text>"
             "</svg>"
         )
         self.assertEqual(expectedAvatar, b64decode(self.user_without_image.partner_id.avatar_1920).decode('utf-8'))

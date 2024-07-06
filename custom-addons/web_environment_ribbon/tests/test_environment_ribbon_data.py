@@ -10,7 +10,7 @@ class TestEnvironmentRibbonData(common.TransactionCase):
         super().setUpClass()
         cls.env["ir.config_parameter"].set_param("ribbon.name", "Test Ribbon {db_name}")
         cls.env["ir.config_parameter"].set_param("ribbon.color", "#000000")
-        cls.env["ir.config_parameter"].set_param("ribbon.background.color", "#FFFFFF")
+        cls.env["ir.config_parameter"].set_param("ribbon.background.color", "#342E62")
 
     def test_environment_ribbon(self):
         """This test confirms that the data that is fetched by the javascript
@@ -20,7 +20,7 @@ class TestEnvironmentRibbonData(common.TransactionCase):
         expected_ribbon = {
             "name": f"Test Ribbon {self.env.cr.dbname}",
             "color": "#000000",
-            "background_color": "#FFFFFF",
+            "background_color": "#342E62",
         }
 
         self.assertDictEqual(ribbon, expected_ribbon)

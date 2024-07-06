@@ -12,7 +12,7 @@
       <rect width="82" height="60" class="bg"/>
       <g class="combined_shape">
         <use fill="#000" filter="url(#filter-2)" xlink:href="#path-1"/>
-        <use fill="#FFF" fill-opacity=".348" xlink:href="#path-1"/>
+        <use fill="#342E62" fill-opacity=".348" xlink:href="#path-1"/>
       </g>
     </g>
   </g>

@@ -149,7 +149,7 @@ export function createBasicChart(model, chartId, sheetId = model.getters.getActi
             title: "test",
             dataSets: ["A1"],
             type: "bar",
-            background: "#fff",
+            background: "#342E62",
             verticalAxisPosition: "left",
             legendPosition: "top",
             stackedBar: false,
@@ -167,7 +167,7 @@ export function createScorecardChart(model, chartId, sheetId = model.getters.get
             title: "test",
             keyValue: "A1",
             type: "scorecard",
-            background: "#fff",
+            background: "#342E62",
             baselineColorDown: "#DC6965",
             baselineColorUp: "#00A04A",
             baselineMode: "absolute",
@@ -184,7 +184,7 @@ export function createGaugeChart(model, chartId, sheetId = model.getters.getActi
         definition: {
             title: "test",
             type: "gauge",
-            background: "#fff",
+            background: "#342E62",
             dataRange: "A1",
             sectionRule: {
                 rangeMin: "0",

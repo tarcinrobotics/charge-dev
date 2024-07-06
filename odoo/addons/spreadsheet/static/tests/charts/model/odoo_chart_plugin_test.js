@@ -109,7 +109,7 @@ QUnit.module("spreadsheet > odoo chart plugin", {}, () => {
             datasets: [
                 {
                     backgroundColor: ["rgb(31,119,180)", "rgb(255,127,14)", "rgb(174,199,232)"],
-                    borderColor: "#FFFFFF",
+                    borderColor: "#342E62",
                     data: [1, 3],
                     label: "",
                 },

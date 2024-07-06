@@ -34,7 +34,7 @@
             .global_layout {
                 width: 588px;
                 margin: 0 auto;
-                background-color: #ffffff;
+                background-color: #342E62;
                 border-left: 1px solid #d8dadd;
                 border-right: 1px solid #d8dadd;
             }
@@ -58,7 +58,7 @@
                 background-color: <t t-out="color_company"/>;
             }
             #button_connect {
-                color: #ffffff;
+                color: #342E62;
                 font-size: 16px;
             }
             #button_open_report {
@@ -90,7 +90,7 @@
                 text-decoration: none;
             }
             .tip_button_text {
-                color: #ffffff;
+                color: #342E62;
             }
             .illustration_border {
                 width: 100%;

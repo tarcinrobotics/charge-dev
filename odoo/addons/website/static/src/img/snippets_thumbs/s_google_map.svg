@@ -17,12 +17,12 @@
         <path d="M23.033 36.864L32.38 60H0V44.348l23.033-7.484zM60.346 24.74L74.592 60H55.05L43.071 30.353l17.275-5.613zM82 17.705V60h-4.567L62.858 23.924 82 17.704zM40.56 31.169l11.65 28.83H35.22l-9.677-23.951 15.015-4.88zM27.966-.001L39.57 28.722 0 41.579V0h27.966zM50.35 0l9.006 22.293-17.274 5.613L30.807 0H50.35zM82 0v14.935l-20.132 6.54L53.191 0H82z" class="combined_shape"/>
       </g>
       <g class="group" transform="translate(17 14)">
-        <mask id="mask-3" fill="#fff">
+        <mask id="mask-3" fill="#342E62">
           <use xlink:href="#path-2"/>
         </mask>
         <g class="map_marker">
           <use fill="#000" filter="url(#filter-4)" xlink:href="#path-2"/>
-          <use fill="#FFF" fill-opacity=".95" xlink:href="#path-2"/>
+          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-2"/>
         </g>
       </g>
     </g>

@@ -49,12 +49,12 @@
             <path d="M1000.45,4.93V2.09A2.1,2.1,0,0,0,998.36,0H898.6a2.09,2.09,0,0,0-2.09,2.09V4.93Z" fill="url(#linear-gradient-2)"/>
             <path d="M869.16,4.93V2.09A2.09,2.09,0,0,0,867.08,0H767.31a2.1,2.1,0,0,0-2.09,2.09V4.93Z" fill="url(#linear-gradient-3)"/>
             <path d="M802,675.07v2.84a2.09,2.09,0,0,0,2.08,2.09H964.2a2.1,2.1,0,0,0,2.09-2.09v-2.84Z" fill="url(#linear-gradient-4)"/>
-            <rect x="1223.58" y="664.62" width="14.96" height="10.45" fill="#fff" opacity="0.3"/>
-            <rect x="1365.56" y="528.09" width="10.44" height="14.98" fill="#fff" opacity="0.3"/>
-            <rect x="1223.79" y="4.93" width="14.22" height="10.45" fill="#fff" opacity="0.3"/>
-            <rect x="137.23" y="4.93" width="14.27" height="10.45" fill="#fff" opacity="0.3"/>
-            <rect y="137.29" width="10.44" height="15.33" fill="#fff" opacity="0.3"/>
-            <rect x="136.42" y="664.62" width="15.31" height="10.45" fill="#fff" opacity="0.3"/>
+            <rect x="1223.58" y="664.62" width="14.96" height="10.45" fill="#342E62" opacity="0.3"/>
+            <rect x="1365.56" y="528.09" width="10.44" height="14.98" fill="#342E62" opacity="0.3"/>
+            <rect x="1223.79" y="4.93" width="14.22" height="10.45" fill="#342E62" opacity="0.3"/>
+            <rect x="137.23" y="4.93" width="14.27" height="10.45" fill="#342E62" opacity="0.3"/>
+            <rect y="137.29" width="10.44" height="15.33" fill="#342E62" opacity="0.3"/>
+            <rect x="136.42" y="664.62" width="15.31" height="10.45" fill="#342E62" opacity="0.3"/>
             <path d="M1324.07,260.41a11.21,11.21,0,1,1,11.2-11.21A11.2,11.2,0,0,1,1324.07,260.41Z" fill="#1a1a1c"/>
             <circle cx="1324.07" cy="249.2" r="7.92" fill="url(#radial-gradient)"/>
         </g>

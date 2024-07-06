@@ -305,10 +305,10 @@ describe('Paste HTML tables', () => {
                     strike and underline</td>
             </tr>
             <tr style="height:21px;">
-                <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#ffff00;font-family:Odoo Unicode Support Noto;font-weight:normal;color:#495057;"
+                <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#342E62f00;font-family:Odoo Unicode Support Noto;font-weight:normal;color:#495057;"
                     data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Color background&quot;}">Color background
                 </td>
-                <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#ffff00;color:#ff0000;"
+                <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;background-color:#342E62f00;color:#ff0000;"
                     data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Color text on color background&quot;}">Color
                     text on color background</td>
             </tr>
@@ -442,9 +442,9 @@ describe('Paste HTML tables', () => {
         </tr>
         <tr>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000"
-                height="20" align="left" bgcolor="#FFFF00">Color background</td>
+                height="20" align="left" bgcolor="#342E62F00">Color background</td>
             <td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000"
-                align="left" bgcolor="#FFFF00">
+                align="left" bgcolor="#342E62F00">
                 <font color="#FF0000">Color text on color background</font>
             </td>
         </tr>

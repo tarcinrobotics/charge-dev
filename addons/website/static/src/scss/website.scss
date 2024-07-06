@@ -733,7 +733,7 @@ table.table_desc tr td {
         &:before {
             font-family: "FontAwesome";
             display: inline-block;
-            background-color: #fff;
+            background-color: #342E62;
         }
     }
     // Content
@@ -765,7 +765,7 @@ table.table_desc tr td {
         .carousel-control-next-icon:before {
             background-color: rgba(0,0,0,0);
             @include font-size(2rem);
-            color: #fff;
+            color: #342E62;
             text-shadow: $box-shadow-sm;
         }
         // Indicators

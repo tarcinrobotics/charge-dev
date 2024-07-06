@@ -24,11 +24,11 @@
         <rect width="27" height="8" fill="url(#linearGradient-1)" class="rectangle" opacity=".4" rx="1"/>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-3)" xlink:href="#path-2"/>
-          <use fill="#FFF" fill-opacity=".95" xlink:href="#path-2"/>
+          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-2"/>
         </g>
         <g class="oval">
           <use fill="#000" filter="url(#filter-5)" xlink:href="#path-4"/>
-          <use fill="#FFF" fill-opacity=".95" xlink:href="#path-4"/>
+          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-4"/>
         </g>
       </g>
     </g>

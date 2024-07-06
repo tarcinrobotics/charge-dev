@@ -29,7 +29,7 @@
                     </span>
                 </td><td valign="middle" align="right">
                     <a t-attf-href="/event/{{ object.event_id.id }}/my_tickets?badge_mode=1&amp;registration_ids={{ object.ids }}&amp;tickets_hash={{ object.event_id._get_tickets_access_hash(object.ids) }}"
-                        target="_blank" style="padding: 8px 12px; font-size: 12px; color: #FFFFFF; text-decoration: none !important; font-weight: 400; background-color: #875A7B; border: 0px solid #875A7B; border-radius:3px">
+                        target="_blank" style="padding: 8px 12px; font-size: 12px; color: #342E62; text-decoration: none !important; font-weight: 400; background-color: #875A7B; border: 0px solid #875A7B; border-radius:3px">
                         Download Badge
                     </a>
                     <t t-if="not object.company_id.uses_default_logo">
@@ -263,7 +263,7 @@
                 </td><td valign="middle" align="right">
                     <div style="margin-bottom: 5px;">
                         <a t-attf-href="/event/{{ object.event_id.id }}/my_tickets?registration_ids={{ object.ids }}&amp;tickets_hash={{ object.event_id._get_tickets_access_hash(object.ids) }}&amp;responsive_html=1"
-                            target="_blank" style="padding: 8px 12px; font-size: 12px; color: #FFFFFF; text-decoration: none !important; font-weight: 400; background-color: #875A7B; border: 0px solid #875A7B; border-radius:3px">
+                            target="_blank" style="padding: 8px 12px; font-size: 12px; color: #342E62; text-decoration: none !important; font-weight: 400; background-color: #875A7B; border: 0px solid #875A7B; border-radius:3px">
                             View Ticket
                         </a>
                     </div>
@@ -510,7 +510,7 @@
                 </td><td valign="middle" align="right">
                     <t t-if="is_online">
                         <a t-attf-href="{{ object.event_id.website_url }}"
-                            style="padding: 8px 12px; font-size: 12px; color: #FFFFFF; text-decoration: none !important; font-weight: 400; background-color: #875A7B; border: 0px solid #875A7B; border-radius:3px">
+                            style="padding: 8px 12px; font-size: 12px; color: #342E62; text-decoration: none !important; font-weight: 400; background-color: #875A7B; border: 0px solid #875A7B; border-radius:3px">
                             View Event
                         </a>
                     </t>

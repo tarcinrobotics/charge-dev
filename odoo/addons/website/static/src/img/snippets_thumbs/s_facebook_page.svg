@@ -25,7 +25,7 @@
       <g class="group" transform="translate(15 22)">
         <g class="rectangle_2">
           <use fill="#000" filter="url(#filter-2)" xlink:href="#path-1"/>
-          <use fill="#FFF" fill-opacity=".95" xlink:href="#path-1"/>
+          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-1"/>
         </g>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-4)" xlink:href="#path-3"/>

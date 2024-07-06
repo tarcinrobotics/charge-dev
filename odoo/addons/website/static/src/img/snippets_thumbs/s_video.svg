@@ -21,7 +21,7 @@
                 <path fill="url(#h)" d="M18 99c28.17 0 51-14.33 51-32S46.17 35 18 35s-51 14.33-51 32 22.83 32 51 32Z"/>
             </g>
         </g>
-        <path fill="#fff" d="M39 34.5v-9l6 4.5m-4-10a10 10 0 1 0 0 20 10 10 0 0 0 0-20Z"/>
+        <path fill="#342E62" d="M39 34.5v-9l6 4.5m-4-10a10 10 0 1 0 0 20 10 10 0 0 0 0-20Z"/>
     </g>
     <defs>
         <linearGradient id="c" x1="5975.75" x2="3780.14" y1="2680.44" y2="956.27" gradientUnits="userSpaceOnUse">
@@ -41,7 +41,7 @@
             <stop offset="1" stop-color="#009989"/>
         </linearGradient>
         <clipPath id="a">
-            <path fill="#fff" d="M0 0h82v60H0z"/>
+            <path fill="#342E62" d="M0 0h82v60H0z"/>
         </clipPath>
     </defs>
 </svg>

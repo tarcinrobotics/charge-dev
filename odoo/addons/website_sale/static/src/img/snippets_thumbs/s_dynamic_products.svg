@@ -54,45 +54,45 @@
         <path fill="url(#linearGradient-1)" d="M17.154 15v2H7v-2h10.154zm16.923 0v2h-11v-2h11zM51 15v2H38.308v-2H51z" class="combined_shape"/>
         <g class="combined_shape">
           <use fill="#000" filter="url(#filter-3)" xlink:href="#path-2"/>
-          <use fill="#FFF" fill-opacity=".348" xlink:href="#path-2"/>
+          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-2"/>
         </g>
         <g class="box_solid" transform="translate(6)">
           <rect width="12" height="11.143" class="rectangle"/>
-          <polygon fill="#FFF" fill-opacity=".78" points="6 .429 0 2.061 6 4.286 12 2.061" class="path"/>
+          <polygon fill="#342E62" fill-opacity=".78" points="6 .429 0 2.061 6 4.286 12 2.061" class="path"/>
           <g class="path">
             <use fill="#000" filter="url(#filter-5)" xlink:href="#path-4"/>
-            <use fill="#FFF" fill-opacity=".95" xlink:href="#path-4"/>
+            <use fill="#342E62" fill-opacity=".95" xlink:href="#path-4"/>
           </g>
           <g class="path">
             <use fill="#000" filter="url(#filter-7)" xlink:href="#path-6"/>
-            <use fill="#FFF" fill-opacity=".78" xlink:href="#path-6"/>
+            <use fill="#342E62" fill-opacity=".78" xlink:href="#path-6"/>
           </g>
         </g>
         <g class="box_solid" transform="translate(38)">
           <rect width="12" height="11.143" class="rectangle"/>
-          <polygon fill="#FFF" fill-opacity=".78" points="6 .429 0 2.061 6 4.286 12 2.061" class="path"/>
+          <polygon fill="#342E62" fill-opacity=".78" points="6 .429 0 2.061 6 4.286 12 2.061" class="path"/>
           <g class="path">
             <use fill="#000" filter="url(#filter-9)" xlink:href="#path-8"/>
-            <use fill="#FFF" fill-opacity=".95" xlink:href="#path-8"/>
+            <use fill="#342E62" fill-opacity=".95" xlink:href="#path-8"/>
           </g>
           <g class="path">
             <use fill="#000" filter="url(#filter-11)" xlink:href="#path-10"/>
-            <use fill="#FFF" fill-opacity=".78" xlink:href="#path-10"/>
+            <use fill="#342E62" fill-opacity=".78" xlink:href="#path-10"/>
           </g>
         </g>
         <g class="box_solid" transform="translate(22)">
           <rect width="12" height="11.143" class="rectangle"/>
-          <polygon fill="#FFF" fill-opacity=".78" points="6 .429 0 2.061 6 4.286 12 2.061" class="path"/>
+          <polygon fill="#342E62" fill-opacity=".78" points="6 .429 0 2.061 6 4.286 12 2.061" class="path"/>
           <g class="path">
             <use fill="#000" filter="url(#filter-13)" xlink:href="#path-12"/>
-            <use fill="#FFF" fill-opacity=".95" xlink:href="#path-12"/>
+            <use fill="#342E62" fill-opacity=".95" xlink:href="#path-12"/>
           </g>
           <g class="path">
             <use fill="#000" filter="url(#filter-15)" xlink:href="#path-14"/>
-            <use fill="#FFF" fill-opacity=".78" xlink:href="#path-14"/>
+            <use fill="#342E62" fill-opacity=".78" xlink:href="#path-14"/>
           </g>
         </g>
-        <path fill="#FFF" stroke="#FFF" d="M1.5 4.793v4.414L-.707 7 1.5 4.793zm53-1L56.707 6 54.5 8.207V3.793z" class="combined_shape"/>
+        <path fill="#342E62" stroke="#342E62" d="M1.5 4.793v4.414L-.707 7 1.5 4.793zm53-1L56.707 6 54.5 8.207V3.793z" class="combined_shape"/>
       </g>
     </g>
   </g>

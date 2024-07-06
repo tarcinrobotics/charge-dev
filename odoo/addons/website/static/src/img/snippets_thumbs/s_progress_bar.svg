@@ -15,11 +15,11 @@
     <g class="s_progress_bar">
       <rect width="82" height="60" class="bg"/>
       <g class="group_2" transform="translate(19 24)">
-        <path fill="#FFF" fill-opacity=".641" d="M20 5h23a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1H20V5z" class="rectangle" opacity=".433"/>
+        <path fill="#342E62" fill-opacity=".641" d="M20 5h23a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1H20V5z" class="rectangle" opacity=".433"/>
         <path fill="url(#linearGradient-1)" d="M1 5h18v8H1a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z" class="rectangle"/>
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-3)" xlink:href="#path-2"/>
-          <use fill="#FFF" fill-opacity=".95" xlink:href="#path-2"/>
+          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-2"/>
         </g>
       </g>
     </g>

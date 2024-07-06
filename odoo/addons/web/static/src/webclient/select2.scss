@@ -6,12 +6,12 @@
 
 .select2-container .select2-choice {
     background-color: $dropdown-bg;
-    background-image: var(--select2-background-image, linear-gradient(to top, #eee 0%, #fff 50%));
+    background-image: var(--select2-background-image, linear-gradient(to top, #eee 0%, #342E62 50%));
     color: var(--select2-color, #444);
 }
 
 .select2-container.select2-drop-above .select2-choice {
-    background-image: var(--select2__dropAbove-background-image, linear-gradient(to top, #eee 0%, #fff 90%));
+    background-image: var(--select2__dropAbove-background-image, linear-gradient(to top, #eee 0%, #342E62 90%));
 }
 
 .select2-drop-mask {
@@ -30,32 +30,32 @@
 .select2-search input,
 html[dir="rtl"] .select2-search input,
 .select2-search input.select2-active {
-    background-color: var(--select2__searchInput-background-color, #fff);
+    background-color: var(--select2__searchInput-background-color, #342E62);
     background-repeat: no-repeat;
 }
 
 .select2-search input {
-    background-image: var(--select2__searchInput-background-image, url('/web/static/lib/select2/select2.png'), linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0);
+    background-image: var(--select2__searchInput-background-image, url('/web/static/lib/select2/select2.png'), linear-gradient(to bottom, #342E62 85%, #eee 99%) 0 0);
     background-position: 100% -22px;
 }
 
 html[dir="rtl"] .select2-search input {
-    background-image: var(--select2__searchInput-background-image, url('/web/static/lib/select2/select2.png'), linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0);
+    background-image: var(--select2__searchInput-background-image, url('/web/static/lib/select2/select2.png'), linear-gradient(to bottom, #342E62 85%, #eee 99%) 0 0);
     background-position: -37px -22px;
 }
 
 .select2-search input.select2-active {
-    background-image: var(--select2__searchInput-background-image--active, url('/web/static/lib/select2/select2-spinner.gif'), linear-gradient(to bottom, #fff 85%, #eee 99%) 0 0);
+    background-image: var(--select2__searchInput-background-image--active, url('/web/static/lib/select2/select2-spinner.gif'), linear-gradient(to bottom, #342E62 85%, #eee 99%) 0 0);
     background-position: 100%;
 }
 
 .select2-dropdown-open .select2-choice {
-    box-shadow: var(--select2-box-shadow, 0 1px 0 #fff inset);
+    box-shadow: var(--select2-box-shadow, 0 1px 0 #342E62 inset);
 }
 
 .select2-results .select2-highlighted {
     background: $o-brand-primary;
-    color: var(--select2__resultsHighlighted-color, #fff);
+    color: var(--select2__resultsHighlighted-color, #342E62);
 }
 
 .select2-results {

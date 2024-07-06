@@ -99,7 +99,7 @@
             <t t-if="(not hasattr(line, 'is_delivery') or not line.is_delivery) and line.display_type in ['line_section', 'line_note']">
                 <table width="100%" style="color: #454748; font-size: 12px; border-collapse: collapse;">
                     <t t-set="loop_cycle_number" t-value="loop_cycle_number or 0" />
-                    <tr t-att-style="'background-color: #f2f2f2' if loop_cycle_number % 2 == 0 else 'background-color: #ffffff'">
+                    <tr t-att-style="'background-color: #f2f2f2' if loop_cycle_number % 2 == 0 else 'background-color: #342E62'">
                         <t t-set="loop_cycle_number" t-value="loop_cycle_number + 1" />
                         <td colspan="4">
                             <t t-if="line.display_type == 'line_section'">
@@ -115,7 +115,7 @@
             <t t-elif="(not hasattr(line, 'is_delivery') or not line.is_delivery)">
                 <table width="100%" style="color: #454748; font-size: 12px; border-collapse: collapse;">
                     <t t-set="loop_cycle_number" t-value="loop_cycle_number or 0" />
-                    <tr t-att-style="'background-color: #f2f2f2' if loop_cycle_number % 2 == 0 else 'background-color: #ffffff'">
+                    <tr t-att-style="'background-color: #f2f2f2' if loop_cycle_number % 2 == 0 else 'background-color: #342E62'">
                         <t t-set="loop_cycle_number" t-value="loop_cycle_number + 1" />
                         <td style="width: 150px;">
                             <img t-attf-src="/web/image/product.product/{{ line.product_id.id }}/image_128" style="width: 64px; height: 64px; object-fit: contain;" alt="Product image"></img>

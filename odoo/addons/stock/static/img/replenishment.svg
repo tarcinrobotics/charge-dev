@@ -21,7 +21,7 @@
 	.st15{fill:none;stroke:#00A09D;stroke-width:4;stroke-miterlimit:10;}
 	.st16{fill:none;stroke:#B79CB0;stroke-width:4;stroke-miterlimit:10;}
 	.st17{fill:none;stroke:#00A09D;stroke-width:2.26;stroke-miterlimit:10;}
-	.st18{fill:#FFFFFF;}
+	.st18{fill:#342E62;}
 	.st19{font-size:30.7756px;}
 </style>
 <g id="Layer_3">
@@ -45,7 +45,7 @@
 	<line class="st2" x1="100.7" y1="9.9" x2="100.7" y2="487.2"/>
 	
 		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="352.0089" y1="25.4376" x2="352.0089" y2="436.8176" gradientTransform="matrix(1 0 0 -1 0 485.5351)">
-		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0" style="stop-color:#342E62;stop-opacity:0"/>
 		<stop  offset="0.48" style="stop-color:#875A7B;stop-opacity:0.27"/>
 	</linearGradient>
 	<polyline class="st3" points="37.7,247.8 77.3,297.4 101.9,297.4 127.3,347 163.9,347 163.9,41 183.2,41 230.7,115.3 267.9,115.9 

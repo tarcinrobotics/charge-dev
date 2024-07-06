@@ -59,11 +59,11 @@
             <stop offset="1" stop-opacity="0"/>
         </radialGradient>
         <mask id="mask" x="21.07" y="18.35" width="752.42" height="1659.31" maskUnits="userSpaceOnUse">
-            <rect x="21.07" y="18.35" width="752.42" height="1659.31" fill="#fff"/>
+            <rect x="21.07" y="18.35" width="752.42" height="1659.31" fill="#342E62"/>
             <path d="M22.43,94.79c0-51.3,29.91-75.08,74.09-75.08H697.37c45.2,0,74.76,26.5,74.76,74.74v1513.9a68,68,0,0,1-68,67.94H90.4a68,68,0,0,1-68-67.94Z"/>
         </mask>
         <mask id="mask-2" x="29.23" y="27.18" width="735.43" height="1632.81" maskUnits="userSpaceOnUse">
-            <rect x="29.23" y="27.18" width="735.43" height="1632.81" fill="#fff"/>
+            <rect x="29.23" y="27.18" width="735.43" height="1632.81" fill="#342E62"/>
             <path d="M29.91,95.81a68,68,0,0,1,68-67.95H696a68,68,0,0,1,68,68V1590.68a68,68,0,0,1-68,68H97.88a68,68,0,0,1-68-68Z"/>
         </mask>
         <path id="filterPath" d="M0.955,0.978H0.0374V0.0164H0.955Z"/>

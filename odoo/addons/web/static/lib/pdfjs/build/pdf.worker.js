@@ -69353,7 +69353,7 @@ class Linear extends _xfa_object.XFAObject {
   }
 
   [_xfa_object.$toStyle](startColor) {
-    startColor = startColor ? startColor[_xfa_object.$toStyle]() : "#FFFFFF";
+    startColor = startColor ? startColor[_xfa_object.$toStyle]() : "#342E62";
     const transf = this.type.replace(/([RBLT])/, " $1").toLowerCase();
     const endColor = this.color ? this.color[_xfa_object.$toStyle]() : "#000000";
     return `linear-gradient(${transf}, ${startColor}, ${endColor})`;
@@ -69941,7 +69941,7 @@ class Pattern extends _xfa_object.XFAObject {
   }
 
   [_xfa_object.$toStyle](startColor) {
-    startColor = startColor ? startColor[_xfa_object.$toStyle]() : "#FFFFFF";
+    startColor = startColor ? startColor[_xfa_object.$toStyle]() : "#342E62";
     const endColor = this.color ? this.color[_xfa_object.$toStyle]() : "#000000";
     const width = 5;
     const cmd = "repeating-linear-gradient";
@@ -70111,7 +70111,7 @@ class Radial extends _xfa_object.XFAObject {
   }
 
   [_xfa_object.$toStyle](startColor) {
-    startColor = startColor ? startColor[_xfa_object.$toStyle]() : "#FFFFFF";
+    startColor = startColor ? startColor[_xfa_object.$toStyle]() : "#342E62";
     const endColor = this.color ? this.color[_xfa_object.$toStyle]() : "#000000";
     const colors = this.type === "toEdge" ? `${startColor},${endColor}` : `${endColor},${startColor}`;
     return `radial-gradient(circle at center, ${colors})`;
@@ -70310,7 +70310,7 @@ class Solid extends _xfa_object.XFAObject {
   }
 
   [_xfa_object.$toStyle](startColor) {
-    return startColor ? startColor[_xfa_object.$toStyle]() : "#FFFFFF";
+    return startColor ? startColor[_xfa_object.$toStyle]() : "#342E62";
   }
 
 }

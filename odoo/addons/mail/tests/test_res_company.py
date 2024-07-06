@@ -42,11 +42,11 @@ class TestCompany(MailCommon):
         # reset document -> reset email
         new_company.write({
             'primary_color': '#EEEEEE',
-            'secondary_color': '#FFFFFF',
+            'secondary_color': '#342E62',
         })
         self.assertEqual(new_company.primary_color, '#EEEEEE')
-        self.assertEqual(new_company.secondary_color, '#FFFFFF')
+        self.assertEqual(new_company.secondary_color, '#342E62')
         self.assertEqual(new_company.email_primary_color, '#EEEEEE',
                          'Updating document colors changes email colors')
-        self.assertEqual(new_company.email_secondary_color, '#FFFFFF',
+        self.assertEqual(new_company.email_secondary_color, '#342E62',
                          'Updating document colors changes email colors')

@@ -26,57 +26,57 @@
           <circle cx="2" cy="2" r="2" fill="url(#linearGradient-1)" class="oval"/>
           <g class="rectangle" transform="translate(5 1)">
             <use fill="#000" filter="url(#filter-2)" xlink:href="#path-2"/>
-            <use fill="#FFF" fill-opacity=".78" xlink:href="#path-2"/>
+            <use fill="#342E62" fill-opacity=".78" xlink:href="#path-2"/>
           </g>
           <circle cx="2" cy="2" r="2" transform="translate(12)" fill="url(#linearGradient-1)" class="oval"/>
           <g class="rectangle" transform="translate(17 1)">
             <use fill="#000" filter="url(#filter-2)" xlink:href="#path-2"/>
-            <use fill="#FFF" fill-opacity=".78" xlink:href="#path-2"/>
+            <use fill="#342E62" fill-opacity=".78" xlink:href="#path-2"/>
           </g>
           <circle cx="2" cy="2" r="2" transform="translate(24)" fill="url(#linearGradient-1)" class="oval"/>
           <g class="rectangle" transform="translate(29 1)">
             <use fill="#000" filter="url(#filter-2)" xlink:href="#path-2"/>
-            <use fill="#FFF" fill-opacity=".78" xlink:href="#path-2"/>
+            <use fill="#342E62" fill-opacity=".78" xlink:href="#path-2"/>
           </g>
           <circle cx="2" cy="2" r="2" transform="translate(0 6)" fill="url(#linearGradient-1)" class="oval"/>
           <g class="rectangle" transform="translate(6 7)">
             <use fill="#000" filter="url(#filter-2)" xlink:href="#path-2"/>
-            <use fill="#FFF" fill-opacity=".78" xlink:href="#path-2"/>
+            <use fill="#342E62" fill-opacity=".78" xlink:href="#path-2"/>
           </g>
           <circle cx="2" cy="2" r="2" transform="translate(12 6)" fill="url(#linearGradient-1)" class="oval"/>
           <g class="rectangle" transform="translate(17 7)">
             <use fill="#000" filter="url(#filter-2)" xlink:href="#path-2"/>
-            <use fill="#FFF" fill-opacity=".78" xlink:href="#path-2"/>
+            <use fill="#342E62" fill-opacity=".78" xlink:href="#path-2"/>
           </g>
           <circle cx="2" cy="2" r="2" transform="translate(24 6)" fill="url(#linearGradient-1)" class="oval"/>
           <g class="rectangle" transform="translate(29 7)">
             <use fill="#000" filter="url(#filter-2)" xlink:href="#path-2"/>
-            <use fill="#FFF" fill-opacity=".78" xlink:href="#path-2"/>
+            <use fill="#342E62" fill-opacity=".78" xlink:href="#path-2"/>
           </g>
           <circle cx="2" cy="2" r="2" transform="translate(0 12)" fill="url(#linearGradient-1)"  class="oval"/>
           <g class="rectangle" transform="translate(6 13)">
             <use fill="#000" filter="url(#filter-2)" xlink:href="#path-2"/>
-            <use fill="#FFF" fill-opacity=".78" xlink:href="#path-2"/>
+            <use fill="#342E62" fill-opacity=".78" xlink:href="#path-2"/>
           </g>
           <circle cx="2" cy="2" r="2" transform="translate(12 12)" fill="url(#linearGradient-1)" class="oval"/>
           <g class="rectangle" transform="translate(17 13)">
             <use fill="#000" filter="url(#filter-2)" xlink:href="#path-2"/>
-            <use fill="#FFF" fill-opacity=".78" xlink:href="#path-2"/>
+            <use fill="#342E62" fill-opacity=".78" xlink:href="#path-2"/>
           </g>
           <circle cx="2" cy="2" r="2" transform="translate(24 12)" fill="url(#linearGradient-1)" class="oval"/>
           <g class="rectangle" transform="translate(29 13)">
             <use fill="#000" filter="url(#filter-2)" xlink:href="#path-2"/>
-            <use fill="#FFF" fill-opacity=".78" xlink:href="#path-2"/>
+            <use fill="#342E62" fill-opacity=".78" xlink:href="#path-2"/>
           </g>
         </g>
         <rect width="17" height="18" fill="#D8D8D8" class="rectangle" opacity=".219" transform="translate(36)"/>
         <g class="combined_shape" transform="translate(39 7)">
           <use fill="#000" filter="url(#filter-12)" xlink:href="#path-3"/>
-          <use fill="#FFF" fill-opacity=".348" xlink:href="#path-3"/>
+          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-3"/>
         </g>
         <g class="rectangle_copy" transform="translate(5)">
           <use fill="#000" filter="url(#filter-6)" xlink:href="#path-5"/>
-          <use fill="#FFF" fill-opacity=".78" xlink:href="#path-5"/>
+          <use fill="#342E62" fill-opacity=".78" xlink:href="#path-5"/>
         </g>
       </g>
     </g>

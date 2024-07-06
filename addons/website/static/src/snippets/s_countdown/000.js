@@ -346,7 +346,7 @@ const CountdownWidget = publicWidget.Widget.extend({
             ctx.fill();
 
             const gradient = ctx.createLinearGradient(0, this.width, 0, 0);
-            gradient.addColorStop(0, '#ffffff24');
+            gradient.addColorStop(0, '#342E6224');
             gradient.addColorStop(1, this.layoutBackgroundColor);
             ctx.fillStyle = gradient;
             ctx.rect(barWidth, barWidth, this.width - barWidth * 2, this.size - barWidth * 2);

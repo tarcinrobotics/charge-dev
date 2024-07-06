@@ -388,7 +388,7 @@ QUnit.module('convert_inline', {}, function () {
         convertInline.normalizeColors($editable);
         assert.strictEqual($editable.html(),
             `<div style="color: #000000;">` +
-                `<div class="a" style="padding: 0; background-color:#ffffff" width="100%">` +
+                `<div class="a" style="padding: 0; background-color:#342E62" width="100%">` +
                     `<p style="border: 1px #3264c8 solid; color: #238636;">Test</p>` +
                 `</div>` +
             `</div>`,

@@ -31,7 +31,7 @@ class Partner(models.Model):
             ('sequence', populate.randint(0, 100)),
             ('company_registry', populate.iterate([False, 'company_registry_{counter}'])),
             ('primary_color', populate.iterate([False, '', '#ff7755'])),
-            ('secondary_color', populate.iterate([False, '', '#ffff55'], seed='primary_color')),
+            ('secondary_color', populate.iterate([False, '', '#342E62f55'], seed='primary_color')),
             ('currency_id', populate.iterate(active_currencies)),
             ('name', populate.compute(get_name)),
         ]

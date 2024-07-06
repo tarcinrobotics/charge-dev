@@ -29,15 +29,15 @@
       <g class="group" transform="translate(20 24)">
         <g class="rectangle">
           <use fill="#000" filter="url(#filter-2)" xlink:href="#path-1"/>
-          <use fill="#FFF" fill-opacity=".95" xlink:href="#path-1"/>
+          <use fill="#342E62" fill-opacity=".95" xlink:href="#path-1"/>
         </g>
         <g class="mask">
           <use fill="#000" filter="url(#filter-4)" xlink:href="#path-3"/>
-          <use fill="#FFF" fill-opacity=".348" xlink:href="#path-3"/>
+          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-3"/>
         </g>
         <g class="mask">
           <use fill="#000" filter="url(#filter-6)" xlink:href="#path-5"/>
-          <use fill="#FFF" fill-opacity=".348" xlink:href="#path-5"/>
+          <use fill="#342E62" fill-opacity=".348" xlink:href="#path-5"/>
         </g>
         <path fill="url(#linearGradient-7)" d="M19 8.1c0 .074-.042.155-.125.242l-1.745 1.785.413 2.52a.799.799 0 0 1 .005.101c0 .07-.017.13-.05.179a.167.167 0 0 1-.147.073.376.376 0 0 1-.192-.06L15 11.75l-2.159 1.19a.395.395 0 0 1-.192.06c-.067 0-.118-.024-.151-.073a.307.307 0 0 1-.05-.179c0-.02.002-.054.009-.1l.413-2.521-1.75-1.785c-.08-.09-.12-.171-.12-.242 0-.124.09-.201.27-.232l2.413-.368 1.081-2.293c.061-.138.14-.207.236-.207.096 0 .175.069.236.207L16.317 7.5l2.414.368c.18.03.269.108.269.232z" class="star_copy"/>
         <path fill="url(#linearGradient-7)" d="M8 8.1c0 .074-.042.155-.125.242L6.13 10.127l.413 2.52a.799.799 0 0 1 .005.101c0 .07-.017.13-.05.179A.167.167 0 0 1 6.35 13a.376.376 0 0 1-.192-.06L4 11.75l-2.159 1.19a.395.395 0 0 1-.192.06c-.067 0-.118-.024-.151-.073a.307.307 0 0 1-.05-.179c0-.02.002-.054.009-.1l.413-2.521L.12 8.342C.04 8.252 0 8.171 0 8.1c0-.124.09-.201.27-.232L2.682 7.5l1.081-2.293C3.825 5.069 3.904 5 4 5s.175.069.236.207L5.317 7.5l2.414.368c.18.03.269.108.269.232z" class="star"/>
