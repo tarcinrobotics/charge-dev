@@ -1,8 +1,8 @@
 {
     'name': 'MuK Backend Theme', 
-    'summary': 'Odoo Community Backend Theme',
+    'summary': 'Backend Theme',
     'description': '''
-        This module offers a mobile compatible design for Odoo Community. 
+        This module offers a mobile compatible design for Users. 
         Furthermore it allows the user to define some design preferences.
     ''',
     'version': '17.0.1.2.1',

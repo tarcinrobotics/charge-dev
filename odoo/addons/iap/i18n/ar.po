@@ -174,7 +174,7 @@ msgstr "الاسم"
 
 #. module: iap
 #: model_terms:ir.ui.view,arch_db:iap.res_config_settings_view_form
-msgid "Odoo IAP"
+msgid "Charge IAP"
 msgstr "IAP أودو "
 
 #. module: iap
